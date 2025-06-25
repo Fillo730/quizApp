@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "correctAnswer": "H2O",
+    "incorrectAnswers": ["O2", "CO2", "H2"]
+  },
+  {
+    "question": "What planet is known as the Red Planet?",
+    "correctAnswer": "Mars",
+    "incorrectAnswers": ["Venus", "Jupiter", "Mercury"]
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "correctAnswer": "206",
+    "incorrectAnswers": ["201", "210", "220"]
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "correctAnswer": "Carbon dioxide",
+    "incorrectAnswers": ["Oxygen", "Nitrogen", "Hydrogen"]
+  },
+  {
+    "question": "What part of the cell contains DNA?",
+    "correctAnswer": "Nucleus",
+    "incorrectAnswers": ["Mitochondria", "Cytoplasm", "Cell membrane"]
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "correctAnswer": "100°C",
+    "incorrectAnswers": ["90°C", "80°C", "120°C"]
+  }
+]

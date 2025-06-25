@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is known as the King of Pop?",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": ["Elvis Presley", "Prince", "Justin Bieber"]
+  },
+  {
+    "question": "Which British band released the album 'A Night at the Opera'?",
+    "correctAnswer": "Queen",
+    "incorrectAnswers": ["The Beatles", "Pink Floyd", "The Rolling Stones"]
+  },
+  {
+    "question": "What is the name of the music notation symbol that looks like a hashtag (#)?",
+    "correctAnswer": "Sharp",
+    "incorrectAnswers": ["Flat", "Natural", "Crescendo"]
+  },
+  {
+    "question": "Who composed the Four Seasons?",
+    "correctAnswer": "Antonio Vivaldi",
+    "incorrectAnswers": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart"]
+  },
+  {
+    "question": "Which singer is famous for the song 'Rolling in the Deep'?",
+    "correctAnswer": "Adele",
+    "incorrectAnswers": ["Taylor Swift", "Beyoncé", "Lady Gaga"]
+  },
+  {
+    "question": "What instrument has 88 keys?",
+    "correctAnswer": "Piano",
+    "incorrectAnswers": ["Guitar", "Organ", "Xylophone"]
+  }
+]

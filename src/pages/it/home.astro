@@ -1,0 +1,43 @@
+---
+//Layouts
+import HtmlLayout from "../../layouts/HtmlLayout/HtmlLayout.astro";
+import PagesLayout from "../../layouts/PagesLayout/PagesLayout.astro";
+
+//Objects
+import { CategoriesPicturesGallery } from "../../components/ComponentsDepencencies";
+
+//i18n
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+//CSSFiles
+import "../../styles/global.css";
+---
+
+<HtmlLayout lang={lang} title={t("Home.TitlePage")}>
+    <PagesLayout>
+        <div class="display-vertical">
+            <div class="display-vertical">
+                <h1 class="title light-color">{t("Home.WelcomeTitle")}</h1>
+                <p class="text custom-max-width">
+                    {t("Home.WelcomeText")}
+                </p>
+            </div>
+
+            <div class="display-vertical">
+                <h1 class="title light-color">{t("Home.CategoriesTitle")}</h1>
+                <CategoriesPicturesGallery url={Astro.url}/>
+            </div>
+
+            <div class="display-vertical">
+                <h1 class="title light-color">{t("Home.LeaderboardTitle")}</h1>
+                <p class="text custom-max-width">
+                    {t("Home.LeaderboardText")}
+                </p>
+            </div>
+
+        </div>
+    </PagesLayout>
+</HtmlLayout>

@@ -1,0 +1,31 @@
+---
+//Compoenents
+import LanguagePicker from '../languagePicker/LanguagePicker';
+
+//CSSFiles
+import './Header.css';
+
+//i18n
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<div class="header">
+    <ul class="header-list">
+        <nav class="header-list-nav">
+            <li class="header-list-element"><a class="header-list-element-link" href={`/${lang}/${t("Path.Home")}`}>{t("Header.HomeLink")}</a></li>
+            <li class="header-list-element"><a class="header-list-element-link" href={`/${lang}/${t("Path.Play")}`}>{t("Header.PlayLink")}</a></li>
+            <li class="header-list-element"><a class="header-list-element-link" href={`/${lang}/${t("Path.About")}`}>{t("Header.AboutLink")}</a></li>
+        </nav>
+    </ul>
+    
+    <div class="header-button-container">
+        <div class="display-horizontal">
+            <a href={`/${lang}/${t("Path.Login")}`}><button class="header-button">{t("Header.LoginText")}</button></a>
+            <a href={`/${lang}/${t("Path.Sign-up")}`}><button class="header-button">{t("Header.SignUpText")}</button></a>
+        </div>
+        <LanguagePicker url={Astro.url} client:only="react"/>
+    </div>
+</div>

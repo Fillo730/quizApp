@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who painted the Mona Lisa?",
+    "correctAnswer": "Leonardo da Vinci",
+    "incorrectAnswers": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"]
+  },
+  {
+    "question": "Which author wrote '1984'?",
+    "correctAnswer": "George Orwell",
+    "incorrectAnswers": ["Aldous Huxley", "Ray Bradbury", "J.D. Salinger"]
+  },
+  {
+    "question": "In which country was the playwright William Shakespeare born?",
+    "correctAnswer": "England",
+    "incorrectAnswers": ["France", "Italy", "Germany"]
+  },
+  {
+    "question": "What artistic style is Salvador Dalí known for?",
+    "correctAnswer": "Surrealism",
+    "incorrectAnswers": ["Impressionism", "Cubism", "Realism"]
+  },
+  {
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "correctAnswer": "Moby-Dick",
+    "incorrectAnswers": ["The Old Man and the Sea", "The Great Gatsby", "Heart of Darkness"]
+  },
+  {
+    "question": "What is the name of the girl who falls down a rabbit hole in a famous Lewis Carroll book?",
+    "correctAnswer": "Alice",
+    "incorrectAnswers": ["Dorothy", "Lucy", "Wendy"]
+  }
+]

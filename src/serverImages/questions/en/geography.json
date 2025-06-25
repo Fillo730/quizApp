@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the longest river in the world?",
+    "correctAnswer": "Nile",
+    "incorrectAnswers": ["Amazon", "Yangtze", "Mississippi"]
+  },
+  {
+    "question": "Which country has the largest population in the world?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["India", "United States", "Indonesia"]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "correctAnswer": "Canberra",
+    "incorrectAnswers": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": ["Asia", "South America", "Australia"]
+  },
+  {
+    "question": "Mount Everest is located on the border of which two countries?",
+    "correctAnswer": "Nepal and China",
+    "incorrectAnswers": ["India and China", "Nepal and India", "China and Bhutan"]
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "correctAnswer": "Pacific Ocean",
+    "incorrectAnswers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  }
+]

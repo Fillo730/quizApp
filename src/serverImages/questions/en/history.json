@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who was the first President of the United States?",
+    "correctAnswer": "George Washington",
+    "incorrectAnswers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"]
+  },
+  {
+    "question": "In which year did World War II end?",
+    "correctAnswer": "1945",
+    "incorrectAnswers": ["1940", "1939", "1950"]
+  },
+  {
+    "question": "What wall fell in 1989, symbolizing the end of the Cold War?",
+    "correctAnswer": "The Berlin Wall",
+    "incorrectAnswers": ["The Great Wall of China", "Hadrian’s Wall", "The Iron Curtain"]
+  },
+  {
+    "question": "Who was the ancient Egyptian queen famous for her relationships with Julius Caesar and Mark Antony?",
+    "correctAnswer": "Cleopatra",
+    "incorrectAnswers": ["Nefertiti", "Hatshepsut", "Isis"]
+  },
+  {
+    "question": "Which civilization built Machu Picchu?",
+    "correctAnswer": "The Inca",
+    "incorrectAnswers": ["The Maya", "The Aztec", "The Olmec"]
+  },
+  {
+    "question": "What ship sank in 1912 after hitting an iceberg?",
+    "correctAnswer": "Titanic",
+    "incorrectAnswers": ["Lusitania", "Britannic", "Endeavour"]
+  }
+]

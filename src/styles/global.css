@@ -1,0 +1,119 @@
+.light-color {
+    color: #00bcd4 !important;
+}
+
+.warning-color {
+    color: #ff9800;
+}
+
+.title {
+    font-size: 3rem;
+    letter-spacing: 1px;
+    margin: 0.5rem 0rem;
+}
+
+.medium-title {
+    font-size: 2rem;
+    letter-spacing: 1px;
+    margin: 0.5rem 0rem;
+}
+
+.text {
+    font-size: 1.2rem;
+    color: #cccccc;
+    line-height: 1.8;
+    margin-bottom: 0px;
+}
+
+.big-text {
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color: #cccccc;
+}
+
+.normal-max-width {
+    max-width: 1200px;
+}
+
+.custom-max-width {
+    max-width: 950px;
+}
+
+.display-vertical {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.custom-gap {
+    gap: 4rem;
+}
+
+.display-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.display-center-vertical-nogap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.difficulty-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;    
+    gap: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+    .display-horizontal {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+    }
+}
+
+.input-field {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    background-color: #1e1e1e;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.label-width {
+    width: 50%;
+}
+
+.form-modal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.margin-top {
+    margin-top: 1rem;
+}
+
+.margin-bottom {
+    margin-bottom: 1rem;
+}

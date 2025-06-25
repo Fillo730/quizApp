@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which country is famous for sushi?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": ["China", "Thailand", "South Korea"]
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "correctAnswer": "Avocado",
+    "incorrectAnswers": ["Tomato", "Cucumber", "Zucchini"]
+  },
+  {
+    "question": "Which soft drink was originally created as a medicine?",
+    "correctAnswer": "Coca-Cola",
+    "incorrectAnswers": ["Pepsi", "Fanta", "Dr Pepper"]
+  },
+  {
+    "question": "What type of pasta is shaped like small rice grains?",
+    "correctAnswer": "Orzo",
+    "incorrectAnswers": ["Fusilli", "Penne", "Rigatoni"]
+  },
+  {
+    "question": "Which fruit is dried to make prunes?",
+    "correctAnswer": "Plum",
+    "incorrectAnswers": ["Date", "Fig", "Grape"]
+  },
+  {
+    "question": "Which spice is derived from dried flower buds?",
+    "correctAnswer": "Cloves",
+    "incorrectAnswers": ["Cinnamon", "Nutmeg", "Peppercorn"]
+  }
+]

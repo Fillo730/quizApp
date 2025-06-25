@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which celebration marks the beginning of a new year in the Chinese calendar?",
+    "correctAnswer": "Chinese New Year",
+    "incorrectAnswers": ["Mid-Autumn Festival", "Golden Week", "Lantern Festival"]
+  },
+  {
+    "question": "What is the traditional dress worn by men in Scotland?",
+    "correctAnswer": "Kilt",
+    "incorrectAnswers": ["Kimono", "Sari", "Poncho"]
+  },
+  {
+    "question": "Which religion considers the Ganges River sacred?",
+    "correctAnswer": "Hinduism",
+    "incorrectAnswers": ["Islam", "Buddhism", "Christianity"]
+  },
+  {
+    "question": "What is the name of the Mexican holiday that honors deceased loved ones?",
+    "correctAnswer": "Day of the Dead",
+    "incorrectAnswers": ["Cinco de Mayo", "All Saints' Day", "Los Reyes"]
+  },
+  {
+    "question": "In Japan, what is the art of folding paper into shapes called?",
+    "correctAnswer": "Origami",
+    "incorrectAnswers": ["Ikebana", "Shodo", "Haiku"]
+  },
+  {
+    "question": "Which language is the most spoken in the world by number of native speakers?",
+    "correctAnswer": "Mandarin Chinese",
+    "incorrectAnswers": ["English", "Hindi", "Spanish"]
+  }
+]

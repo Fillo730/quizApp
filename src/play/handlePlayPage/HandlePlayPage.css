@@ -1,0 +1,27 @@
+.category-select,
+.selectNumberOfQuestions-input {
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: #1e1e1e;
+  color: #fff;
+  box-sizing: border-box;
+  margin-top: 1rem;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-select:focus,
+.selectNumberOfQuestions-input:focus {
+  outline: none;
+  border-color: #00bcd4;
+  box-shadow: 0 0 0 3px rgba(0, 188, 212, 0.2);
+}
+
+.category-select option {
+  background-color: #1e1e1e;
+  color: #fff;
+}

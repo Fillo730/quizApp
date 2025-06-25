@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which movie features the quote 'I'll be back'?",
+    "correctAnswer": "The Terminator",
+    "incorrectAnswers": ["RoboCop", "Predator", "Die Hard"]
+  },
+  {
+    "question": "Who played Jack in the movie 'Titanic'?",
+    "correctAnswer": "Leonardo DiCaprio",
+    "incorrectAnswers": ["Brad Pitt", "Johnny Depp", "Tom Cruise"]
+  },
+  {
+    "question": "Which TV show is set in the fictional town of Hawkins, Indiana?",
+    "correctAnswer": "Stranger Things",
+    "incorrectAnswers": ["The X-Files", "Dark", "The Walking Dead"]
+  },
+  {
+    "question": "What is the name of the coffee shop in the sitcom 'Friends'?",
+    "correctAnswer": "Central Perk",
+    "incorrectAnswers": ["Coffee Corner", "The Daily Grind", "Manhattan Brews"]
+  },
+  {
+    "question": "Which animated movie features a snowman named Olaf?",
+    "correctAnswer": "Frozen",
+    "incorrectAnswers": ["Moana", "Tangled", "Brave"]
+  },
+  {
+    "question": "Who directed the film 'Inception'?",
+    "correctAnswer": "Christopher Nolan",
+    "incorrectAnswers": ["Steven Spielberg", "James Cameron", "Quentin Tarantino"]
+  }
+]

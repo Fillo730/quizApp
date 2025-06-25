@@ -1,0 +1,15 @@
+.language-picker {
+  background-color: #1e1e1e;
+  border: 1px solid #00bcd4;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  outline: none;
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+
+.language-picker option {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital city of Canada?",
+    "correctAnswer": "Ottawa",
+    "incorrectAnswers": ["Toronto", "Vancouver", "Montreal"]
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "correctAnswer": "7",
+    "incorrectAnswers": ["5", "6", "8"]
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "correctAnswer": "Vatican City",
+    "incorrectAnswers": ["Monaco", "Nauru", "San Marino"]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "correctAnswer": "Mount Everest",
+    "incorrectAnswers": ["K2", "Kangchenjunga", "Lhotse"]
+  },
+  {
+    "question": "Who invented the telephone?",
+    "correctAnswer": "Alexander Graham Bell",
+    "incorrectAnswers": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"]
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "correctAnswer": "Mercury",
+    "incorrectAnswers": ["Venus", "Earth", "Mars"]
+  }
+]

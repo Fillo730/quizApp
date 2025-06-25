@@ -1,0 +1,21 @@
+---
+//Components
+import { BackToTopButton } from '../../../components/ComponentsDepencencies';
+
+//CSSFiles
+import './Footer.css'
+
+//i18n
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<footer>
+    <div class="footer-container">
+        <p>{t("Footer.DevelopedLabel")}</p>
+        <BackToTopButton client:load/>
+        <p>{t("Footer.DevelopedData")}</p>
+    </div>
+</footer>

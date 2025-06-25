@@ -1,0 +1,20 @@
+---
+//Layouts
+import HtmlLayout from "../../layouts/HtmlLayout/HtmlLayout.astro";
+import PagesLayout from "../../layouts/PagesLayout/PagesLayout.astro";
+
+//Components
+import HandlePlayPage from "../../play/handlePlayPage/HandlePlayPage"
+
+//i18n
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<HtmlLayout lang={lang} title={t("Play.TitlePage")}>
+    <PagesLayout>
+        <HandlePlayPage url={Astro.url} client:only="React"/>
+    </PagesLayout>
+</HtmlLayout>

@@ -1,0 +1,6 @@
+.category-image {
+    width: 50%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
