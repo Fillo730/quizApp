@@ -5,10 +5,13 @@ import axios from 'axios';
 //Components
 import QuestionsList from '../questionsList/QuestionsList';
 import { CustomButton } from '../../components/ComponentsDepencencies';
+import { getTranslatedCategories } from '../../CategoriesImages/Categories';
+
+//Contants
+import { SERVER_IMAGES_URL } from '../../utils/backendEndpoint';
 
 //i18n
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
-import { getTranslatedCategories } from '../../CategoriesImages/Categories';
 
 //CSSFiles
 import './HandlePlayPage.css';
@@ -35,7 +38,7 @@ function HandlePlayPage({ url }) {
 
   const fetchData = async () => {
     try {
-      const response = await axios.get('http://localhost:3000/api/questions', {
+      const response = await axios.get(`${SERVER_IMAGES_URL}api/questions`, {
         params: {
           lang,
           categoryFileName,

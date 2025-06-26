@@ -2,12 +2,16 @@
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
+const dotenv = require('dotenv');
 
 //Utils
 const { generateRandomInteger } = require('./utils')
 
 const app = express();
+dotenv.config();
 app.use(cors());
+
+const PORT = process.env.PORT;
 
 app.get("/api/questions", (req, res) => {
     const lang = req.query.lang;
@@ -46,6 +50,6 @@ app.get("/api/questions", (req, res) => {
     });
 });
 
-app.listen(3000, () => {
-    console.log("Server is running on port http://localhost/3000");
+app.listen(PORT, () => {
+    console.log(`Server is running on port http://localhost:${PORT}`);
 });

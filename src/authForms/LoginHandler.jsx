@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { User, Lock, Loader} from 'lucide-react';
 
 //Constants
-import BACKEND_URL from '../utils/backendEndpoint';
+import {BACKEND_URL} from '../utils/backendEndpoint';
 
 //CSSFiles
 import './AuthForm.css';
@@ -29,6 +29,8 @@ function LoginHandler({url}) {
     }
 
     setIsLoading(true);
+    console.log(username);
+    console.log(password);
     const res = await fetch(`${BACKEND_URL}/login`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },

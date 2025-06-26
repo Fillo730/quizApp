@@ -6,7 +6,7 @@ import { User, Lock, BadgePlus, UserPlus, Loader} from 'lucide-react';
 import { checkPassword, checkUsername, checkName} from '../utils/checkPasswordUsername';
 
 //Constants
-import BACKEND_URL from '../utils/backendEndpoint';
+import {BACKEND_URL} from '../utils/backendEndpoint';
 
 //CSSFiles
 import './AuthForm.css';
@@ -17,8 +17,8 @@ import { getLangFromUrl, useTranslations } from '../i18n/utils';
 function SignUpHandler({url}) {
   const [form, setForm] = useState({
     username: '',
-    firstName: '',
-    lastName: '',
+    firstname: '',
+    lastname: '',
     password: '',
     confirmPassword: '',
   });
@@ -41,10 +41,10 @@ function SignUpHandler({url}) {
       return;
     }
 
-    const firstNameCheck = checkName(form.firstName);
-    const lastNameCheck = checkName(form.lastName);
-    if(!firstNameCheck.valid || !lastNameCheck.valid) {
-      setError(firstNameCheck.message || lastNameCheck.message);
+    const firstnameCheck = checkName(form.firstname);
+    const lastnameCheck = checkName(form.lastname);
+    if(!firstnameCheck.valid || !lastnameCheck.valid) {
+      setError(firstnameCheck.message || lastnameCheck.message);
       return;
     }
 
@@ -107,28 +107,28 @@ function SignUpHandler({url}) {
           </div>
 
           <div className="form-group">
-            <label htmlFor="firstName">{t("SignUp.Firstname")}</label>
+            <label htmlFor="firstname">{t("SignUp.Firstname")}</label>
             <div className="input-wrapper">
               <UserPlus className="input-icon" />
               <input
-                id="firstName"
-                name="firstName"
+                id="firstname"
+                name="firstname"
                 type="text"
-                value={form.firstName}
+                value={form.firstname}
                 onChange={handleChange}
               />
             </div>
           </div>
 
           <div className="form-group">
-            <label htmlFor="lastName">{t("SignUp.Lastname")}</label>
+            <label htmlFor="lastname">{t("SignUp.Lastname")}</label>
             <div className="input-wrapper">
               <BadgePlus className="input-icon" />
               <input
-                id="lastName"
-                name="lastName"
+                id="lastname"
+                name="lastname"
                 type="text"
-                value={form.lastName}
+                value={form.lastname}
                 onChange={handleChange}
               />
             </div>
