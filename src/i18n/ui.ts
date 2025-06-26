@@ -107,6 +107,26 @@ export const ui = {
     "Play.YourAnswerLabel": "Your Answer",
     "Play.CorrectAnswerLabel": "Correct Answer",
 
+    "Login.TitlePage": "Login | QuizApp",
+    "Login.Title": "Login",
+    "Login.Username": "Username",
+    "Login.Password": "Password",
+    "Login.LoginButton": "Login",
+    "Login.GoSignUpText": "Sign up",
+    "Login.GoBack": "Go Back",
+
+    "SignUp.TitlePage": "Sign Up | QuizApp",
+    "SignUp.ErrorPasswordNoMatch": "Error...Passwords do not match.",
+    "SignUp.RegistrationFailed": "Registration failed. Please try again later.",
+    "SignUp.SignUpTitle": "Sign Up",
+    "SignUp.Username": "Username",
+    "SignUp.Firstname": "First Name",
+    "SignUp.Lastname": "Last Name",
+    "SignUp.Password": "Password",
+    "SignUp.ConfirmPassword": "Confirm Password",
+    "SignUp.SignUpButton": "Sign Up",
+    "SignUp.GoLoginText": "Login",
+    "SignUp.GoBack": "Go Back",
   },
 
   it: {

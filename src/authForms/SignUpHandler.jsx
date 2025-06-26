@@ -89,7 +89,7 @@ function SignUpHandler({url}) {
   return (
     <div className="auth-container">
       <div className="auth-card">
-        <h2 className="auth-title light-color">{t("SignUp.SignUp")}</h2>
+        <h2 className="auth-title light-color">{t("SignUp.SignUpTitle")}</h2>
         {error && <div className="auth-error">{error}</div>}
         <form onSubmit={register} className="auth-form">
           <div className="form-group">
@@ -163,12 +163,12 @@ function SignUpHandler({url}) {
           </div>
 
           <button type="submit" className="primary-button" disabled={isLoading}>
-            {isLoading ? <Loader/> : t("SignUp.SignUp")}
+            {isLoading ? <Loader/> : t("SignUp.SignUpButton")}
           </button>
         </form>
 
         <div className="auth-actions">
-          <button onClick={goToLogin} className="secondary-button">{t("SignUp.Login")}</button>
+          <button onClick={goToLogin} className="secondary-button">{t("SignUp.GoLoginText")}</button>
           <button onClick={goBack} className="secondary-button">{t("SignUp.GoBack")}</button>
         </div>
       </div>

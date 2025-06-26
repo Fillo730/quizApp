@@ -87,12 +87,12 @@ function LoginHandler({url}) {
             </div>
           </div>
           <button type="submit" className="primary-button" disabled={isLoading}>
-            {isLoading ? <Loader/> : t("Login.Login")}
+            {isLoading ? <Loader/> : t("Login.LoginButton")}
           </button>
         </form>
 
         <div className="auth-actions">
-          <button onClick={goToRegister} className="secondary-button">{t("Login.Sign-up")}</button>
+          <button onClick={goToRegister} className="secondary-button">{t("Login.GoSignUpText")}</button>
           <button onClick={goBack} className="secondary-button">{t("Login.GoBack")}</button>
         </div>
       </div>

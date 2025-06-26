@@ -1,6 +1,7 @@
 ---
-//Compoenents
+//Components
 import LanguagePicker from '../languagePicker/LanguagePicker';
+import { ProfileButton } from '../../../components/ComponentsDepencencies';
 
 //CSSFiles
 import './Header.css';
@@ -20,7 +21,7 @@ const t = useTranslations(lang);
             <li class="header-list-element"><a class="header-list-element-link" href={`/${lang}/${t("Path.About")}`}>{t("Header.AboutLink")}</a></li>
         </nav>
     </ul>
-    
+    <ProfileButton url={Astro.url} client:only="react"/>
     <div class="header-button-container">
         <div class="display-horizontal">
             <a href={`/${lang}/${t("Path.Login")}`}><button class="header-button">{t("Header.LoginText")}</button></a>
