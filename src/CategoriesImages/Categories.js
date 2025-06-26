@@ -6,6 +6,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.Music.Description"),
       alt: t("Categories.Music.Alt"),
       fileNameBackEnd: t("Categories.Music.FileNameBackEnd"),
+      backendsync: "Music",
       number: 1,
     },
     {
@@ -14,6 +15,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.SportAndLeisure.Description"),
       alt: t("Categories.SportAndLeisure.Alt"),
       fileNameBackEnd: t("Categories.SportAndLeisure.FileNameBackEnd"),
+      backendsync: "SportAndLeisure",
       number: 2,
     },
     {
@@ -22,6 +24,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.FilmAndTV.Description"),
       alt: t("Categories.FilmAndTV.Alt"),
       fileNameBackEnd: t("Categories.FilmAndTV.FileNameBackEnd"),
+      backendsync: "FilmAndTV",
       number: 3,
     },
     {
@@ -30,6 +33,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.ArtsAndLiterature.Description"),
       alt: t("Categories.ArtsAndLiterature.Alt"),
       fileNameBackEnd: t("Categories.ArtsAndLiterature.FileNameBackEnd"),
+      backendsync: "ArtsAndLiterature",
       number: 4,
     },
     {
@@ -38,6 +42,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.History.Description"),
       alt: t("Categories.History.Alt"),
       fileNameBackEnd: t("Categories.History.FileNameBackEnd"),
+      backendsync: "History",
       number: 5,
     },
     {
@@ -46,6 +51,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.SocietyAndCulture.Description"),
       alt: t("Categories.SocietyAndCulture.Alt"),
       fileNameBackEnd: t("Categories.SocietyAndCulture.FileNameBackEnd"),
+      backendsync: "SocietyAndCulture",
       number: 6,
     },
     {
@@ -54,6 +60,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.Science.Description"),
       alt: t("Categories.Science.Alt"),
       fileNameBackEnd: t("Categories.Science.FileNameBackEnd"),
+      backendsync: "Science",
       number: 7,
     },
     {
@@ -62,6 +69,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.Geography.Description"),
       alt: t("Categories.Geography.Alt"),
       fileNameBackEnd: t("Categories.Geography.FileNameBackEnd"),
+      backendsync: "Geography",
       number: 8,
     },
     {
@@ -70,6 +78,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.FoodAndDrink.Description"),
       alt: t("Categories.FoodAndDrink.Alt"),
       fileNameBackEnd: t("Categories.FoodAndDrink.FileNameBackEnd"),
+      backendsync: "FoodAndDrink",
       number: 9,
     },
     {
@@ -78,6 +87,7 @@ export function getTranslatedCategories(t) {
       description: t("Categories.GeneralKnowledge.Description"),
       alt: t("Categories.GeneralKnowledge.Alt"),
       fileNameBackEnd: t("Categories.GeneralKnowledge.FileNameBackEnd"),
+      backendsync: "GeneralKnowledge",
       number: 10,
     },
   ];
