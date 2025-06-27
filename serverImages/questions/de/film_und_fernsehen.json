@@ -1,242 +1,242 @@
 [
   {
-    "question": "Who directed the movie 'Inception'?",
+    "question": "Wer hat den Film 'Inception' Regie geführt?",
     "correctAnswer": "Christopher Nolan",
     "incorrectAnswers": ["Steven Spielberg", "James Cameron", "Quentin Tarantino"]
   },
   {
-    "question": "Which TV series is set in the fictional land of Westeros?",
+    "question": "Welche TV-Serie spielt in der fiktiven Welt von Westeros?",
     "correctAnswer": "Game of Thrones",
     "incorrectAnswers": ["The Witcher", "Vikings", "The Crown"]
   },
   {
-    "question": "Which actor played Jack Dawson in 'Titanic'?",
+    "question": "Welcher Schauspieler spielte Jack Dawson in 'Titanic'?",
     "correctAnswer": "Leonardo DiCaprio",
     "incorrectAnswers": ["Brad Pitt", "Tom Cruise", "Johnny Depp"]
   },
   {
-    "question": "What is the name of the fictional town in the TV show 'Stranger Things'?",
+    "question": "Wie heißt die fiktive Stadt in der TV-Serie 'Stranger Things'?",
     "correctAnswer": "Hawkins",
     "incorrectAnswers": ["Riverdale", "Sunnydale", "Stars Hollow"]
   },
   {
-    "question": "Who starred as the lead role in the movie 'Forrest Gump'?",
+    "question": "Wer spielte die Hauptrolle im Film 'Forrest Gump'?",
     "correctAnswer": "Tom Hanks",
     "incorrectAnswers": ["Robin Williams", "Kevin Spacey", "Dustin Hoffman"]
   },
   {
-    "question": "Which film series features a character named Indiana Jones?",
+    "question": "Welche Filmreihe hat eine Figur namens Indiana Jones?",
     "correctAnswer": "Indiana Jones",
     "incorrectAnswers": ["James Bond", "Star Wars", "Jurassic Park"]
   },
   {
-    "question": "Which TV show features a chemistry teacher turned methamphetamine manufacturer?",
+    "question": "Welche TV-Serie erzählt die Geschichte eines Chemielehrers, der zum Methamphetamin-Hersteller wird?",
     "correctAnswer": "Breaking Bad",
     "incorrectAnswers": ["Better Call Saul", "The Wire", "Narcos"]
   },
   {
-    "question": "Who directed the 'Lord of the Rings' film trilogy?",
+    "question": "Wer hat die Filmtrilogie 'Der Herr der Ringe' Regie geführt?",
     "correctAnswer": "Peter Jackson",
     "incorrectAnswers": ["Steven Spielberg", "James Cameron", "Ridley Scott"]
   },
   {
-    "question": "Which actress played Hermione Granger in the 'Harry Potter' films?",
+    "question": "Welche Schauspielerin spielte Hermine Granger in den 'Harry Potter'-Filmen?",
     "correctAnswer": "Emma Watson",
     "incorrectAnswers": ["Natalie Portman", "Daniel Radcliffe", "Bonnie Wright"]
   },
   {
-    "question": "In which movie does the character 'Buzz Lightyear' appear?",
+    "question": "In welchem Film erscheint die Figur 'Buzz Lightyear'?",
     "correctAnswer": "Toy Story",
-    "incorrectAnswers": ["Finding Nemo", "Monsters, Inc.", "Shrek"]
+    "incorrectAnswers": ["Findet Nemo", "Die Monster AG", "Shrek"]
   },
   {
-    "question": "Who is the creator of the TV series 'The Simpsons'?",
+    "question": "Wer ist der Schöpfer der TV-Serie 'Die Simpsons'?",
     "correctAnswer": "Matt Groening",
     "incorrectAnswers": ["Seth MacFarlane", "Trey Parker", "Mike Judge"]
   },
   {
-    "question": "Which film won the Academy Award for Best Picture in 1994?",
+    "question": "Welcher Film gewann 1994 den Oscar für den Besten Film?",
     "correctAnswer": "Forrest Gump",
-    "incorrectAnswers": ["Pulp Fiction", "The Shawshank Redemption", "The Lion King"]
+    "incorrectAnswers": ["Pulp Fiction", "Die Verurteilten", "Der König der Löwen"]
   },
   {
-    "question": "Which actor portrayed the Joker in 'The Dark Knight'?",
+    "question": "Welcher Schauspieler spielte den Joker in 'The Dark Knight'?",
     "correctAnswer": "Heath Ledger",
     "incorrectAnswers": ["Joaquin Phoenix", "Jack Nicholson", "Jared Leto"]
   },
   {
-    "question": "In which TV series does the character Don Draper appear?",
+    "question": "In welcher TV-Serie erscheint die Figur Don Draper?",
     "correctAnswer": "Mad Men",
     "incorrectAnswers": ["Suits", "The Office", "Breaking Bad"]
   },
   {
-    "question": "Who directed the 1997 film 'Titanic'?",
+    "question": "Wer führte Regie beim Film 'Titanic' von 1997?",
     "correctAnswer": "James Cameron",
     "incorrectAnswers": ["Steven Spielberg", "Ridley Scott", "Martin Scorsese"]
   },
   {
-    "question": "Which movie features the quote 'Here's looking at you, kid'?",
+    "question": "In welchem Film kommt das Zitat 'Here's looking at you, kid' vor?",
     "correctAnswer": "Casablanca",
-    "incorrectAnswers": ["Gone with the Wind", "Citizen Kane", "The Godfather"]
+    "incorrectAnswers": ["Vom Winde verweht", "Citizen Kane", "Der Pate"]
   },
   {
-    "question": "Who played the character Tony Stark in the Marvel Cinematic Universe?",
+    "question": "Wer spielte Tony Stark im Marvel Cinematic Universe?",
     "correctAnswer": "Robert Downey Jr.",
     "incorrectAnswers": ["Chris Evans", "Chris Hemsworth", "Mark Ruffalo"]
   },
   {
-    "question": "What is the name of the spaceship in the movie 'Alien'?",
+    "question": "Wie heißt das Raumschiff im Film 'Alien'?",
     "correctAnswer": "Nostromo",
     "incorrectAnswers": ["Serenity", "Enterprise", "Galactica"]
   },
   {
-    "question": "Which TV series features the characters Walter White and Jesse Pinkman?",
+    "question": "Welche TV-Serie zeigt die Figuren Walter White und Jesse Pinkman?",
     "correctAnswer": "Breaking Bad",
     "incorrectAnswers": ["Better Call Saul", "Ozark", "The Wire"]
   },
   {
-    "question": "Who played the lead role in the movie 'The Matrix'?",
+    "question": "Wer spielte die Hauptrolle im Film 'The Matrix'?",
     "correctAnswer": "Keanu Reeves",
     "incorrectAnswers": ["Laurence Fishburne", "Will Smith", "Tom Cruise"]
   },
   {
-    "question": "Which actress starred in the movie 'La La Land'?",
+    "question": "Welche Schauspielerin spielte in 'La La Land'?",
     "correctAnswer": "Emma Stone",
     "incorrectAnswers": ["Jennifer Lawrence", "Natalie Portman", "Anne Hathaway"]
   },
   {
-    "question": "Which film features a character named 'Forrest Gump'?",
+    "question": "In welchem Film erscheint die Figur 'Forrest Gump'?",
     "correctAnswer": "Forrest Gump",
     "incorrectAnswers": ["Cast Away", "The Green Mile", "Saving Private Ryan"]
   },
   {
-    "question": "What is the name of the fictional continent where 'Game of Thrones' takes place?",
+    "question": "Wie heißt der fiktive Kontinent, auf dem 'Game of Thrones' spielt?",
     "correctAnswer": "Westeros",
-    "incorrectAnswers": ["Narnia", "Middle-earth", "Wakanda"]
+    "incorrectAnswers": ["Narnia", "Mittelerde", "Wakanda"]
   },
   {
-    "question": "Who directed the movie 'Pulp Fiction'?",
+    "question": "Wer hat den Film 'Pulp Fiction' Regie geführt?",
     "correctAnswer": "Quentin Tarantino",
     "incorrectAnswers": ["Martin Scorsese", "Steven Spielberg", "Guy Ritchie"]
   },
   {
-    "question": "Which TV show is centered around the character Sheldon Cooper?",
+    "question": "Welche TV-Serie dreht sich um die Figur Sheldon Cooper?",
     "correctAnswer": "The Big Bang Theory",
     "incorrectAnswers": ["Friends", "How I Met Your Mother", "Modern Family"]
   },
   {
-    "question": "Which actor played Captain Jack Sparrow in 'Pirates of the Caribbean'?",
+    "question": "Welcher Schauspieler spielte Captain Jack Sparrow in 'Fluch der Karibik'?",
     "correctAnswer": "Johnny Depp",
     "incorrectAnswers": ["Orlando Bloom", "Geoffrey Rush", "Tom Hanks"]
   },
   {
-    "question": "Which movie is famous for the line 'May the Force be with you'?",
+    "question": "Welcher Film ist berühmt für den Satz 'Möge die Macht mit dir sein'?",
     "correctAnswer": "Star Wars",
-    "incorrectAnswers": ["Star Trek", "Guardians of the Galaxy", "The Fifth Element"]
+    "incorrectAnswers": ["Star Trek", "Guardians of the Galaxy", "Das fünfte Element"]
   },
   {
-    "question": "Who stars as Eleven in the TV series 'Stranger Things'?",
+    "question": "Wer spielt Eleven in der TV-Serie 'Stranger Things'?",
     "correctAnswer": "Millie Bobby Brown",
     "incorrectAnswers": ["Natalia Dyer", "Sadie Sink", "Winona Ryder"]
   },
   {
-    "question": "Which movie features the character 'Rocky Balboa'?",
+    "question": "In welchem Film erscheint die Figur 'Rocky Balboa'?",
     "correctAnswer": "Rocky",
-    "incorrectAnswers": ["Raging Bull", "Creed", "The Fighter"]
+    "incorrectAnswers": ["Toro", "Creed", "The Fighter"]
   },
   {
-    "question": "Who directed the film 'Schindler's List'?",
+    "question": "Wer hat den Film 'Schindlers Liste' Regie geführt?",
     "correctAnswer": "Steven Spielberg",
     "incorrectAnswers": ["Martin Scorsese", "Clint Eastwood", "Francis Ford Coppola"]
   },
   {
-    "question": "Which TV series is about survivors of a plane crash on a mysterious island?",
+    "question": "Welche TV-Serie handelt von Überlebenden eines Flugzeugabsturzes auf einer geheimnisvollen Insel?",
     "correctAnswer": "Lost",
     "incorrectAnswers": ["The 100", "Survivor", "The Walking Dead"]
   },
   {
-    "question": "Which film stars Joaquin Phoenix as the Joker?",
+    "question": "In welchem Film spielt Joaquin Phoenix den Joker?",
     "correctAnswer": "Joker",
     "incorrectAnswers": ["The Dark Knight", "Suicide Squad", "Birdman"]
   },
   {
-    "question": "Who played the character Katniss Everdeen in 'The Hunger Games'?",
+    "question": "Wer spielte Katniss Everdeen in 'Die Tribute von Panem'?",
     "correctAnswer": "Jennifer Lawrence",
     "incorrectAnswers": ["Emma Watson", "Shailene Woodley", "Saoirse Ronan"]
   },
   {
-    "question": "What is the name of the TV series featuring the fictional paper company Dunder Mifflin?",
+    "question": "Wie heißt die TV-Serie mit der fiktiven Papierfirma Dunder Mifflin?",
     "correctAnswer": "The Office",
     "incorrectAnswers": ["Parks and Recreation", "Brooklyn Nine-Nine", "30 Rock"]
   },
   {
-    "question": "Which movie features the character 'Tony Montana'?",
+    "question": "In welchem Film erscheint die Figur 'Tony Montana'?",
     "correctAnswer": "Scarface",
-    "incorrectAnswers": ["Goodfellas", "The Godfather", "Casino"]
+    "incorrectAnswers": ["Goodfellas", "Der Pate", "Casino"]
   },
   {
-    "question": "Who directed 'Avatar'?",
+    "question": "Wer hat 'Avatar' Regie geführt?",
     "correctAnswer": "James Cameron",
     "incorrectAnswers": ["Peter Jackson", "Steven Spielberg", "Ridley Scott"]
   },
   {
-    "question": "Which actress starred in the TV series 'Buffy the Vampire Slayer'?",
+    "question": "Welche Schauspielerin spielte in der TV-Serie 'Buffy – Im Bann der Dämonen'?",
     "correctAnswer": "Sarah Michelle Gellar",
     "incorrectAnswers": ["Kristy Swanson", "Alyson Hannigan", "Eliza Dushku"]
   },
   {
-    "question": "What is the name of the android played by Michael Fassbender in 'Prometheus'?",
+    "question": "Wie heißt der Android, den Michael Fassbender in 'Prometheus' spielt?",
     "correctAnswer": "David",
     "incorrectAnswers": ["WALL-E", "Roy", "Ash"]
   },
   {
-    "question": "Which film is about a group of thieves planning to rob the Royal Mint of Spain?",
-    "correctAnswer": "Money Heist",
+    "question": "Welcher Film erzählt von einer Gruppe von Dieben, die die spanische Münzprägeanstalt überfallen?",
+    "correctAnswer": "Haus des Geldes",
     "incorrectAnswers": ["Inside Man", "Ocean’s Eleven", "The Italian Job"]
   },
   {
-    "question": "Which TV series features the characters Rick Grimes and Daryl Dixon?",
+    "question": "Welche TV-Serie zeigt die Figuren Rick Grimes und Daryl Dixon?",
     "correctAnswer": "The Walking Dead",
     "incorrectAnswers": ["Fear the Walking Dead", "Z Nation", "Black Summer"]
   },
   {
-    "question": "Who starred as the lead in the movie 'Gladiator'?",
+    "question": "Wer spielte die Hauptrolle im Film 'Gladiator'?",
     "correctAnswer": "Russell Crowe",
     "incorrectAnswers": ["Joaquin Phoenix", "Denzel Washington", "Tom Hanks"]
   },
   {
-    "question": "Which movie features the song 'My Heart Will Go On'?",
+    "question": "In welchem Film kommt das Lied 'My Heart Will Go On' vor?",
     "correctAnswer": "Titanic",
-    "incorrectAnswers": ["The Bodyguard", "Dirty Dancing", "Ghost"]
+    "incorrectAnswers": ["Bodyguard", "Dirty Dancing", "Ghost"]
   },
   {
-    "question": "Which TV show is set in the fictional town of Stars Hollow?",
+    "question": "Welche TV-Serie spielt in der fiktiven Stadt Stars Hollow?",
     "correctAnswer": "Gilmore Girls",
     "incorrectAnswers": ["Everwood", "Dawson’s Creek", "Beverly Hills, 90210"]
   },
   {
-    "question": "Who directed 'The Grand Budapest Hotel'?",
+    "question": "Wer hat 'Grand Budapest Hotel' Regie geführt?",
     "correctAnswer": "Wes Anderson",
     "incorrectAnswers": ["Paul Thomas Anderson", "Spike Jonze", "David Fincher"]
   },
   {
-    "question": "Which movie is known for the phrase 'You can’t handle the truth!'?",
-    "correctAnswer": "A Few Good Men",
+    "question": "Welcher Film ist bekannt für den Satz 'Sie können die Wahrheit nicht verkraften!'?",
+    "correctAnswer": "Eine Frage der Ehre",
     "incorrectAnswers": ["Top Gun", "Jerry Maguire", "The Firm"]
   },
   {
-    "question": "Which actress won an Oscar for her role in 'Black Swan'?",
+    "question": "Welche Schauspielerin gewann einen Oscar für ihre Rolle in 'Black Swan'?",
     "correctAnswer": "Natalie Portman",
     "incorrectAnswers": ["Scarlett Johansson", "Keira Knightley", "Emma Stone"]
   },
   {
-    "question": "Which TV series features a high school chemistry teacher turned drug dealer?",
+    "question": "Welche TV-Serie erzählt von einem Chemielehrer, der Drogenhändler wird?",
     "correctAnswer": "Breaking Bad",
     "incorrectAnswers": ["Weeds", "Narcos", "Better Call Saul"]
   },
   {
-    "question": "Which film features the characters Woody and Buzz Lightyear?",
+    "question": "In welchem Film erscheinen die Figuren Woody und Buzz Lightyear?",
     "correctAnswer": "Toy Story",
-    "incorrectAnswers": ["Monsters, Inc.", "Finding Nemo", "The Incredibles"]
+    "incorrectAnswers": ["Die Monster AG", "Findet Nemo", "Die Unglaublichen"]
   }
 ]

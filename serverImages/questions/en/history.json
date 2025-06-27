@@ -5,28 +5,253 @@
     "incorrectAnswers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"]
   },
   {
-    "question": "In which year did World War II end?",
-    "correctAnswer": "1945",
-    "incorrectAnswers": ["1940", "1939", "1950"]
+    "question": "In which year did the French Revolution begin?",
+    "correctAnswer": "1789",
+    "incorrectAnswers": ["1776", "1799", "1804"]
   },
   {
-    "question": "What wall fell in 1989, symbolizing the end of the Cold War?",
-    "correctAnswer": "The Berlin Wall",
-    "incorrectAnswers": ["The Great Wall of China", "Hadrian’s Wall", "The Iron Curtain"]
+    "question": "Which empire was ruled by Genghis Khan?",
+    "correctAnswer": "Mongol Empire",
+    "incorrectAnswers": ["Ottoman Empire", "Roman Empire", "Persian Empire"]
   },
   {
-    "question": "Who was the ancient Egyptian queen famous for her relationships with Julius Caesar and Mark Antony?",
+    "question": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+    "correctAnswer": "Mayflower",
+    "incorrectAnswers": ["Santa Maria", "Endeavour", "Beagle"]
+  },
+  {
+    "question": "Who was the British Prime Minister during World War II?",
+    "correctAnswer": "Winston Churchill",
+    "incorrectAnswers": ["Neville Chamberlain", "Clement Attlee", "Harold Macmillan"]
+  },
+  {
+    "question": "Which ancient civilization built the Machu Picchu?",
+    "correctAnswer": "Inca",
+    "incorrectAnswers": ["Maya", "Aztec", "Olmec"]
+  },
+  {
+    "question": "The Berlin Wall fell in which year?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": ["1987", "1991", "1995"]
+  },
+  {
+    "question": "Who was the last queen of France before the French Revolution?",
+    "correctAnswer": "Marie Antoinette",
+    "incorrectAnswers": ["Catherine de' Medici", "Joan of Arc", "Eleanor of Aquitaine"]
+  },
+  {
+    "question": "Which country was known as Persia until 1935?",
+    "correctAnswer": "Iran",
+    "incorrectAnswers": ["Iraq", "Afghanistan", "Turkey"]
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "correctAnswer": "Nikita Khrushchev",
+    "incorrectAnswers": ["Joseph Stalin", "Leonid Brezhnev", "Mikhail Gorbachev"]
+  },
+  {
+    "question": "Which war was fought between the North and South regions in the United States?",
+    "correctAnswer": "The American Civil War",
+    "incorrectAnswers": ["The Revolutionary War", "The War of 1812", "The Spanish-American War"]
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "correctAnswer": "Amelia Earhart",
+    "incorrectAnswers": ["Bessie Coleman", "Harriet Quimby", "Sally Ride"]
+  },
+  {
+    "question": "What year did the Berlin Wall go up?",
+    "correctAnswer": "1961",
+    "incorrectAnswers": ["1955", "1970", "1980"]
+  },
+  {
+    "question": "Which famous battle was fought in 1066?",
+    "correctAnswer": "The Battle of Hastings",
+    "incorrectAnswers": ["The Battle of Agincourt", "The Battle of Waterloo", "The Battle of Marathon"]
+  },
+  {
+    "question": "Who was the first Emperor of Rome?",
+    "correctAnswer": "Augustus",
+    "incorrectAnswers": ["Julius Caesar", "Nero", "Caligula"]
+  },
+  {
+    "question": "The Magna Carta was signed in which year?",
+    "correctAnswer": "1215",
+    "incorrectAnswers": ["1066", "1492", "1314"]
+  },
+  {
+    "question": "Which U.S. President issued the Emancipation Proclamation?",
+    "correctAnswer": "Abraham Lincoln",
+    "incorrectAnswers": ["Ulysses S. Grant", "Theodore Roosevelt", "Andrew Johnson"]
+  },
+  {
+    "question": "The Great Fire of London occurred in which year?",
+    "correctAnswer": "1666",
+    "incorrectAnswers": ["1600", "1701", "1750"]
+  },
+  {
+    "question": "Who was the first person to circumnavigate the globe?",
+    "correctAnswer": "Ferdinand Magellan",
+    "incorrectAnswers": ["Christopher Columbus", "Vasco da Gama", "James Cook"]
+  },
+  {
+    "question": "Which treaty ended World War I?",
+    "correctAnswer": "Treaty of Versailles",
+    "incorrectAnswers": ["Treaty of Paris", "Treaty of Tordesillas", "Treaty of Ghent"]
+  },
+  {
+    "question": "Which city was divided by a wall from 1961 to 1989?",
+    "correctAnswer": "Berlin",
+    "incorrectAnswers": ["Vienna", "Prague", "Warsaw"]
+  },
+  {
+    "question": "Who was the Egyptian queen famous for her relationship with Julius Caesar and Mark Antony?",
     "correctAnswer": "Cleopatra",
-    "incorrectAnswers": ["Nefertiti", "Hatshepsut", "Isis"]
+    "incorrectAnswers": ["Nefertiti", "Hatshepsut", "Ankhesenamun"]
   },
   {
-    "question": "Which civilization built Machu Picchu?",
-    "correctAnswer": "The Inca",
-    "incorrectAnswers": ["The Maya", "The Aztec", "The Olmec"]
+    "question": "Who was the British monarch during the American Revolution?",
+    "correctAnswer": "King George III",
+    "incorrectAnswers": ["Queen Victoria", "King Henry VIII", "Queen Elizabeth I"]
   },
   {
-    "question": "What ship sank in 1912 after hitting an iceberg?",
-    "correctAnswer": "Titanic",
-    "incorrectAnswers": ["Lusitania", "Britannic", "Endeavour"]
+    "question": "What was the name of the first permanent English settlement in America?",
+    "correctAnswer": "Jamestown",
+    "incorrectAnswers": ["Plymouth", "Roanoke", "Salem"]
+  },
+  {
+    "question": "Who was known as the 'Iron Lady'?",
+    "correctAnswer": "Margaret Thatcher",
+    "incorrectAnswers": ["Indira Gandhi", "Angela Merkel", "Golda Meir"]
+  },
+  {
+    "question": "Which civilization built the pyramids of Giza?",
+    "correctAnswer": "Ancient Egyptians",
+    "incorrectAnswers": ["Mesopotamians", "Romans", "Greeks"]
+  },
+  {
+    "question": "Who was the main author of the Declaration of Independence?",
+    "correctAnswer": "Thomas Jefferson",
+    "incorrectAnswers": ["Benjamin Franklin", "John Adams", "George Washington"]
+  },
+  {
+    "question": "In which war was the Battle of Gettysburg fought?",
+    "correctAnswer": "American Civil War",
+    "incorrectAnswers": ["World War I", "World War II", "Revolutionary War"]
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "correctAnswer": "Alexander Fleming",
+    "incorrectAnswers": ["Louis Pasteur", "Marie Curie", "Joseph Lister"]
+  },
+  {
+    "question": "Which empire was ruled by Suleiman the Magnificent?",
+    "correctAnswer": "Ottoman Empire",
+    "incorrectAnswers": ["Roman Empire", "Persian Empire", "Mongol Empire"]
+  },
+  {
+    "question": "Which country was divided into East and West during the Cold War?",
+    "correctAnswer": "Germany",
+    "incorrectAnswers": ["Korea", "Vietnam", "China"]
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "correctAnswer": "Margaret Thatcher",
+    "incorrectAnswers": ["Theresa May", "Elizabeth II", "Angela Merkel"]
+  },
+  {
+    "question": "Which event sparked the beginning of World War I?",
+    "correctAnswer": "Assassination of Archduke Franz Ferdinand",
+    "incorrectAnswers": ["Invasion of Poland", "Bombing of Pearl Harbor", "Battle of the Somme"]
+  },
+  {
+    "question": "Who was the famous civil rights leader who gave the 'I Have a Dream' speech?",
+    "correctAnswer": "Martin Luther King Jr.",
+    "incorrectAnswers": ["Malcolm X", "Rosa Parks", "Frederick Douglass"]
+  },
+  {
+    "question": "The Renaissance began in which country?",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": ["France", "England", "Spain"]
+  },
+  {
+    "question": "Who was the leader of the Nazi Party during World War II?",
+    "correctAnswer": "Adolf Hitler",
+    "incorrectAnswers": ["Joseph Stalin", "Benito Mussolini", "Winston Churchill"]
+  },
+  {
+    "question": "Which explorer is credited with discovering America in 1492?",
+    "correctAnswer": "Christopher Columbus",
+    "incorrectAnswers": ["Ferdinand Magellan", "Vasco da Gama", "John Cabot"]
+  },
+  {
+    "question": "What was the primary cause of the Great Depression?",
+    "correctAnswer": "Stock Market Crash of 1929",
+    "incorrectAnswers": ["World War I", "Oil Crisis", "Bank Failures"]
+  },
+  {
+    "question": "Who was the first President of South Africa after apartheid ended?",
+    "correctAnswer": "Nelson Mandela",
+    "incorrectAnswers": ["Thabo Mbeki", "Jacob Zuma", "Desmond Tutu"]
+  },
+  {
+    "question": "What was the name of the network of trade routes connecting East Asia to Europe?",
+    "correctAnswer": "The Silk Road",
+    "incorrectAnswers": ["The Spice Route", "The Amber Road", "The Incense Route"]
+  },
+  {
+    "question": "Which war ended with the Treaty of Paris in 1783?",
+    "correctAnswer": "American Revolutionary War",
+    "incorrectAnswers": ["French and Indian War", "War of 1812", "Seven Years’ War"]
+  },
+  {
+    "question": "Who was the first female pharaoh of Ancient Egypt?",
+    "correctAnswer": "Hatshepsut",
+    "incorrectAnswers": ["Cleopatra", "Nefertiti", "Sobekneferu"]
+  },
+  {
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "correctAnswer": "Constantinople",
+    "incorrectAnswers": ["Athens", "Rome", "Alexandria"]
+  },
+  {
+    "question": "What invention is Johannes Gutenberg famous for?",
+    "correctAnswer": "Printing press",
+    "incorrectAnswers": ["Telescope", "Steam engine", "Compass"]
+  },
+  {
+    "question": "Which country was ruled by the Tsars?",
+    "correctAnswer": "Russia",
+    "incorrectAnswers": ["Poland", "Austria", "Turkey"]
+  },
+  {
+    "question": "Who was the leader of the Indian independence movement?",
+    "correctAnswer": "Mahatma Gandhi",
+    "incorrectAnswers": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh"]
+  },
+  {
+    "question": "Which war involved the Normandy landings known as D-Day?",
+    "correctAnswer": "World War II",
+    "incorrectAnswers": ["World War I", "Korean War", "Vietnam War"]
+  },
+  {
+    "question": "What was the primary language of the Roman Empire?",
+    "correctAnswer": "Latin",
+    "incorrectAnswers": ["Greek", "Hebrew", "Aramaic"]
+  },
+  {
+    "question": "Who was the first man to step on the Moon?",
+    "correctAnswer": "Neil Armstrong",
+    "incorrectAnswers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+  },
+  {
+    "question": "Which country was the main opponent of the United States in the Cold War?",
+    "correctAnswer": "Soviet Union",
+    "incorrectAnswers": ["China", "North Korea", "Vietnam"]
+  },
+  {
+    "question": "What was the name of the ship Charles Darwin sailed on during his voyage?",
+    "correctAnswer": "HMS Beagle",
+    "incorrectAnswers": ["HMS Endeavour", "USS Constitution", "Santa Maria"]
   }
 ]

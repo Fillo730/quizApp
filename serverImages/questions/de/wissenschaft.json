@@ -1,0 +1,425 @@
+[
+  {
+    "question": "Was ist die Hauptfunktion der Mitochondrien in einer Zelle?",
+    "correctAnswer": "Energie durch Zellatmung produzieren",
+    "incorrectAnswers": [
+      "Proteine synthetisieren",
+      "Die Zellteilung kontrollieren",
+      "Sauerstoff transportieren"
+    ]
+  },
+  {
+    "question": "Welche subatomare Teilchen hat eine positive Ladung?",
+    "correctAnswer": "Proton",
+    "incorrectAnswers": [
+      "Elektron",
+      "Neutron",
+      "Positron"
+    ]
+  },
+  {
+    "question": "Welches Organ reguliert den Blutzuckerspiegel im menschlichen Körper?",
+    "correctAnswer": "Bauchspeicheldrüse",
+    "incorrectAnswers": [
+      "Leber",
+      "Nieren",
+      "Milz"
+    ]
+  },
+  {
+    "question": "Welches Mendelsche Gesetz beschreibt die Trennung der Erbfaktoren?",
+    "correctAnswer": "Gesetz der Segregation",
+    "incorrectAnswers": [
+      "Gesetz der unabhängigen Sortierung",
+      "Gesetz der Dominanz",
+      "Gesetz der Mutation"
+    ]
+  },
+  {
+    "question": "Welches Gas ist hauptsächlich für die Ozonschicht der Erde verantwortlich?",
+    "correctAnswer": "Ozon",
+    "incorrectAnswers": [
+      "Sauerstoff",
+      "Kohlendioxid",
+      "Stickstoff"
+    ]
+  },
+  {
+    "question": "Welche chemische Bindung entsteht, wenn zwei Atome ein Elektronenpaar teilen?",
+    "correctAnswer": "Kovalente Bindung",
+    "incorrectAnswers": [
+      "Ionenbindung",
+      "Metallische Bindung",
+      "Van-der-Waals-Kräfte"
+    ]
+  },
+  {
+    "question": "Wie heißt der Prozess, bei dem sich eine Zelle in zwei identische Tochterzellen teilt?",
+    "correctAnswer": "Mitose",
+    "incorrectAnswers": [
+      "Meiose",
+      "Binäre Spaltung",
+      "Apoptose"
+    ]
+  },
+  {
+    "question": "Welche Wissenschaftler entdeckten die Doppelhelix-Struktur der DNA?",
+    "correctAnswer": "James Watson und Francis Crick",
+    "incorrectAnswers": [
+      "Rosalind Franklin",
+      "Gregor Mendel",
+      "Louis Pasteur"
+    ]
+  },
+  {
+    "question": "Welches ist das härteste natürliche Mineral?",
+    "correctAnswer": "Diamant",
+    "incorrectAnswers": [
+      "Quarz",
+      "Topas",
+      "Korund"
+    ]
+  },
+  {
+    "question": "Welches Organ produziert die Galle im menschlichen Körper?",
+    "correctAnswer": "Leber",
+    "incorrectAnswers": [
+      "Nieren",
+      "Bauchspeicheldrüse",
+      "Magen"
+    ]
+  },
+  {
+    "question": "Welches Treibhausgas ist hauptsächlich für die globale Erwärmung verantwortlich?",
+    "correctAnswer": "Kohlendioxid",
+    "incorrectAnswers": [
+      "Sauerstoff",
+      "Stickstoff",
+      "Methan"
+    ]
+  },
+  {
+    "question": "Was ist die Hauptfunktion der roten Blutkörperchen?",
+    "correctAnswer": "Sauerstoff im Blut transportieren",
+    "incorrectAnswers": [
+      "Infektionen bekämpfen",
+      "Blutgerinnung fördern",
+      "Antikörper produzieren"
+    ]
+  },
+  {
+    "question": "Wie heißt der Prozess, bei dem Pflanzen Kohlendioxid und Wasser in Glukose und Sauerstoff umwandeln?",
+    "correctAnswer": "Fotosynthese",
+    "incorrectAnswers": [
+      "Zellatmung",
+      "Fermentation",
+      "Oxidation"
+    ]
+  },
+  {
+    "question": "Welcher Teil des menschlichen Auges ist verantwortlich für das Fokussieren der Bilder auf der Netzhaut?",
+    "correctAnswer": "Linse",
+    "incorrectAnswers": [
+      "Hornhaut",
+      "Iris",
+      "Pupille"
+    ]
+  },
+  {
+    "question": "Was ist der Hauptbestandteil der Luft, die wir atmen?",
+    "correctAnswer": "Stickstoff",
+    "incorrectAnswers": [
+      "Sauerstoff",
+      "Kohlendioxid",
+      "Wasserstoff"
+    ]
+  },
+  {
+    "question": "Welche Skala wird verwendet, um den Säure- oder Basengehalt einer Substanz zu messen?",
+    "correctAnswer": "pH-Skala",
+    "incorrectAnswers": [
+      "Richterskala",
+      "Dezibelskala",
+      "Kelvinskala"
+    ]
+  },
+  {
+    "question": "Welcher biologische Prozess produziert die Gameten (Geschlechtszellen)?",
+    "correctAnswer": "Meiose",
+    "incorrectAnswers": [
+      "Mitose",
+      "Binäre Spaltung",
+      "Keimung"
+    ]
+  },
+  {
+    "question": "Welches Gas atmen wir zum Überleben ein?",
+    "correctAnswer": "Sauerstoff",
+    "incorrectAnswers": [
+      "Stickstoff",
+      "Kohlendioxid",
+      "Helium"
+    ]
+  },
+  {
+    "question": "Welcher Teil der DNA enthält die genetische Information?",
+    "correctAnswer": "Sequenz der Basenpaare",
+    "incorrectAnswers": [
+      "Zuckerkette",
+      "Phosphatkette",
+      "Zellmembran"
+    ]
+  },
+  {
+    "question": "Was ist das Hauptelement im Kern der Sterne?",
+    "correctAnswer": "Wasserstoff",
+    "incorrectAnswers": [
+      "Sauerstoff",
+      "Helium",
+      "Kohlenstoff"
+    ]
+  },
+  {
+    "question": "Welcher Zweig der Biologie beschäftigt sich mit Tieren?",
+    "correctAnswer": "Zoologie",
+    "incorrectAnswers": [
+      "Botanik",
+      "Mikrobiologie",
+      "Ökologie"
+    ]
+  },
+  {
+    "question": "Welches ist das Hauptorgan des menschlichen Atmungssystems?",
+    "correctAnswer": "Lunge",
+    "incorrectAnswers": [
+      "Herz",
+      "Leber",
+      "Nieren"
+    ]
+  },
+  {
+    "question": "Welches chemische Element wird durch das Symbol 'Na' dargestellt?",
+    "correctAnswer": "Natrium",
+    "incorrectAnswers": [
+      "Nickel",
+      "Stickstoff",
+      "Neon"
+    ]
+  },
+  {
+    "question": "Was ist die Hauptenergiequelle der Erde?",
+    "correctAnswer": "Die Sonne",
+    "incorrectAnswers": [
+      "Der Mond",
+      "Die Sterne",
+      "Vulkane"
+    ]
+  },
+  {
+    "question": "Wie nennt man den Prozess, bei dem eine Substanz vom festen in den flüssigen Zustand übergeht?",
+    "correctAnswer": "Schmelzen",
+    "incorrectAnswers": [
+      "Verdampfen",
+      "Kondensation",
+      "Sublimation"
+    ]
+  },
+  {
+    "question": "Was ist die Hauptfunktion der Chloroplasten in Pflanzenzellen?",
+    "correctAnswer": "Fotosynthese durchführen",
+    "incorrectAnswers": [
+      "Energie speichern",
+      "Nährstoffe transportieren",
+      "pH regulieren"
+    ]
+  },
+  {
+    "question": "Wie heißt das Teilchen mit negativer Ladung, das um den Atomkern kreist?",
+    "correctAnswer": "Elektron",
+    "incorrectAnswers": [
+      "Proton",
+      "Neutron",
+      "Quark"
+    ]
+  },
+  {
+    "question": "Welches natürliche Phänomen verursacht die Gezeiten?",
+    "correctAnswer": "Die Gravitationskraft des Mondes",
+    "incorrectAnswers": [
+      "Die Erdrotation",
+      "Die Windwirkung",
+      "Die Meeresströmungen"
+    ]
+  },
+  {
+    "question": "Wie heißt das Protein, das für den Sauerstofftransport im Blut verantwortlich ist?",
+    "correctAnswer": "Hämoglobin",
+    "incorrectAnswers": [
+      "Myosin",
+      "Kollagen",
+      "Insulin"
+    ]
+  },
+  {
+    "question": "Welches Newtonsche Gesetz besagt, dass auf jede Aktion eine gleiche und entgegengesetzte Reaktion folgt?",
+    "correctAnswer": "Drittes Newtonsches Gesetz",
+    "incorrectAnswers": [
+      "Erstes Newtonsches Gesetz",
+      "Zweites Newtonsches Gesetz",
+      "Gesetz der universellen Gravitation"
+    ]
+  },
+  {
+    "question": "Welches Phänomen erklärt, warum Objekte zum Boden fallen?",
+    "correctAnswer": "Schwerkraft",
+    "incorrectAnswers": [
+      "Magnetismus",
+      "Zentrifugalkraft",
+      "Luftdruck"
+    ]
+  },
+  {
+    "question": "Welches Organ produziert das Hormon Insulin?",
+    "correctAnswer": "Bauchspeicheldrüse",
+    "incorrectAnswers": [
+      "Leber",
+      "Nieren",
+      "Schilddrüse"
+    ]
+  },
+  {
+    "question": "Was ist die Grundeinheit des zentralen Nervensystems?",
+    "correctAnswer": "Gehirn",
+    "incorrectAnswers": [
+      "Herz",
+      "Rückenmark",
+      "Lunge"
+    ]
+  },
+  {
+    "question": "Welches Element macht den Hauptbestandteil der Erdkruste aus?",
+    "correctAnswer": "Sauerstoff",
+    "incorrectAnswers": [
+      "Eisen",
+      "Silizium",
+      "Aluminium"
+    ]
+  },
+  {
+    "question": "Welcher Wissenschaftler gilt als Vater der Mikrobiologie?",
+    "correctAnswer": "Louis Pasteur",
+    "incorrectAnswers": [
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek",
+      "Gregor Mendel"
+    ]
+  },
+  {
+    "question": "Was ist die Hauptfunktion des Verdauungssystems?",
+    "correctAnswer": "Nährstoffe aufnehmen und Nahrung verdauen",
+    "incorrectAnswers": [
+      "Hormone produzieren",
+      "Körpertemperatur kontrollieren",
+      "Blut filtern"
+    ]
+  },
+  {
+    "question": "Welches Phänomen erklärt die Ablenkung des Lichts?",
+    "correctAnswer": "Brechung",
+    "incorrectAnswers": [
+      "Reflexion",
+      "Beugung",
+      "Absorption"
+    ]
+  },
+  {
+    "question": "Welches Gas entsteht bei der alkoholischen Gärung?",
+    "correctAnswer": "Kohlendioxid",
+    "incorrectAnswers": [
+      "Sauerstoff",
+      "Stickstoff",
+      "Methan"
+    ]
+  },
+  {
+    "question": "Was ist die kleinste Einheit des Lebens?",
+    "correctAnswer": "Die Zelle",
+    "incorrectAnswers": [
+      "Atom",
+      "Molekül",
+      "Organ"
+    ]
+  },
+  {
+    "question": "Wie heißt der Wissenschaftler, der die Evolutionstheorie durch natürliche Selektion entwickelte?",
+    "correctAnswer": "Charles Darwin",
+    "incorrectAnswers": [
+      "Gregor Mendel",
+      "Albert Einstein",
+      "Isaac Newton"
+    ]
+  },
+  {
+    "question": "Welche Vitamin wird hauptsächlich gebildet, wenn die Haut dem Sonnenlicht ausgesetzt ist?",
+    "correctAnswer": "Vitamin D",
+    "incorrectAnswers": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B12"
+    ]
+  },
+  {
+    "question": "Welches Organ filtert Abfallstoffe aus dem Blut, um Urin zu produzieren?",
+    "correctAnswer": "Nieren",
+    "incorrectAnswers": [
+      "Leber",
+      "Blase",
+      "Lunge"
+    ]
+  },
+  {
+    "question": "Welche Blutgefäße transportieren Blut vom Herzen weg?",
+    "correctAnswer": "Arterien",
+    "incorrectAnswers": [
+      "Venen",
+      "Kapillaren",
+      "Lymphgefäße"
+    ]
+  },
+  {
+    "question": "Was ist der grundlegende Baustein der Proteine?",
+    "correctAnswer": "Aminosäuren",
+    "incorrectAnswers": [
+      "Nukleotide",
+      "Fettsäuren",
+      "Zucker"
+    ]
+  },
+  {
+    "question": "Welches System im menschlichen Körper ist für die Abwehr von Infektionen verantwortlich?",
+    "correctAnswer": "Immunsystem",
+    "incorrectAnswers": [
+      "Verdauungssystem",
+      "Nervensystem",
+      "Hormonsystem"
+    ]
+  },
+  {
+    "question": "Welcher Planet in unserem Sonnensystem hat die stärkste Gravitation?",
+    "correctAnswer": "Jupiter",
+    "incorrectAnswers": [
+      "Erde",
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "question": "Welcher Wissenschaftler wird mit der Entdeckung des Penicillins in Verbindung gebracht?",
+    "correctAnswer": "Alexander Fleming",
+    "incorrectAnswers": [
+      "Marie Curie",
+      "Louis Pasteur",
+      "Gregor Mendel"
+    ]
+  }
+]

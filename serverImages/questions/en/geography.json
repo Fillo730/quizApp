@@ -5,9 +5,9 @@
     "incorrectAnswers": ["Amazon", "Yangtze", "Mississippi"]
   },
   {
-    "question": "Which country has the largest population in the world?",
-    "correctAnswer": "China",
-    "incorrectAnswers": ["India", "United States", "Indonesia"]
+    "question": "Which country has the largest land area?",
+    "correctAnswer": "Russia",
+    "incorrectAnswers": ["Canada", "China", "United States"]
   },
   {
     "question": "What is the capital city of Australia?",
@@ -15,18 +15,233 @@
     "incorrectAnswers": ["Sydney", "Melbourne", "Brisbane"]
   },
   {
-    "question": "Which continent is the Sahara Desert located in?",
-    "correctAnswer": "Africa",
-    "incorrectAnswers": ["Asia", "South America", "Australia"]
+    "question": "Mount Everest is part of which mountain range?",
+    "correctAnswer": "Himalayas",
+    "incorrectAnswers": ["Andes", "Alps", "Rockies"]
   },
   {
-    "question": "Mount Everest is located on the border of which two countries?",
-    "correctAnswer": "Nepal and China",
-    "incorrectAnswers": ["India and China", "Nepal and India", "China and Bhutan"]
+    "question": "Which desert is the largest in the world?",
+    "correctAnswer": "Sahara",
+    "incorrectAnswers": ["Gobi", "Kalahari", "Arabian"]
   },
   {
-    "question": "Which ocean is the largest by surface area?",
+    "question": "Which ocean is the deepest?",
     "correctAnswer": "Pacific Ocean",
     "incorrectAnswers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": ["China", "Thailand", "South Korea"]
+  },
+  {
+    "question": "Which continent is the smallest by land area?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": ["Europe", "Antarctica", "South America"]
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "correctAnswer": "Canada",
+    "incorrectAnswers": ["Russia", "United States", "Finland"]
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "correctAnswer": "Ottawa",
+    "incorrectAnswers": ["Toronto", "Vancouver", "Montreal"]
+  },
+  {
+    "question": "Which river flows through Paris?",
+    "correctAnswer": "Seine",
+    "incorrectAnswers": ["Thames", "Danube", "Rhine"]
+  },
+  {
+    "question": "Which country is famous for the fjords along its coastline?",
+    "correctAnswer": "Norway",
+    "incorrectAnswers": ["Iceland", "Sweden", "Finland"]
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "correctAnswer": "Greenland",
+    "incorrectAnswers": ["Madagascar", "Borneo", "New Guinea"]
+  },
+  {
+    "question": "Which country has the highest population in the world?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["India", "United States", "Indonesia"]
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "correctAnswer": "Brasília",
+    "incorrectAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"]
+  },
+  {
+    "question": "Which desert covers much of Mongolia and northern China?",
+    "correctAnswer": "Gobi Desert",
+    "incorrectAnswers": ["Kalahari Desert", "Thar Desert", "Sahara Desert"]
+  },
+  {
+    "question": "Which country has the most UNESCO World Heritage Sites?",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": ["China", "Spain", "France"]
+  },
+  {
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "correctAnswer": "Florida",
+    "incorrectAnswers": ["California", "Texas", "Arizona"]
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": ["Asia", "South America", "Europe"]
+  },
+  {
+    "question": "Which sea is the saltiest natural body of water?",
+    "correctAnswer": "Dead Sea",
+    "incorrectAnswers": ["Mediterranean Sea", "Red Sea", "Baltic Sea"]
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "correctAnswer": "Cairo",
+    "incorrectAnswers": ["Alexandria", "Luxor", "Giza"]
+  },
+  {
+    "question": "Which country is located on two continents: Europe and Asia?",
+    "correctAnswer": "Turkey",
+    "incorrectAnswers": ["Russia", "Kazakhstan", "Egypt"]
+  },
+  {
+    "question": "What is the name of the line that divides the Earth into Northern and Southern Hemispheres?",
+    "correctAnswer": "Equator",
+    "incorrectAnswers": ["Prime Meridian", "Tropic of Cancer", "International Date Line"]
+  },
+  {
+    "question": "Which U.S. city is known as the 'Windy City'?",
+    "correctAnswer": "Chicago",
+    "incorrectAnswers": ["New York", "Boston", "Seattle"]
+  },
+  {
+    "question": "Which country has the most volcanoes?",
+    "correctAnswer": "Indonesia",
+    "incorrectAnswers": ["Japan", "United States", "Italy"]
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "correctAnswer": "Vatican City",
+    "incorrectAnswers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "Which mountain is the tallest in North America?",
+    "correctAnswer": "Denali",
+    "incorrectAnswers": ["Mount Logan", "Mount Rainier", "Mount Whitney"]
+  },
+  {
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "correctAnswer": "Finland",
+    "incorrectAnswers": ["Canada", "Sweden", "Norway"]
+  },
+  {
+    "question": "Which river forms part of the border between the United States and Mexico?",
+    "correctAnswer": "Rio Grande",
+    "incorrectAnswers": ["Colorado River", "Mississippi River", "Snake River"]
+  },
+  {
+    "question": "Which city is the capital of South Korea?",
+    "correctAnswer": "Seoul",
+    "incorrectAnswers": ["Busan", "Incheon", "Daegu"]
+  },
+  {
+    "question": "What is the name of the large desert located in Australia?",
+    "correctAnswer": "Great Victoria Desert",
+    "incorrectAnswers": ["Simpson Desert", "Gibson Desert", "Tanami Desert"]
+  },
+  {
+    "question": "Which is the largest country in South America?",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": ["Argentina", "Peru", "Colombia"]
+  },
+  {
+    "question": "Which European capital city is known as the 'City of Canals'?",
+    "correctAnswer": "Venice",
+    "incorrectAnswers": ["Amsterdam", "Bruges", "Copenhagen"]
+  },
+  {
+    "question": "Which country has the longest coastline in the world?",
+    "correctAnswer": "Canada",
+    "incorrectAnswers": ["Russia", "Indonesia", "Australia"]
+  },
+  {
+    "question": "What is the name of the large plateau located in Tibet?",
+    "correctAnswer": "Tibetan Plateau",
+    "incorrectAnswers": ["Deccan Plateau", "Colorado Plateau", "Altiplano"]
+  },
+  {
+    "question": "Which U.S. state is the largest by land area?",
+    "correctAnswer": "Alaska",
+    "incorrectAnswers": ["Texas", "California", "Montana"]
+  },
+  {
+    "question": "Which African country has the largest population?",
+    "correctAnswer": "Nigeria",
+    "incorrectAnswers": ["Egypt", "South Africa", "Ethiopia"]
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": ["New Zealand", "Fiji", "Indonesia"]
+  },
+  {
+    "question": "Which city is the capital of Argentina?",
+    "correctAnswer": "Buenos Aires",
+    "incorrectAnswers": ["Cordoba", "Rosario", "Mendoza"]
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "correctAnswer": "Bangkok",
+    "incorrectAnswers": ["Chiang Mai", "Phuket", "Pattaya"]
+  },
+  {
+    "question": "Which European river flows through the cities of Vienna, Budapest, and Belgrade?",
+    "correctAnswer": "Danube",
+    "incorrectAnswers": ["Rhine", "Seine", "Elbe"]
+  },
+  {
+    "question": "Which island country lies southeast of India in the Indian Ocean?",
+    "correctAnswer": "Sri Lanka",
+    "incorrectAnswers": ["Maldives", "Indonesia", "Madagascar"]
+  },
+  {
+    "question": "Which country is home to the ancient city of Petra?",
+    "correctAnswer": "Jordan",
+    "incorrectAnswers": ["Egypt", "Lebanon", "Syria"]
+  },
+  {
+    "question": "Which U.S. state is known for its geysers and geothermal activity, including Old Faithful?",
+    "correctAnswer": "Wyoming",
+    "incorrectAnswers": ["Montana", "Idaho", "Colorado"]
+  },
+  {
+    "question": "Which country has the most official languages?",
+    "correctAnswer": "Bolivia",
+    "incorrectAnswers": ["South Africa", "India", "Switzerland"]
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "correctAnswer": "Wellington",
+    "incorrectAnswers": ["Auckland", "Christchurch", "Hamilton"]
+  },
+  {
+    "question": "Which country is famous for the ancient ruins of Machu Picchu?",
+    "correctAnswer": "Peru",
+    "incorrectAnswers": ["Chile", "Bolivia", "Ecuador"]
+  },
+  {
+    "question": "Which river is the longest in Europe?",
+    "correctAnswer": "Volga",
+    "incorrectAnswers": ["Danube", "Rhine", "Dnieper"]
+  },
+  {
+    "question": "Which country is known as the 'Emerald Isle'?",
+    "correctAnswer": "Ireland",
+    "incorrectAnswers": ["Scotland", "Wales", "Iceland"]
   }
 ]

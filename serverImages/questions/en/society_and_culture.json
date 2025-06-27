@@ -1,32 +1,232 @@
 [
   {
-    "question": "Which celebration marks the beginning of a new year in the Chinese calendar?",
-    "correctAnswer": "Chinese New Year",
-    "incorrectAnswers": ["Mid-Autumn Festival", "Golden Week", "Lantern Festival"]
+    "question": "What is the primary language spoken in Brazil?",
+    "correctAnswer": "Portuguese",
+    "incorrectAnswers": ["Spanish", "English", "French"]
   },
   {
-    "question": "What is the traditional dress worn by men in Scotland?",
-    "correctAnswer": "Kilt",
-    "incorrectAnswers": ["Kimono", "Sari", "Poncho"]
+    "question": "Which religion is associated with the Five Pillars?",
+    "correctAnswer": "Islam",
+    "incorrectAnswers": ["Christianity", "Judaism", "Buddhism"]
   },
   {
-    "question": "Which religion considers the Ganges River sacred?",
-    "correctAnswer": "Hinduism",
-    "incorrectAnswers": ["Islam", "Buddhism", "Christianity"]
-  },
-  {
-    "question": "What is the name of the Mexican holiday that honors deceased loved ones?",
-    "correctAnswer": "Day of the Dead",
-    "incorrectAnswers": ["Cinco de Mayo", "All Saints' Day", "Los Reyes"]
-  },
-  {
-    "question": "In Japan, what is the art of folding paper into shapes called?",
+    "question": "What is the traditional Japanese art of paper folding called?",
     "correctAnswer": "Origami",
-    "incorrectAnswers": ["Ikebana", "Shodo", "Haiku"]
+    "incorrectAnswers": ["Ikebana", "Kendo", "Calligraphy"]
   },
   {
-    "question": "Which language is the most spoken in the world by number of native speakers?",
+    "question": "Which festival is known as the 'Festival of Lights' in India?",
+    "correctAnswer": "Diwali",
+    "incorrectAnswers": ["Holi", "Eid", "Navratri"]
+  },
+  {
+    "question": "What is the name of the social system based on caste in India?",
+    "correctAnswer": "Varna",
+    "incorrectAnswers": ["Karma", "Dharma", "Samsara"]
+  },
+  {
+    "question": "Which country is famous for the Day of the Dead celebration?",
+    "correctAnswer": "Mexico",
+    "incorrectAnswers": ["Spain", "Peru", "Brazil"]
+  },
+  {
+    "question": "In which country did the tradition of the tea ceremony originate?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": ["China", "Korea", "Vietnam"]
+  },
+  {
+    "question": "Which philosopher is famous for the quote 'I think, therefore I am'?",
+    "correctAnswer": "René Descartes",
+    "incorrectAnswers": ["Immanuel Kant", "John Locke", "Socrates"]
+  },
+  {
+    "question": "What is the name of the system of writing used in ancient Egypt?",
+    "correctAnswer": "Hieroglyphics",
+    "incorrectAnswers": ["Cuneiform", "Latin", "Sanskrit"]
+  },
+  {
+    "question": "Which country is known for its traditional dance called the Flamenco?",
+    "correctAnswer": "Spain",
+    "incorrectAnswers": ["Portugal", "Italy", "France"]
+  },
+  {
+    "question": "Which ancient civilization built Machu Picchu?",
+    "correctAnswer": "Inca",
+    "incorrectAnswers": ["Maya", "Aztec", "Olmec"]
+  },
+  {
+    "question": "What is the main religion practiced in Thailand?",
+    "correctAnswer": "Buddhism",
+    "incorrectAnswers": ["Hinduism", "Christianity", "Islam"]
+  },
+  {
+    "question": "Which country has a tradition of throwing tomatoes during a festival called La Tomatina?",
+    "correctAnswer": "Spain",
+    "incorrectAnswers": ["Italy", "Mexico", "Argentina"]
+  },
+  {
+    "question": "What is the term for a group of people who share the same customs, language, and traditions?",
+    "correctAnswer": "Ethnic group",
+    "incorrectAnswers": ["Nation", "Tribe", "Society"]
+  },
+  {
+    "question": "Who is the famous civil rights leader who delivered the 'I Have a Dream' speech?",
+    "correctAnswer": "Martin Luther King Jr.",
+    "incorrectAnswers": ["Malcolm X", "Rosa Parks", "Frederick Douglass"]
+  },
+  {
+    "question": "Which country is the origin of the martial art Taekwondo?",
+    "correctAnswer": "South Korea",
+    "incorrectAnswers": ["Japan", "China", "Thailand"]
+  },
+  {
+    "question": "What is the term for the custom of eating with chopsticks?",
+    "correctAnswer": "Asian dining etiquette",
+    "incorrectAnswers": ["Western dining etiquette", "Middle Eastern dining etiquette", "African dining etiquette"]
+  },
+  {
+    "question": "Which city is famous for its Carnival festival featuring samba dancers?",
+    "correctAnswer": "Rio de Janeiro",
+    "incorrectAnswers": ["Buenos Aires", "Lima", "Sao Paulo"]
+  },
+  {
+    "question": "Which religion is associated with the concepts of karma and reincarnation?",
+    "correctAnswer": "Hinduism",
+    "incorrectAnswers": ["Judaism", "Christianity", "Islam"]
+  },
+  {
+    "question": "What is the name of the famous wall built to protect China from invasions?",
+    "correctAnswer": "Great Wall of China",
+    "incorrectAnswers": ["Berlin Wall", "Hadrian's Wall", "Western Wall"]
+  },
+  {
+    "question": "Which festival marks the Islamic New Year?",
+    "correctAnswer": "Hijri New Year",
+    "incorrectAnswers": ["Eid al-Fitr", "Ramadan", "Muharram"]
+  },
+  {
+    "question": "What is the traditional clothing worn by Scottish men called?",
+    "correctAnswer": "Kilt",
+    "incorrectAnswers": ["Toga", "Kimono", "Dashiki"]
+  },
+  {
+    "question": "Which ancient city is famous for its oracle and temple dedicated to Apollo?",
+    "correctAnswer": "Delphi",
+    "incorrectAnswers": ["Athens", "Rome", "Cairo"]
+  },
+  {
+    "question": "Which continent is known as the birthplace of humankind?",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": ["Asia", "Europe", "South America"]
+  },
+  {
+    "question": "What is the name of the cultural movement that began in Harlem in the 1920s?",
+    "correctAnswer": "Harlem Renaissance",
+    "incorrectAnswers": ["Beat Generation", "Lost Generation", "Romanticism"]
+  },
+  {
+    "question": "Which country is famous for the traditional dance called the Hula?",
+    "correctAnswer": "Hawaii (USA)",
+    "incorrectAnswers": ["Fiji", "New Zealand", "Samoa"]
+  },
+  {
+    "question": "What is the term for a ceremony where a person is formally admitted into a religion?",
+    "correctAnswer": "Initiation",
+    "incorrectAnswers": ["Baptism", "Confirmation", "Ordination"]
+  },
+  {
+    "question": "Which language is the most widely spoken native language in the world?",
     "correctAnswer": "Mandarin Chinese",
-    "incorrectAnswers": ["English", "Hindi", "Spanish"]
+    "incorrectAnswers": ["English", "Spanish", "Hindi"]
+  },
+  {
+    "question": "Which holiday celebrates the end of slavery in the United States?",
+    "correctAnswer": "Juneteenth",
+    "incorrectAnswers": ["Martin Luther King Jr. Day", "Labor Day", "Thanksgiving"]
+  },
+  {
+    "question": "What is the term for the belief in multiple gods?",
+    "correctAnswer": "Polytheism",
+    "incorrectAnswers": ["Monotheism", "Atheism", "Agnosticism"]
+  },
+  {
+    "question": "Which culture built the ancient city of Petra, famous for its rock-cut architecture?",
+    "correctAnswer": "Nabateans",
+    "incorrectAnswers": ["Romans", "Greeks", "Egyptians"]
+  },
+  {
+    "question": "What is the traditional musical instrument of Australia, often made from wood?",
+    "correctAnswer": "Didgeridoo",
+    "incorrectAnswers": ["Ukelele", "Marimba", "Sitar"]
+  },
+  {
+    "question": "Which social movement fought for women's right to vote?",
+    "correctAnswer": "Suffrage movement",
+    "incorrectAnswers": ["Civil Rights movement", "Abolitionist movement", "Temperance movement"]
+  },
+  {
+    "question": "What is the name of the belief system followed by the Navajo people?",
+    "correctAnswer": "Diné Bahaneʼ",
+    "incorrectAnswers": ["Shamanism", "Totemism", "Animism"]
+  },
+  {
+    "question": "Which country is known for the traditional festival called Oktoberfest?",
+    "correctAnswer": "Germany",
+    "incorrectAnswers": ["Austria", "Switzerland", "Netherlands"]
+  },
+  {
+    "question": "What does UNESCO stand for?",
+    "correctAnswer": "United Nations Educational, Scientific and Cultural Organization",
+    "incorrectAnswers": ["United Nations Environmental and Social Organization", "United Nations Economic and Social Organization", "United Nations Energy and Scientific Organization"]
+  },
+  {
+    "question": "Which city is home to the famous Taj Mahal?",
+    "correctAnswer": "Agra",
+    "incorrectAnswers": ["Delhi", "Mumbai", "Jaipur"]
+  },
+  {
+    "question": "Which continent is known for its diverse indigenous cultures, including the Maori and Aboriginal peoples?",
+    "correctAnswer": "Oceania",
+    "incorrectAnswers": ["Asia", "Africa", "Europe"]
+  },
+  {
+    "question": "Which cultural tradition is associated with the Maori people of New Zealand?",
+    "correctAnswer": "Haka dance",
+    "incorrectAnswers": ["Samba", "Flamenco", "Belly dance"]
+  },
+  {
+    "question": "What is the term for laws and customs inherited from ancestors?",
+    "correctAnswer": "Tradition",
+    "incorrectAnswers": ["Religion", "Culture", "Ethics"]
+  },
+  {
+    "question": "Which Asian country has a traditional dress called the Hanbok?",
+    "correctAnswer": "South Korea",
+    "incorrectAnswers": ["China", "Japan", "Vietnam"]
+  },
+  {
+    "question": "Which country celebrates the Lunar New Year most famously?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["Japan", "Vietnam", "South Korea"]
+  },
+  {
+    "question": "Which American holiday commemorates the Pilgrims’ arrival and harvest feast?",
+    "correctAnswer": "Thanksgiving",
+    "incorrectAnswers": ["Independence Day", "Memorial Day", "Labor Day"]
+  },
+  {
+    "question": "What is the name of the Native American code talkers famous in World War II?",
+    "correctAnswer": "Navajo Code Talkers",
+    "incorrectAnswers": ["Cherokee Code Talkers", "Sioux Code Talkers", "Apache Code Talkers"]
+  },
+  {
+    "question": "Which country is known for the tradition of Carnival in Venice?",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": ["France", "Spain", "Brazil"]
+  },
+  {
+    "question": "Which cultural practice involves face painting called 'War Paint' in some indigenous tribes?",
+    "correctAnswer": "Ritual body painting",
+    "incorrectAnswers": ["Tattooing", "Henna art", "Makeup"]
   }
 ]

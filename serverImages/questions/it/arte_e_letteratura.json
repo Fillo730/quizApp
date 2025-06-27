@@ -1,0 +1,237 @@
+[
+  {
+    "question": "Chi ha scritto l'opera teatrale 'Amleto'?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": ["Christopher Marlowe", "Ben Jonson", "John Milton"]
+  },
+  {
+    "question": "Quale artista ha dipinto il soffitto della Cappella Sistina?",
+    "correctAnswer": "Michelangelo",
+    "incorrectAnswers": ["Raffaello", "Leonardo da Vinci", "Donatello"]
+  },
+  {
+    "question": "Chi è l'autrice del romanzo 'Orgoglio e pregiudizio'?",
+    "correctAnswer": "Jane Austen",
+    "incorrectAnswers": ["Charlotte Brontë", "Mary Shelley", "Emily Dickinson"]
+  },
+  {
+    "question": "Quale opera letteraria inizia con la frase 'Era il migliore dei tempi, era il peggiore dei tempi'?",
+    "correctAnswer": "Una storia tra due città",
+    "incorrectAnswers": ["Grandi speranze", "Moby Dick", "I miserabili"]
+  },
+  {
+    "question": "Quale artista è famoso per il dipinto 'Notte stellata'?",
+    "correctAnswer": "Vincent van Gogh",
+    "incorrectAnswers": ["Claude Monet", "Paul Cézanne", "Edvard Munch"]
+  },
+  {
+    "question": "Chi ha scritto il poema epico 'L'Odissea'?",
+    "correctAnswer": "Omero",
+    "incorrectAnswers": ["Virgilio", "Sofocle", "Ovidio"]
+  },
+  {
+    "question": "Quale autore ha creato il personaggio Sherlock Holmes?",
+    "correctAnswer": "Arthur Conan Doyle",
+    "incorrectAnswers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"]
+  },
+  {
+    "question": "A quale movimento artistico è associato Claude Monet?",
+    "correctAnswer": "Impressionismo",
+    "incorrectAnswers": ["Cubismo", "Surrealismo", "Barocco"]
+  },
+  {
+    "question": "Chi ha scritto il romanzo 'Frankenstein'?",
+    "correctAnswer": "Mary Shelley",
+    "incorrectAnswers": ["Bram Stoker", "Edgar Allan Poe", "Robert Louis Stevenson"]
+  },
+  {
+    "question": "Qual è la nazionalità dello scrittore Gabriel García Márquez?",
+    "correctAnswer": "Colombiana",
+    "incorrectAnswers": ["Messicana", "Peruviana", "Argentina"]
+  },
+  {
+    "question": "Chi ha scritto il dramma 'Un tram che si chiama Desiderio'?",
+    "correctAnswer": "Tennessee Williams",
+    "incorrectAnswers": ["Arthur Miller", "Eugene O’Neill", "Harold Pinter"]
+  },
+  {
+    "question": "Quale dipinto famoso raffigura una donna con un sorriso misterioso?",
+    "correctAnswer": "Monna Lisa",
+    "incorrectAnswers": ["La ragazza con l’orecchino di perla", "La nascita di Venere", "La ronda di notte"]
+  },
+  {
+    "question": "Chi è considerato il padre della psicoanalisi moderna e ha anche scritto sulla letteratura?",
+    "correctAnswer": "Sigmund Freud",
+    "incorrectAnswers": ["Carl Jung", "Alfred Adler", "Friedrich Nietzsche"]
+  },
+  {
+    "question": "Quale stile ha reso famoso Pablo Picasso?",
+    "correctAnswer": "Cubismo",
+    "incorrectAnswers": ["Impressionismo", "Surrealismo", "Espressionismo"]
+  },
+  {
+    "question": "Quale autore britannico ha scritto 'Il mondo nuovo'?",
+    "correctAnswer": "Aldous Huxley",
+    "incorrectAnswers": ["George Orwell", "H.G. Wells", "Ray Bradbury"]
+  },
+  {
+    "question": "Chi ha composto il famoso balletto 'Lo Schiaccianoci'?",
+    "correctAnswer": "Pëtr Il'ič Čajkovskij",
+    "incorrectAnswers": ["Igor Stravinsky", "Ludwig van Beethoven", "Johann Sebastian Bach"]
+  },
+  {
+    "question": "Qual è il titolo del primo romanzo di J.R.R. Tolkien ambientato nella Terra di Mezzo?",
+    "correctAnswer": "Lo Hobbit",
+    "incorrectAnswers": ["Il Signore degli Anelli", "Il Silmarillion", "Le Due Torri"]
+  },
+  {
+    "question": "Chi ha scritto 'Il giovane Holden'?",
+    "correctAnswer": "J.D. Salinger",
+    "incorrectAnswers": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"]
+  },
+  {
+    "question": "A quale stile artistico è associato Salvador Dalí?",
+    "correctAnswer": "Surrealismo",
+    "incorrectAnswers": ["Cubismo", "Impressionismo", "Barocco"]
+  },
+  {
+    "question": "Chi ha dipinto 'La persistenza della memoria' con gli orologi che si sciolgono?",
+    "correctAnswer": "Salvador Dalí",
+    "incorrectAnswers": ["René Magritte", "Joan Miró", "Pablo Picasso"]
+  },
+  {
+    "question": "Quale romanzo ha come protagonista Jay Gatsby?",
+    "correctAnswer": "Il grande Gatsby",
+    "incorrectAnswers": ["Tenera è la notte", "Al di qua del paradiso", "Il sole sorgerà ancora"]
+  },
+  {
+    "question": "Chi è l’autore della poesia 'Il corvo'?",
+    "correctAnswer": "Edgar Allan Poe",
+    "incorrectAnswers": ["Robert Frost", "Emily Dickinson", "Walt Whitman"]
+  },
+  {
+    "question": "Quale artista americano è noto per il dipinto 'Campbell’s Soup Cans'?",
+    "correctAnswer": "Andy Warhol",
+    "incorrectAnswers": ["Roy Lichtenstein", "Jackson Pollock", "Mark Rothko"]
+  },
+  {
+    "question": "Quale romanzo di Lev Tolstoj inizia con la frase 'Tutte le famiglie felici si somigliano'?",
+    "correctAnswer": "Anna Karenina",
+    "incorrectAnswers": ["Guerra e pace", "Resurrezione", "La morte di Ivan Il'ič"]
+  },
+  {
+    "question": "Chi ha scritto 'Il buio oltre la siepe'?",
+    "correctAnswer": "Harper Lee",
+    "incorrectAnswers": ["Truman Capote", "Zora Neale Hurston", "Toni Morrison"]
+  },
+  {
+    "question": "Quale pittore è famoso per l'opera 'Guernica'?",
+    "correctAnswer": "Pablo Picasso",
+    "incorrectAnswers": ["Georges Braque", "Juan Gris", "Henri Matisse"]
+  },
+  {
+    "question": "Quale poeta ha scritto 'Foglie d'erba'?",
+    "correctAnswer": "Walt Whitman",
+    "incorrectAnswers": ["Emily Dickinson", "Robert Frost", "T.S. Eliot"]
+  },
+  {
+    "question": "Chi ha scritto il romanzo 'Cent'anni di solitudine'?",
+    "correctAnswer": "Gabriel García Márquez",
+    "incorrectAnswers": ["Isabel Allende", "Jorge Luis Borges", "Mario Vargas Llosa"]
+  },
+  {
+    "question": "Con quale stile è associato Jackson Pollock?",
+    "correctAnswer": "Espressionismo astratto",
+    "incorrectAnswers": ["Cubismo", "Surrealismo", "Realismo"]
+  },
+  {
+    "question": "Chi ha scritto la tragedia 'Macbeth'?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": ["Christopher Marlowe", "Ben Jonson", "John Webster"]
+  },
+  {
+    "question": "Quale romanzo è ambientato nella terra immaginaria della Terra di Mezzo?",
+    "correctAnswer": "Il Signore degli Anelli",
+    "incorrectAnswers": ["Le cronache di Narnia", "Harry Potter", "La Ruota del Tempo"]
+  },
+  {
+    "question": "Chi ha dipinto 'La nascita di Venere'?",
+    "correctAnswer": "Sandro Botticelli",
+    "incorrectAnswers": ["Leonardo da Vinci", "Raffaello", "Tiziano"]
+  },
+  {
+    "question": "Quale autore francese ha scritto 'I miserabili'?",
+    "correctAnswer": "Victor Hugo",
+    "incorrectAnswers": ["Émile Zola", "Gustave Flaubert", "Alexandre Dumas"]
+  },
+  {
+    "question": "Chi è l'autore del romanzo 'Il ritratto di Dorian Gray'?",
+    "correctAnswer": "Oscar Wilde",
+    "incorrectAnswers": ["Charles Dickens", "Bram Stoker", "H.G. Wells"]
+  },
+  {
+    "question": "Quale artista ha dipinto 'La ragazza con l’orecchino di perla'?",
+    "correctAnswer": "Johannes Vermeer",
+    "incorrectAnswers": ["Rembrandt", "Frans Hals", "Peter Paul Rubens"]
+  },
+  {
+    "question": "Quale poema epico racconta la guerra di Troia?",
+    "correctAnswer": "L'Iliade",
+    "incorrectAnswers": ["L'Eneide", "Beowulf", "L'Epopea di Gilgamesh"]
+  },
+  {
+    "question": "Quale poeta ha scritto 'La terra desolata'?",
+    "correctAnswer": "T.S. Eliot",
+    "incorrectAnswers": ["Ezra Pound", "W.B. Yeats", "Wallace Stevens"]
+  },
+  {
+    "question": "Chi ha scritto il romanzo distopico 'Fahrenheit 451'?",
+    "correctAnswer": "Ray Bradbury",
+    "incorrectAnswers": ["George Orwell", "Aldous Huxley", "Philip K. Dick"]
+  },
+  {
+    "question": "Quale artista è noto per lo stile chiamato Pointillisme (puntinismo)?",
+    "correctAnswer": "Georges Seurat",
+    "incorrectAnswers": ["Paul Signac", "Henri de Toulouse-Lautrec", "Claude Monet"]
+  },
+  {
+    "question": "Chi ha composto l'opera 'Il flauto magico'?",
+    "correctAnswer": "Wolfgang Amadeus Mozart",
+    "incorrectAnswers": ["Ludwig van Beethoven", "Giuseppe Verdi", "Richard Wagner"]
+  },
+  {
+    "question": "Quale autore americano ha scritto 'Il grande Gatsby'?",
+    "correctAnswer": "F. Scott Fitzgerald",
+    "incorrectAnswers": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"]
+  },
+  {
+    "question": "Quale romanzo ha come protagonista Hester Prynne?",
+    "correctAnswer": "La lettera scarlatta",
+    "incorrectAnswers": ["Via col vento", "Piccole donne", "La casa dei sette abbaini"]
+  },
+  {
+    "question": "Chi ha dipinto 'L'Ultima Cena'?",
+    "correctAnswer": "Leonardo da Vinci",
+    "incorrectAnswers": ["Michelangelo", "Raffaello", "Tiziano"]
+  },
+  {
+    "question": "Quale scrittore è noto per 'La Divina Commedia'?",
+    "correctAnswer": "Dante Alighieri",
+    "incorrectAnswers": ["Geoffrey Chaucer", "John Milton", "William Blake"]
+  },
+  {
+    "question": "Chi è l'autore di 'Delitto e castigo'?",
+    "correctAnswer": "Fëdor Dostoevskij",
+    "incorrectAnswers": ["Lev Tolstoj", "Anton Čechov", "Nikolaj Gogol'"]
+  },
+  {
+    "question": "Quale romanzo di Franz Kafka racconta la storia di un uomo che si trasforma in insetto?",
+    "correctAnswer": "La metamorfosi",
+    "incorrectAnswers": ["Il processo", "Il castello", "America"]
+  },
+  {
+    "question": "Chi ha dipinto 'Gothic American'?",
+    "correctAnswer": "Grant Wood",
+    "incorrectAnswers": ["Edward Hopper", "Thomas Hart Benton", "Georgia O’Keeffe"]
+  }
+]

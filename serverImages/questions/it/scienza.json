@@ -1,0 +1,425 @@
+[
+  {
+    "question": "Qual è la funzione principale dei mitocondri in una cellula?",
+    "correctAnswer": "Produrre energia attraverso la respirazione cellulare",
+    "incorrectAnswers": [
+      "Sintetizzare proteine",
+      "Controllare la divisione cellulare",
+      "Trasportare ossigeno"
+    ]
+  },
+  {
+    "question": "Quale particella subatomica ha una carica positiva?",
+    "correctAnswer": "Protone",
+    "incorrectAnswers": [
+      "Elettrone",
+      "Neutrone",
+      "Positrone"
+    ]
+  },
+  {
+    "question": "Quale organo regola i livelli di glucosio nel sangue nel corpo umano?",
+    "correctAnswer": "Pancreas",
+    "incorrectAnswers": [
+      "Fegato",
+      "Reni",
+      "Milza"
+    ]
+  },
+  {
+    "question": "Quale legge di Mendel descrive la segregazione dei fattori ereditari?",
+    "correctAnswer": "Legge della segregazione",
+    "incorrectAnswers": [
+      "Legge dell'assortimento indipendente",
+      "Legge della dominanza",
+      "Legge della mutazione"
+    ]
+  },
+  {
+    "question": "Qual è il principale gas responsabile dello strato di ozono terrestre?",
+    "correctAnswer": "Ozono",
+    "incorrectAnswers": [
+      "Ossigeno",
+      "Anidride carbonica",
+      "Azoto"
+    ]
+  },
+  {
+    "question": "Che tipo di legame chimico si forma quando due atomi condividono una coppia di elettroni?",
+    "correctAnswer": "Legame covalente",
+    "incorrectAnswers": [
+      "Legame ionico",
+      "Legame metallico",
+      "Forze di Van der Waals"
+    ]
+  },
+  {
+    "question": "Come si chiama il processo in cui una cellula si divide per formare due cellule figlie identiche?",
+    "correctAnswer": "Mitosi",
+    "incorrectAnswers": [
+      "Meiosi",
+      "Fissione binaria",
+      "Apoptosi"
+    ]
+  },
+  {
+    "question": "Quali scienziati hanno scoperto la struttura a doppia elica del DNA?",
+    "correctAnswer": "James Watson e Francis Crick",
+    "incorrectAnswers": [
+      "Rosalind Franklin",
+      "Gregor Mendel",
+      "Louis Pasteur"
+    ]
+  },
+  {
+    "question": "Qual è il minerale naturale più duro conosciuto?",
+    "correctAnswer": "Diamante",
+    "incorrectAnswers": [
+      "Quarzo",
+      "Topazio",
+      "Corindone"
+    ]
+  },
+  {
+    "question": "Quale organo produce la bile nel corpo umano?",
+    "correctAnswer": "Fegato",
+    "incorrectAnswers": [
+      "Reni",
+      "Pancreas",
+      "Stomaco"
+    ]
+  },
+  {
+    "question": "Qual è il principale gas serra responsabile del riscaldamento globale?",
+    "correctAnswer": "Anidride carbonica",
+    "incorrectAnswers": [
+      "Ossigeno",
+      "Azoto",
+      "Metano"
+    ]
+  },
+  {
+    "question": "Qual è la funzione primaria dei globuli rossi?",
+    "correctAnswer": "Trasportare ossigeno nel sangue",
+    "incorrectAnswers": [
+      "Combattere infezioni",
+      "Coagulare il sangue",
+      "Produrre anticorpi"
+    ]
+  },
+  {
+    "question": "Come si chiama il processo mediante il quale le piante trasformano anidride carbonica e acqua in glucosio e ossigeno?",
+    "correctAnswer": "Fotosintesi",
+    "incorrectAnswers": [
+      "Respirazione cellulare",
+      "Fermentazione",
+      "Ossidazione"
+    ]
+  },
+  {
+    "question": "Quale parte dell'occhio umano è responsabile di mettere a fuoco le immagini sulla retina?",
+    "correctAnswer": "Cristallino",
+    "incorrectAnswers": [
+      "Cornea",
+      "Iride",
+      "Pupilla"
+    ]
+  },
+  {
+    "question": "Qual è il componente principale dell'aria che respiriamo?",
+    "correctAnswer": "Azoto",
+    "incorrectAnswers": [
+      "Ossigeno",
+      "Anidride carbonica",
+      "Idrogeno"
+    ]
+  },
+  {
+    "question": "Quale scala si usa per misurare l'acidità o basicità di una sostanza?",
+    "correctAnswer": "Scala del pH",
+    "incorrectAnswers": [
+      "Scala Richter",
+      "Scala decibel",
+      "Scala Kelvin"
+    ]
+  },
+  {
+    "question": "Quale processo biologico produce i gameti (cellule sessuali)?",
+    "correctAnswer": "Meiosi",
+    "incorrectAnswers": [
+      "Mitosi",
+      "Fissione binaria",
+      "Germinazione"
+    ]
+  },
+  {
+    "question": "Quale gas respiriamo per sopravvivere?",
+    "correctAnswer": "Ossigeno",
+    "incorrectAnswers": [
+      "Azoto",
+      "Anidride carbonica",
+      "Elio"
+    ]
+  },
+  {
+    "question": "Quale parte del DNA contiene l'informazione genetica?",
+    "correctAnswer": "Sequenza di basi azotate",
+    "incorrectAnswers": [
+      "Catena di zuccheri",
+      "Catena di fosfati",
+      "Membrana cellulare"
+    ]
+  },
+  {
+    "question": "Qual è l'elemento principale che si trova nel nucleo delle stelle?",
+    "correctAnswer": "Idrogeno",
+    "incorrectAnswers": [
+      "Ossigeno",
+      "Elio",
+      "Carbonio"
+    ]
+  },
+  {
+    "question": "Qual è il ramo della biologia che studia gli animali?",
+    "correctAnswer": "Zoologia",
+    "incorrectAnswers": [
+      "Botanica",
+      "Microbiologia",
+      "Ecologia"
+    ]
+  },
+  {
+    "question": "Qual è l'organo principale del sistema respiratorio umano?",
+    "correctAnswer": "Polmoni",
+    "incorrectAnswers": [
+      "Cuore",
+      "Fegato",
+      "Reni"
+    ]
+  },
+  {
+    "question": "Quale elemento chimico è rappresentato dal simbolo 'Na'?",
+    "correctAnswer": "Sodio",
+    "incorrectAnswers": [
+      "Nichel",
+      "Azoto",
+      "Neon"
+    ]
+  },
+  {
+    "question": "Qual è la principale fonte di energia per la Terra?",
+    "correctAnswer": "Il Sole",
+    "incorrectAnswers": [
+      "La Luna",
+      "Le stelle",
+      "I vulcani"
+    ]
+  },
+  {
+    "question": "Come si chiama il processo in cui una sostanza passa da solido a liquido?",
+    "correctAnswer": "Fusione",
+    "incorrectAnswers": [
+      "Evaporazione",
+      "Condensazione",
+      "Sublimazione"
+    ]
+  },
+  {
+    "question": "Qual è la funzione principale dei cloroplasti nelle cellule vegetali?",
+    "correctAnswer": "Effettuare la fotosintesi",
+    "incorrectAnswers": [
+      "Immagazzinare energia",
+      "Trasportare nutrienti",
+      "Regolare il pH"
+    ]
+  },
+  {
+    "question": "Come si chiama la particella con carica negativa che orbita attorno al nucleo atomico?",
+    "correctAnswer": "Elettrone",
+    "incorrectAnswers": [
+      "Protone",
+      "Neutrone",
+      "Quark"
+    ]
+  },
+  {
+    "question": "Quale fenomeno naturale causa le maree?",
+    "correctAnswer": "La forza di gravità della Luna",
+    "incorrectAnswers": [
+      "La rotazione della Terra",
+      "L'azione del vento",
+      "Le correnti oceaniche"
+    ]
+  },
+  {
+    "question": "Come si chiama la proteina responsabile del trasporto di ossigeno nel sangue?",
+    "correctAnswer": "Emoglobina",
+    "incorrectAnswers": [
+      "Miosina",
+      "Collagene",
+      "Insulina"
+    ]
+  },
+  {
+    "question": "Quale legge di Newton afferma che ad ogni azione corrisponde una reazione uguale e contraria?",
+    "correctAnswer": "Terza legge di Newton",
+    "incorrectAnswers": [
+      "Prima legge di Newton",
+      "Seconda legge di Newton",
+      "Legge della gravitazione universale"
+    ]
+  },
+  {
+    "question": "Quale fenomeno spiega perché gli oggetti cadono verso il suolo?",
+    "correctAnswer": "Gravità",
+    "incorrectAnswers": [
+      "Magnetismo",
+      "Forza centrifuga",
+      "Pressione dell'aria"
+    ]
+  },
+  {
+    "question": "Quale organo produce l'ormone insulina?",
+    "correctAnswer": "Pancreas",
+    "incorrectAnswers": [
+      "Fegato",
+      "Reni",
+      "Tiroide"
+    ]
+  },
+  {
+    "question": "Qual è la struttura base del sistema nervoso centrale?",
+    "correctAnswer": "Il cervello",
+    "incorrectAnswers": [
+      "Cuore",
+      "Midollo spinale",
+      "Polmoni"
+    ]
+  },
+  {
+    "question": "Qual è l'elemento principale che costituisce la crosta terrestre?",
+    "correctAnswer": "Ossigeno",
+    "incorrectAnswers": [
+      "Ferro",
+      "Silicio",
+      "Alluminio"
+    ]
+  },
+  {
+    "question": "Quale scienziato è considerato il padre della microbiologia?",
+    "correctAnswer": "Louis Pasteur",
+    "incorrectAnswers": [
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek",
+      "Gregor Mendel"
+    ]
+  },
+  {
+    "question": "Qual è la funzione principale del sistema digestivo?",
+    "correctAnswer": "Assorbire nutrienti e digerire il cibo",
+    "incorrectAnswers": [
+      "Produrre ormoni",
+      "Controllare la temperatura corporea",
+      "Filtrare il sangue"
+    ]
+  },
+  {
+    "question": "Quale fenomeno spiega la deviazione della luce?",
+    "correctAnswer": "Rifrazione",
+    "incorrectAnswers": [
+      "Riflessione",
+      "Diffrazione",
+      "Assorbimento"
+    ]
+  },
+  {
+    "question": "Quale gas viene prodotto durante la fermentazione alcolica?",
+    "correctAnswer": "Anidride carbonica",
+    "incorrectAnswers": [
+      "Ossigeno",
+      "Azoto",
+      "Metano"
+    ]
+  },
+  {
+    "question": "Qual è l'unità più piccola della vita?",
+    "correctAnswer": "La cellula",
+    "incorrectAnswers": [
+      "Atomo",
+      "Molecola",
+      "Organo"
+    ]
+  },
+  {
+    "question": "Come si chiama lo scienziato che ha sviluppato la teoria dell'evoluzione tramite selezione naturale?",
+    "correctAnswer": "Charles Darwin",
+    "incorrectAnswers": [
+      "Gregor Mendel",
+      "Albert Einstein",
+      "Isaac Newton"
+    ]
+  },
+  {
+    "question": "Quale vitamina è principalmente prodotta quando la pelle è esposta alla luce solare?",
+    "correctAnswer": "Vitamina D",
+    "incorrectAnswers": [
+      "Vitamina A",
+      "Vitamina C",
+      "Vitamina B12"
+    ]
+  },
+  {
+    "question": "Quale organo filtra i rifiuti dal sangue per produrre l'urina?",
+    "correctAnswer": "Reni",
+    "incorrectAnswers": [
+      "Fegato",
+      "Vescica",
+      "Polmoni"
+    ]
+  },
+  {
+    "question": "Quali vasi sanguigni trasportano il sangue lontano dal cuore?",
+    "correctAnswer": "Arterie",
+    "incorrectAnswers": [
+      "Vene",
+      "Capillari",
+      "Vasi linfatici"
+    ]
+  },
+  {
+    "question": "Qual è il blocco costitutivo fondamentale delle proteine?",
+    "correctAnswer": "Aminoacidi",
+    "incorrectAnswers": [
+      "Nucleotidi",
+      "Acidi grassi",
+      "Zuccheri"
+    ]
+  },
+  {
+    "question": "Quale sistema nel corpo umano è responsabile della difesa contro le infezioni?",
+    "correctAnswer": "Sistema immunitario",
+    "incorrectAnswers": [
+      "Sistema digestivo",
+      "Sistema nervoso",
+      "Sistema endocrino"
+    ]
+  },
+  {
+    "question": "Quale pianeta del nostro sistema solare ha la forza gravitazionale più forte?",
+    "correctAnswer": "Giove",
+    "incorrectAnswers": [
+      "Terra",
+      "Saturno",
+      "Marte"
+    ]
+  },
+  {
+    "question": "Quale scienziato è accreditato per la scoperta della penicillina?",
+    "correctAnswer": "Alexander Fleming",
+    "incorrectAnswers": [
+      "Marie Curie",
+      "Louis Pasteur",
+      "Gregor Mendel"
+    ]
+  }
+]

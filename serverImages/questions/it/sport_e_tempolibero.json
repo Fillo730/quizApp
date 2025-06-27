@@ -1,0 +1,267 @@
+[
+  {
+    "question": "Qual è lo sport conosciuto come 'il re degli sport' in tutto il mondo?",
+    "correctAnswer": "Calcio",
+    "incorrectAnswers": ["Basket", "Cricket", "Tennis"]
+  },
+  {
+    "question": "In quale paese è nato l'arte marziale Taekwondo?",
+    "correctAnswer": "Corea del Sud",
+    "incorrectAnswers": ["Giappone", "Cina", "Thailandia"]
+  },
+  {
+    "question": "Qual è il numero massimo di giocatori ammessi in campo per una squadra nel rugby a 15?",
+    "correctAnswer": "15",
+    "incorrectAnswers": ["11", "7", "13"]
+  },
+  {
+    "question": "Quale attrezzatura è essenziale nello sport del curling?",
+    "correctAnswer": "Stone (pietra)",
+    "incorrectAnswers": ["Puck", "Palla", "Mazzuolo"]
+  },
+  {
+    "question": "Quale sport invernale combina sci di fondo e tiro con il fucile?",
+    "correctAnswer": "Biathlon",
+    "incorrectAnswers": ["Combinata Nordica", "Salto con gli sci", "Slittino"]
+  },
+  {
+    "question": "Nel tennis, come si chiama il punteggio pari a zero?",
+    "correctAnswer": "Love",
+    "incorrectAnswers": ["Zero", "Anatra", "Nullo"]
+  },
+  {
+    "question": "Quale paese ospita ogni anno la gara ciclistica Tour de France?",
+    "correctAnswer": "Francia",
+    "incorrectAnswers": ["Italia", "Spagna", "Belgio"]
+  },
+  {
+    "question": "Nel golf, come si chiama un punteggio di uno sotto il par su una buca?",
+    "correctAnswer": "Birdie",
+    "incorrectAnswers": ["Eagle", "Bogey", "Par"]
+  },
+  {
+    "question": "Come si chiama la forma tradizionale giapponese di lotta?",
+    "correctAnswer": "Sumo",
+    "incorrectAnswers": ["Judo", "Karate", "Aikido"]
+  },
+  {
+    "question": "Quale paese ha vinto la prima Coppa del Mondo FIFA nel 1930?",
+    "correctAnswer": "Uruguay",
+    "incorrectAnswers": ["Brasile", "Argentina", "Italia"]
+  },
+  {
+    "question": "In quale sport si usa il termine 'home run'?",
+    "correctAnswer": "Baseball",
+    "incorrectAnswers": ["Cricket", "Softball", "Tennis"]
+  },
+  {
+    "question": "Quale gioco da tavolo prevede la cattura dei pezzi avversari saltandoli?",
+    "correctAnswer": "Dama",
+    "incorrectAnswers": ["Scacchi", "Go", "Backgammon"]
+  },
+  {
+    "question": "Quale sport olimpico utilizza il cavallo con le maniglie (pommel horse) come attrezzo?",
+    "correctAnswer": "Ginnastica",
+    "incorrectAnswers": ["Equitazione", "Sollevamento pesi", "Lotteria"]
+  },
+  {
+    "question": "Quanto dura una partita professionistica di calcio regolamentare, esclusi i tempi supplementari?",
+    "correctAnswer": "90 minuti",
+    "incorrectAnswers": ["60 minuti", "80 minuti", "120 minuti"]
+  },
+  {
+    "question": "Quale sport acquatico prevede il surf su onde con una tavola?",
+    "correctAnswer": "Surf",
+    "incorrectAnswers": ["Vela", "Pallanuoto", "Kayak"]
+  },
+  {
+    "question": "Quale sport è tradizionalmente associato alla città di Wimbledon?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": ["Cricket", "Badminton", "Rugby"]
+  },
+  {
+    "question": "In quale sport si esegue una schiacciata (slam dunk)?",
+    "correctAnswer": "Basket",
+    "incorrectAnswers": ["Pallavolo", "Pallamano", "Calcio"]
+  },
+  {
+    "question": "Cosa significa il termine 'par' nel golf?",
+    "correctAnswer": "Il numero previsto di colpi per completare una buca",
+    "incorrectAnswers": ["Un colpo di penalità", "Un punteggio sotto la media", "Il totale dei colpi effettuati"]
+  },
+  {
+    "question": "Quale sport utilizza un volano?",
+    "correctAnswer": "Badminton",
+    "incorrectAnswers": ["Tennis", "Squash", "Tennistavolo"]
+  },
+  {
+    "question": "Come si chiama la gara di atletica che copre 400 metri?",
+    "correctAnswer": "Sprint di un giro",
+    "incorrectAnswers": ["Mezza maratona", "100 metri", "800 metri"]
+  },
+  {
+    "question": "Quale gioco è noto per la frase 'Scacco matto'?",
+    "correctAnswer": "Scacchi",
+    "incorrectAnswers": ["Dama", "Go", "Backgammon"]
+  },
+  {
+    "question": "In quale sport si assegna la Stanley Cup?",
+    "correctAnswer": "Hockey su ghiaccio",
+    "incorrectAnswers": ["Lacrosse", "Basket", "Football"]
+  },
+  {
+    "question": "Quale attività prevede l'arrampicata su formazioni rocciose artificiali o naturali?",
+    "correctAnswer": "Arrampicata su roccia",
+    "incorrectAnswers": ["Alpinismo", "Speleologia", "Parkour"]
+  },
+  {
+    "question": "Come si chiama lo sport veloce che si gioca sul ghiaccio con scope e pietre?",
+    "correctAnswer": "Curling",
+    "incorrectAnswers": ["Hockey su ghiaccio", "Pattinaggio artistico", "Slittino"]
+  },
+  {
+    "question": "Quale paese è famoso per l'arte marziale Capoeira?",
+    "correctAnswer": "Brasile",
+    "incorrectAnswers": ["Messico", "Argentina", "Colombia"]
+  },
+  {
+    "question": "In quale sport si usa comunemente il termine 'alley-oop'?",
+    "correctAnswer": "Basket",
+    "incorrectAnswers": ["Pallavolo", "Tennis", "Badminton"]
+  },
+  {
+    "question": "Quale evento olimpico combina salto con gli sci e sci di fondo?",
+    "correctAnswer": "Combinata nordica",
+    "incorrectAnswers": ["Biathlon", "Snowboard", "Slittino"]
+  },
+  {
+    "question": "Come si chiama un punteggio di tre sotto il par nel golf?",
+    "correctAnswer": "Albatross",
+    "incorrectAnswers": ["Birdie", "Eagle", "Bogey"]
+  },
+  {
+    "question": "Quale sport prevede la pagaia di una canoa o kayak su rapide bianche?",
+    "correctAnswer": "Rafting in acque bianche",
+    "incorrectAnswers": ["Canottaggio", "Vela", "Pallanuoto"]
+  },
+  {
+    "question": "In quale paese è nato il gioco del cricket?",
+    "correctAnswer": "Inghilterra",
+    "incorrectAnswers": ["Australia", "India", "Sud Africa"]
+  },
+  {
+    "question": "Come si chiama l'evento multisportivo internazionale che si tiene ogni quattro anni?",
+    "correctAnswer": "Giochi Olimpici",
+    "incorrectAnswers": ["Coppa del Mondo", "Giochi del Commonwealth", "Giochi Panamericani"]
+  },
+  {
+    "question": "Quale sport è associato all'espressione 'hat-trick'?",
+    "correctAnswer": "Cricket",
+    "incorrectAnswers": ["Calcio", "Tennis", "Rugby"]
+  },
+  {
+    "question": "Come si chiama la superficie di gioco dell'hockey su ghiaccio?",
+    "correctAnswer": "Pista di ghiaccio",
+    "incorrectAnswers": ["Campo", "Campo da gioco", "Terreno"]
+  },
+  {
+    "question": "In quale sport si usa un mazzolo per colpire una palla attraverso degli anelli?",
+    "correctAnswer": "Polo",
+    "incorrectAnswers": ["Croquet", "Lacrosse", "Hockey"]
+  },
+  {
+    "question": "Quale sport usa il termine 'mischia' (scrum)?",
+    "correctAnswer": "Rugby",
+    "incorrectAnswers": ["Calcio", "Hockey", "Baseball"]
+  },
+  {
+    "question": "In quale paese è stato inventato il gioco da tavolo Mahjong?",
+    "correctAnswer": "Cina",
+    "incorrectAnswers": ["Giappone", "Corea", "Thailandia"]
+  },
+  {
+    "question": "Come si chiama la famosa partita di football americano per il titolo?",
+    "correctAnswer": "Super Bowl",
+    "incorrectAnswers": ["World Series", "Finali NBA", "Stanley Cup"]
+  },
+  {
+    "question": "Nella pista di ciclismo su pista, come si chiama la gara di sprint che copre due giri?",
+    "correctAnswer": "Match sprint",
+    "incorrectAnswers": ["Keirin", "Pursuit", "Omnium"]
+  },
+  {
+    "question": "Quale sport prevede due squadre che si lanciano una palla sopra una rete usando solo le mani?",
+    "correctAnswer": "Pallavolo",
+    "incorrectAnswers": ["Basket", "Tennis", "Pallamano"]
+  },
+  {
+    "question": "Come si chiama lo sport che combina corsa, nuoto e ciclismo?",
+    "correctAnswer": "Triathlon",
+    "incorrectAnswers": ["Pentathlon", "Decathlon", "Biathlon"]
+  },
+  {
+    "question": "Quale paese ha vinto il maggior numero di Coppe del Mondo di rugby?",
+    "correctAnswer": "Nuova Zelanda",
+    "incorrectAnswers": ["Australia", "Sud Africa", "Inghilterra"]
+  },
+  {
+    "question": "In quale sport si esegue una 'schiacciata' (spike)?",
+    "correctAnswer": "Pallavolo",
+    "incorrectAnswers": ["Tennis", "Badminton", "Basket"]
+  },
+  {
+    "question": "Come si chiama lo sport giapponese che prevede il tiro con l'arco a cavallo?",
+    "correctAnswer": "Yabusame",
+    "incorrectAnswers": ["Kendo", "Kyudo", "Sumo"]
+  },
+  {
+    "question": "Quale sport invernale prevede la discesa su una slitta piccola sul ghiaccio in posizione prona?",
+    "correctAnswer": "Slittino (Luge)",
+    "incorrectAnswers": ["Bob", "Skeleton", "Pattinaggio"]
+  },
+  {
+    "question": "Quale sport usa un campo diviso da una rete e una palla che i giocatori colpiscono con racchette?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": ["Badminton", "Squash", "Pallavolo"]
+  },
+  {
+    "question": "Come si chiama lo sport tradizionale scozzese che prevede il lancio di un peso pesante?",
+    "correctAnswer": "Caber toss",
+    "incorrectAnswers": ["Lancio del martello", "Lancio del peso", "Lancio del disco"]
+  },
+  {
+    "question": "Quale tipo di gara di nuoto prevede tutti e quattro gli stili in una sola gara?",
+    "correctAnswer": "Mista individuale",
+    "incorrectAnswers": ["Stile libero", "Farfalla", "Dorso"]
+  },
+  {
+    "question": "Qual è la distanza ufficiale di una maratona?",
+    "correctAnswer": "42,195 chilometri",
+    "incorrectAnswers": ["40 chilometri", "50 chilometri", "30 chilometri"]
+  },
+  {
+    "question": "Quale paese è noto per lo sport tradizionale Kabaddi?",
+    "correctAnswer": "India",
+    "incorrectAnswers": ["Pakistan", "Bangladesh", "Sri Lanka"]
+  },
+  {
+    "question": "Quale gioco da tavolo usa i termini 'scacco' e 'scacco matto'?",
+    "correctAnswer": "Scacchi",
+    "incorrectAnswers": ["Dama", "Go", "Backgammon"]
+  },
+  {
+    "question": "Quale sport prevede la navigazione di una piccola barca attraverso un percorso con porte appese su rapide fluviali?",
+    "correctAnswer": "Canoa slalom",
+    "incorrectAnswers": ["Kayak", "Canottaggio", "Vela"]
+  },
+  {
+    "question": "Nel basket, quanti punti vale un tiro effettuato da oltre la linea dei tre punti?",
+    "correctAnswer": "Tre punti",
+    "incorrectAnswers": ["Due punti", "Un punto", "Quattro punti"]
+  },
+  {
+    "question": "Quale sport usa il termine 'bogey' per descrivere un punteggio di un colpo sopra il par?",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": ["Bowling", "Baseball", "Tennis"]
+  }
+]

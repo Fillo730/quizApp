@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Chi è conosciuto come il 'Re del Pop'?",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": ["Elvis Presley", "Prince", "Freddie Mercury"]
+  },
+  {
+    "question": "Quale band ha pubblicato l'album 'Dark Side of the Moon'?",
+    "correctAnswer": "Pink Floyd",
+    "incorrectAnswers": ["Led Zeppelin", "The Rolling Stones", "Queen"]
+  },
+  {
+    "question": "Chi ha composto 'Le Quattro Stagioni'?",
+    "correctAnswer": "Antonio Vivaldi",
+    "incorrectAnswers": ["Johann Sebastian Bach", "Ludwig van Beethoven", "Wolfgang Amadeus Mozart"]
+  },
+  {
+    "question": "Quale cantante è famoso per la canzone 'Like a Rolling Stone'?",
+    "correctAnswer": "Bob Dylan",
+    "incorrectAnswers": ["Bruce Springsteen", "Eric Clapton", "Neil Young"]
+  },
+  {
+    "question": "Quale strumento ha 88 tasti?",
+    "correctAnswer": "Pianoforte",
+    "incorrectAnswers": ["Organo", "Fisarmonica", "Arpa"]
+  },
+  {
+    "question": "Chi era il cantante principale del gruppo Queen?",
+    "correctAnswer": "Freddie Mercury",
+    "incorrectAnswers": ["Brian May", "Roger Taylor", "John Deacon"]
+  },
+  {
+    "question": "A quale genere musicale è principalmente associato Louis Armstrong?",
+    "correctAnswer": "Jazz",
+    "incorrectAnswers": ["Blues", "Rock", "Classica"]
+  },
+  {
+    "question": "Quale pop star è conosciuta come la 'Material Girl'?",
+    "correctAnswer": "Madonna",
+    "incorrectAnswers": ["Lady Gaga", "Britney Spears", "Cyndi Lauper"]
+  },
+  {
+    "question": "Quale compositore classico è diventato sordo nella parte finale della sua vita?",
+    "correctAnswer": "Ludwig van Beethoven",
+    "incorrectAnswers": ["Wolfgang Amadeus Mozart", "Johannes Brahms", "Franz Schubert"]
+  },
+  {
+    "question": "Di quale band faceva parte Paul McCartney?",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": ["The Rolling Stones", "The Who", "Pink Floyd"]
+  },
+  {
+    "question": "Quale strumento è comunemente usato nella musica country ed è noto per il suo suono caratteristico?",
+    "correctAnswer": "Banjo",
+    "incorrectAnswers": ["Violino", "Sassofono", "Armonica"]
+  },
+  {
+    "question": "Chi ha cantato originariamente la canzone 'I Will Always Love You'?",
+    "correctAnswer": "Dolly Parton",
+    "incorrectAnswers": ["Whitney Houston", "Mariah Carey", "Celine Dion"]
+  },
+  {
+    "question": "Quale genere musicale è nato nel Bronx negli anni '70?",
+    "correctAnswer": "Hip Hop",
+    "incorrectAnswers": ["Reggae", "Punk Rock", "Disco"]
+  },
+  {
+    "question": "Quale famoso compositore ha scritto l'opera 'Il Flauto Magico'?",
+    "correctAnswer": "Wolfgang Amadeus Mozart",
+    "incorrectAnswers": ["Giuseppe Verdi", "Richard Wagner", "Giacomo Puccini"]
+  },
+  {
+    "question": "Qual è la voce maschile più acuta?",
+    "correctAnswer": "Tenore",
+    "incorrectAnswers": ["Baritono", "Basso", "Controtenore"]
+  },
+  {
+    "question": "Quale band britannica è famosa per la canzone 'Bohemian Rhapsody'?",
+    "correctAnswer": "Queen",
+    "incorrectAnswers": ["The Beatles", "Pink Floyd", "The Rolling Stones"]
+  },
+  {
+    "question": "Chi è conosciuta come la 'Regina del Soul'?",
+    "correctAnswer": "Aretha Franklin",
+    "incorrectAnswers": ["Whitney Houston", "Tina Turner", "Diana Ross"]
+  },
+  {
+    "question": "Quale strumento musicale è associato alla musica tradizionale scozzese?",
+    "correctAnswer": "Cornamusa",
+    "incorrectAnswers": ["Arpa", "Violino", "Fisarmonica"]
+  },
+  {
+    "question": "Quale cantante americano ha avuto successo con 'Purple Rain'?",
+    "correctAnswer": "Prince",
+    "incorrectAnswers": ["Michael Jackson", "Stevie Wonder", "James Brown"]
+  },
+  {
+    "question": "Quale band è stata formata dai fratelli Gallagher?",
+    "correctAnswer": "Oasis",
+    "incorrectAnswers": ["Blur", "Radiohead", "The Smiths"]
+  },
+  {
+    "question": "Come si chiama il sistema di notazione musicale con punti e linee?",
+    "correctAnswer": "Pentagramma",
+    "incorrectAnswers": ["Tablatura", "Schema di accordi", "Lead sheet"]
+  },
+  {
+    "question": "Quale strumento è conosciuto come il 're degli strumenti'?",
+    "correctAnswer": "Organo a canne",
+    "incorrectAnswers": ["Pianoforte", "Armonica", "Violino"]
+  },
+  {
+    "question": "Quale cantante è famosa per l'album 'Thriller'?",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": ["Prince", "Madonna", "Elton John"]
+  },
+  {
+    "question": "Chi ha scritto il famoso balletto 'Lo Schiaccianoci'?",
+    "correctAnswer": "Pëtr Il'ič Čajkovskij",
+    "incorrectAnswers": ["Igor Stravinsky", "Ludwig van Beethoven", "Claude Debussy"]
+  },
+  {
+    "question": "Quale cantautore americano è noto per la canzone 'Born in the U.S.A.'?",
+    "correctAnswer": "Bruce Springsteen",
+    "incorrectAnswers": ["Bob Dylan", "Johnny Cash", "Neil Young"]
+  },
+  {
+    "question": "Quale strumento ha corde, un manico e si suona pizzicando o strimpellando?",
+    "correctAnswer": "Chitarra",
+    "incorrectAnswers": ["Violino", "Pianoforte", "Batteria"]
+  },
+  {
+    "question": "Qual è il termine per un gruppo di cantanti che si esibisce insieme?",
+    "correctAnswer": "Coro",
+    "incorrectAnswers": ["Orchestra", "Banda", "Ensemble"]
+  },
+  {
+    "question": "Chi era il chitarrista principale della band Led Zeppelin?",
+    "correctAnswer": "Jimmy Page",
+    "incorrectAnswers": ["Eric Clapton", "Jimi Hendrix", "Keith Richards"]
+  },
+  {
+    "question": "Quale genere musicale è caratterizzato da chitarre elettriche potenti e voci aggressive?",
+    "correctAnswer": "Heavy Metal",
+    "incorrectAnswers": ["Jazz", "Pop", "Country"]
+  },
+  {
+    "question": "Come si chiama il famoso festival musicale tenutosi nel 1969 a New York?",
+    "correctAnswer": "Woodstock",
+    "incorrectAnswers": ["Monterey Pop Festival", "Glastonbury", "Coachella"]
+  },
+  {
+    "question": "Quale artista femminile è conosciuta per l'album 'Lemonade'?",
+    "correctAnswer": "Beyoncé",
+    "incorrectAnswers": ["Rihanna", "Adele", "Taylor Swift"]
+  },
+  {
+    "question": "Chi ha composto la sinfonia nota come 'Inno alla Gioia'?",
+    "correctAnswer": "Ludwig van Beethoven",
+    "incorrectAnswers": ["Johannes Brahms", "Franz Schubert", "Wolfgang Amadeus Mozart"]
+  },
+  {
+    "question": "Quale strumento musicale ha tubi di ottone ed è suonato vibrando le labbra?",
+    "correctAnswer": "Tromba",
+    "incorrectAnswers": ["Trombone", "Corno francese", "Tuba"]
+  },
+  {
+    "question": "Chi è la cantante femminile più venduta di tutti i tempi?",
+    "correctAnswer": "Madonna",
+    "incorrectAnswers": ["Whitney Houston", "Celine Dion", "Taylor Swift"]
+  },
+  {
+    "question": "Quale band è famosa per la canzone 'Stairway to Heaven'?",
+    "correctAnswer": "Led Zeppelin",
+    "incorrectAnswers": ["Pink Floyd", "The Beatles", "The Rolling Stones"]
+  },
+  {
+    "question": "Qual è il termine per la velocità del battito in musica?",
+    "correctAnswer": "Tempo",
+    "incorrectAnswers": ["Intonazione", "Volume", "Ritmo"]
+  },
+  {
+    "question": "A quale epoca musicale appartiene Johann Sebastian Bach?",
+    "correctAnswer": "Barocco",
+    "incorrectAnswers": ["Classica", "Romantica", "Moderna"]
+  },
+  {
+    "question": "Chi ha composto 'La Sagra della Primavera'?",
+    "correctAnswer": "Igor Stravinsky",
+    "incorrectAnswers": ["Sergej Prokof'ev", "Dmitrij Šostakovič", "Pëtr Il'ič Čajkovskij"]
+  },
+  {
+    "question": "Quale strumento è principalmente associato al genere blues?",
+    "correctAnswer": "Armonica",
+    "incorrectAnswers": ["Pianoforte", "Chitarra elettrica", "Sassofono"]
+  },
+  {
+    "question": "Quale artista ha pubblicato l'album '21'?",
+    "correctAnswer": "Adele",
+    "incorrectAnswers": ["Beyoncé", "Taylor Swift", "Katy Perry"]
+  },
+  {
+    "question": "Qual è il nome dello strumento più piccolo e dal suono più acuto della famiglia degli archi?",
+    "correctAnswer": "Violino",
+    "incorrectAnswers": ["Viola", "Violoncello", "Contrabbasso"]
+  },
+  {
+    "question": "Chi era conosciuto come il 'Padrino del Soul'?",
+    "correctAnswer": "James Brown",
+    "incorrectAnswers": ["Stevie Wonder", "Marvin Gaye", "Ray Charles"]
+  },
+  {
+    "question": "Di quale band era cantante Freddie Mercury?",
+    "correctAnswer": "Queen",
+    "incorrectAnswers": ["The Who", "The Kinks", "The Doors"]
+  },
+  {
+    "question": "Cosa significa 'a cappella'?",
+    "correctAnswer": "Cantare senza accompagnamento strumentale",
+    "incorrectAnswers": ["Cantare con un coro", "Cantare con il pianoforte", "Cantare in armonia"]
+  },
+  {
+    "question": "Quale strumento è noto per le sue grandi dimensioni e il suono profondo nelle orchestre?",
+    "correctAnswer": "Contrabbasso",
+    "incorrectAnswers": ["Violoncello", "Basso elettrico", "Tuba"]
+  },
+  {
+    "question": "Chi ha composto il famoso pezzo per pianoforte 'Clair de Lune'?",
+    "correctAnswer": "Claude Debussy",
+    "incorrectAnswers": ["Frédéric Chopin", "Ludwig van Beethoven", "Johannes Brahms"]
+  },
+  {
+    "question": "Quale artista è conosciuto per la canzone 'Shape of You'?",
+    "correctAnswer": "Ed Sheeran",
+    "incorrectAnswers": ["Shawn Mendes", "Justin Bieber", "Bruno Mars"]
+  },
+  {
+    "question": "Quale strumento ha tasti, pedali e corde al suo interno?",
+    "correctAnswer": "Pianoforte",
+    "incorrectAnswers": ["Arpa", "Organo", "Fisarmonica"]
+  },
+  {
+    "question": "Qual è il nome del premio musicale a forma di grammofono?",
+    "correctAnswer": "Grammy",
+    "incorrectAnswers": ["Oscar", "Emmy", "Tony"]
+  }
+]

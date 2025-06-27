@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Chi ha diretto il film 'Inception'?",
+    "correctAnswer": "Christopher Nolan",
+    "incorrectAnswers": ["Steven Spielberg", "James Cameron", "Quentin Tarantino"]
+  },
+  {
+    "question": "Quale serie TV è ambientata nella terra immaginaria di Westeros?",
+    "correctAnswer": "Game of Thrones",
+    "incorrectAnswers": ["The Witcher", "Vikings", "The Crown"]
+  },
+  {
+    "question": "Quale attore ha interpretato Jack Dawson in 'Titanic'?",
+    "correctAnswer": "Leonardo DiCaprio",
+    "incorrectAnswers": ["Brad Pitt", "Tom Cruise", "Johnny Depp"]
+  },
+  {
+    "question": "Qual è il nome della città immaginaria nella serie TV 'Stranger Things'?",
+    "correctAnswer": "Hawkins",
+    "incorrectAnswers": ["Riverdale", "Sunnydale", "Stars Hollow"]
+  },
+  {
+    "question": "Chi ha interpretato il ruolo principale nel film 'Forrest Gump'?",
+    "correctAnswer": "Tom Hanks",
+    "incorrectAnswers": ["Robin Williams", "Kevin Spacey", "Dustin Hoffman"]
+  },
+  {
+    "question": "Quale saga cinematografica presenta un personaggio chiamato Indiana Jones?",
+    "correctAnswer": "Indiana Jones",
+    "incorrectAnswers": ["James Bond", "Star Wars", "Jurassic Park"]
+  },
+  {
+    "question": "Quale serie TV racconta la storia di un insegnante di chimica diventato produttore di metanfetamine?",
+    "correctAnswer": "Breaking Bad",
+    "incorrectAnswers": ["Better Call Saul", "The Wire", "Narcos"]
+  },
+  {
+    "question": "Chi ha diretto la trilogia cinematografica 'Il Signore degli Anelli'?",
+    "correctAnswer": "Peter Jackson",
+    "incorrectAnswers": ["Steven Spielberg", "James Cameron", "Ridley Scott"]
+  },
+  {
+    "question": "Quale attrice ha interpretato Hermione Granger nei film di 'Harry Potter'?",
+    "correctAnswer": "Emma Watson",
+    "incorrectAnswers": ["Natalie Portman", "Daniel Radcliffe", "Bonnie Wright"]
+  },
+  {
+    "question": "In quale film appare il personaggio 'Buzz Lightyear'?",
+    "correctAnswer": "Toy Story",
+    "incorrectAnswers": ["Alla ricerca di Nemo", "Monsters & Co.", "Shrek"]
+  },
+  {
+    "question": "Chi è il creatore della serie TV 'I Simpson'?",
+    "correctAnswer": "Matt Groening",
+    "incorrectAnswers": ["Seth MacFarlane", "Trey Parker", "Mike Judge"]
+  },
+  {
+    "question": "Quale film ha vinto l'Oscar come Miglior Film nel 1994?",
+    "correctAnswer": "Forrest Gump",
+    "incorrectAnswers": ["Pulp Fiction", "Le ali della libertà", "Il re leone"]
+  },
+  {
+    "question": "Quale attore ha interpretato il Joker in 'Il Cavaliere Oscuro'?",
+    "correctAnswer": "Heath Ledger",
+    "incorrectAnswers": ["Joaquin Phoenix", "Jack Nicholson", "Jared Leto"]
+  },
+  {
+    "question": "In quale serie TV appare il personaggio Don Draper?",
+    "correctAnswer": "Mad Men",
+    "incorrectAnswers": ["Suits", "The Office", "Breaking Bad"]
+  },
+  {
+    "question": "Chi ha diretto il film 'Titanic' del 1997?",
+    "correctAnswer": "James Cameron",
+    "incorrectAnswers": ["Steven Spielberg", "Ridley Scott", "Martin Scorsese"]
+  },
+  {
+    "question": "In quale film si trova la citazione 'Ecco a te, bimbo' ('Here's looking at you, kid')?",
+    "correctAnswer": "Casablanca",
+    "incorrectAnswers": ["Via col vento", "Quarto potere", "Il padrino"]
+  },
+  {
+    "question": "Chi ha interpretato il personaggio Tony Stark nell'Universo Cinematografico Marvel?",
+    "correctAnswer": "Robert Downey Jr.",
+    "incorrectAnswers": ["Chris Evans", "Chris Hemsworth", "Mark Ruffalo"]
+  },
+  {
+    "question": "Come si chiama la nave spaziale nel film 'Alien'?",
+    "correctAnswer": "Nostromo",
+    "incorrectAnswers": ["Serenity", "Enterprise", "Galactica"]
+  },
+  {
+    "question": "Quale serie TV presenta i personaggi Walter White e Jesse Pinkman?",
+    "correctAnswer": "Breaking Bad",
+    "incorrectAnswers": ["Better Call Saul", "Ozark", "The Wire"]
+  },
+  {
+    "question": "Chi ha interpretato il ruolo principale nel film 'The Matrix'?",
+    "correctAnswer": "Keanu Reeves",
+    "incorrectAnswers": ["Laurence Fishburne", "Will Smith", "Tom Cruise"]
+  },
+  {
+    "question": "Quale attrice ha recitato nel film 'La La Land'?",
+    "correctAnswer": "Emma Stone",
+    "incorrectAnswers": ["Jennifer Lawrence", "Natalie Portman", "Anne Hathaway"]
+  },
+  {
+    "question": "In quale film compare un personaggio chiamato 'Forrest Gump'?",
+    "correctAnswer": "Forrest Gump",
+    "incorrectAnswers": ["Cast Away", "Il miglio verde", "Salvate il soldato Ryan"]
+  },
+  {
+    "question": "Come si chiama il continente immaginario dove si svolge 'Game of Thrones'?",
+    "correctAnswer": "Westeros",
+    "incorrectAnswers": ["Narnia", "Terra di Mezzo", "Wakanda"]
+  },
+  {
+    "question": "Chi ha diretto il film 'Pulp Fiction'?",
+    "correctAnswer": "Quentin Tarantino",
+    "incorrectAnswers": ["Martin Scorsese", "Steven Spielberg", "Guy Ritchie"]
+  },
+  {
+    "question": "Quale serie TV ruota attorno al personaggio di Sheldon Cooper?",
+    "correctAnswer": "The Big Bang Theory",
+    "incorrectAnswers": ["Friends", "How I Met Your Mother", "Modern Family"]
+  },
+  {
+    "question": "Quale attore ha interpretato il Capitano Jack Sparrow in 'Pirati dei Caraibi'?",
+    "correctAnswer": "Johnny Depp",
+    "incorrectAnswers": ["Orlando Bloom", "Geoffrey Rush", "Tom Hanks"]
+  },
+  {
+    "question": "Quale film è famoso per la frase 'Che la Forza sia con te'?",
+    "correctAnswer": "Star Wars",
+    "incorrectAnswers": ["Star Trek", "Guardiani della Galassia", "Il quinto elemento"]
+  },
+  {
+    "question": "Chi interpreta Eleven nella serie TV 'Stranger Things'?",
+    "correctAnswer": "Millie Bobby Brown",
+    "incorrectAnswers": ["Natalia Dyer", "Sadie Sink", "Winona Ryder"]
+  },
+  {
+    "question": "In quale film compare il personaggio 'Rocky Balboa'?",
+    "correctAnswer": "Rocky",
+    "incorrectAnswers": ["Toro scatenato", "Creed", "The Fighter"]
+  },
+  {
+    "question": "Chi ha diretto il film 'Schindler's List'?",
+    "correctAnswer": "Steven Spielberg",
+    "incorrectAnswers": ["Martin Scorsese", "Clint Eastwood", "Francis Ford Coppola"]
+  },
+  {
+    "question": "Quale serie TV parla di sopravvissuti a un incidente aereo su un'isola misteriosa?",
+    "correctAnswer": "Lost",
+    "incorrectAnswers": ["The 100", "Survivor", "The Walking Dead"]
+  },
+  {
+    "question": "Quale film ha Joaquin Phoenix nei panni del Joker?",
+    "correctAnswer": "Joker",
+    "incorrectAnswers": ["Il Cavaliere Oscuro", "Suicide Squad", "Birdman"]
+  },
+  {
+    "question": "Chi ha interpretato Katniss Everdeen in 'Hunger Games'?",
+    "correctAnswer": "Jennifer Lawrence",
+    "incorrectAnswers": ["Emma Watson", "Shailene Woodley", "Saoirse Ronan"]
+  },
+  {
+    "question": "Come si chiama la serie TV con l'azienda di carta fittizia Dunder Mifflin?",
+    "correctAnswer": "The Office",
+    "incorrectAnswers": ["Parks and Recreation", "Brooklyn Nine-Nine", "30 Rock"]
+  },
+  {
+    "question": "In quale film compare il personaggio 'Tony Montana'?",
+    "correctAnswer": "Scarface",
+    "incorrectAnswers": ["Quei bravi ragazzi", "Il padrino", "Casino"]
+  },
+  {
+    "question": "Chi ha diretto 'Avatar'?",
+    "correctAnswer": "James Cameron",
+    "incorrectAnswers": ["Peter Jackson", "Steven Spielberg", "Ridley Scott"]
+  },
+  {
+    "question": "Quale attrice ha recitato nella serie TV 'Buffy l'ammazzavampiri'?",
+    "correctAnswer": "Sarah Michelle Gellar",
+    "incorrectAnswers": ["Kristy Swanson", "Alyson Hannigan", "Eliza Dushku"]
+  },
+  {
+    "question": "Come si chiama l'androide interpretato da Michael Fassbender in 'Prometheus'?",
+    "correctAnswer": "David",
+    "incorrectAnswers": ["WALL-E", "Roy", "Ash"]
+  },
+  {
+    "question": "Quale film racconta di un gruppo di ladri che pianifica di rapinare la Zecca Reale di Spagna?",
+    "correctAnswer": "La Casa di Carta",
+    "incorrectAnswers": ["Inside Man", "Ocean’s Eleven", "The Italian Job"]
+  },
+  {
+    "question": "Quale serie TV presenta i personaggi Rick Grimes e Daryl Dixon?",
+    "correctAnswer": "The Walking Dead",
+    "incorrectAnswers": ["Fear the Walking Dead", "Z Nation", "Black Summer"]
+  },
+  {
+    "question": "Chi ha interpretato il ruolo principale nel film 'Il Gladiatore'?",
+    "correctAnswer": "Russell Crowe",
+    "incorrectAnswers": ["Joaquin Phoenix", "Denzel Washington", "Tom Hanks"]
+  },
+  {
+    "question": "In quale film si trova la canzone 'My Heart Will Go On'?",
+    "correctAnswer": "Titanic",
+    "incorrectAnswers": ["Guardia del corpo", "Dirty Dancing", "Ghost"]
+  },
+  {
+    "question": "Quale serie TV è ambientata nella città immaginaria di Stars Hollow?",
+    "correctAnswer": "Una Mamma per Amica",
+    "incorrectAnswers": ["Everwood", "Dawson’s Creek", "Beverly Hills, 90210"]
+  },
+  {
+    "question": "Chi ha diretto 'Grand Budapest Hotel'?",
+    "correctAnswer": "Wes Anderson",
+    "incorrectAnswers": ["Paul Thomas Anderson", "Spike Jonze", "David Fincher"]
+  },
+  {
+    "question": "Quale film è noto per la frase 'Non puoi gestire la verità!'?",
+    "correctAnswer": "Codice d'onore",
+    "incorrectAnswers": ["Top Gun", "Jerry Maguire", "The Firm"]
+  },
+  {
+    "question": "Quale attrice ha vinto l'Oscar per il ruolo in 'Il cigno nero'?",
+    "correctAnswer": "Natalie Portman",
+    "incorrectAnswers": ["Scarlett Johansson", "Keira Knightley", "Emma Stone"]
+  },
+  {
+    "question": "Quale serie TV racconta di un insegnante di chimica delle superiori diventato spacciatore?",
+    "correctAnswer": "Breaking Bad",
+    "incorrectAnswers": ["Weeds", "Narcos", "Better Call Saul"]
+  },
+  {
+    "question": "In quale film appaiono i personaggi Woody e Buzz Lightyear?",
+    "correctAnswer": "Toy Story",
+    "incorrectAnswers": ["Monsters & Co.", "Alla ricerca di Nemo", "Gli Incredibili"]
+  }
+]

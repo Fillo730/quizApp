@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Qual è il fiume più lungo del mondo?",
+    "correctAnswer": "Nilo",
+    "incorrectAnswers": ["Amazzonia", "Yangtze", "Mississippi"]
+  },
+  {
+    "question": "Quale paese ha la superficie terrestre più grande?",
+    "correctAnswer": "Russia",
+    "incorrectAnswers": ["Canada", "Cina", "Stati Uniti"]
+  },
+  {
+    "question": "Qual è la capitale dell'Australia?",
+    "correctAnswer": "Canberra",
+    "incorrectAnswers": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Il Monte Everest fa parte di quale catena montuosa?",
+    "correctAnswer": "Himalaya",
+    "incorrectAnswers": ["Ande", "Alpi", "Montagne Rocciose"]
+  },
+  {
+    "question": "Qual è il deserto più grande del mondo?",
+    "correctAnswer": "Sahara",
+    "incorrectAnswers": ["Gobi", "Kalahari", "Arabico"]
+  },
+  {
+    "question": "Quale oceano è il più profondo?",
+    "correctAnswer": "Oceano Pacifico",
+    "incorrectAnswers": ["Oceano Atlantico", "Oceano Indiano", "Oceano Artico"]
+  },
+  {
+    "question": "Quale paese è conosciuto come la Terra del Sol Levante?",
+    "correctAnswer": "Giappone",
+    "incorrectAnswers": ["Cina", "Thailandia", "Corea del Sud"]
+  },
+  {
+    "question": "Qual è il continente più piccolo per superficie terrestre?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": ["Europa", "Antartide", "Sud America"]
+  },
+  {
+    "question": "Quale paese ha il maggior numero di laghi naturali?",
+    "correctAnswer": "Canada",
+    "incorrectAnswers": ["Russia", "Stati Uniti", "Finlandia"]
+  },
+  {
+    "question": "Qual è la capitale del Canada?",
+    "correctAnswer": "Ottawa",
+    "incorrectAnswers": ["Toronto", "Vancouver", "Montreal"]
+  },
+  {
+    "question": "Quale fiume scorre attraverso Parigi?",
+    "correctAnswer": "Senna",
+    "incorrectAnswers": ["Tamigi", "Danubio", "Reno"]
+  },
+  {
+    "question": "Quale paese è famoso per i fiordi lungo la sua costa?",
+    "correctAnswer": "Norvegia",
+    "incorrectAnswers": ["Islanda", "Svezia", "Finlandia"]
+  },
+  {
+    "question": "Qual è la più grande isola del mondo?",
+    "correctAnswer": "Groenlandia",
+    "incorrectAnswers": ["Madagascar", "Borneo", "Nuova Guinea"]
+  },
+  {
+    "question": "Quale paese ha la popolazione più alta al mondo?",
+    "correctAnswer": "Cina",
+    "incorrectAnswers": ["India", "Stati Uniti", "Indonesia"]
+  },
+  {
+    "question": "Qual è la capitale del Brasile?",
+    "correctAnswer": "Brasília",
+    "incorrectAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"]
+  },
+  {
+    "question": "Quale deserto copre gran parte della Mongolia e della Cina settentrionale?",
+    "correctAnswer": "Deserto del Gobi",
+    "incorrectAnswers": ["Deserto del Kalahari", "Deserto del Thar", "Deserto del Sahara"]
+  },
+  {
+    "question": "Quale paese ha il maggior numero di siti patrimonio mondiale dell'UNESCO?",
+    "correctAnswer": "Italia",
+    "incorrectAnswers": ["Cina", "Spagna", "Francia"]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti è conosciuto come lo 'Stato del Sole'?",
+    "correctAnswer": "Florida",
+    "incorrectAnswers": ["California", "Texas", "Arizona"]
+  },
+  {
+    "question": "Quale continente è conosciuto come il 'Continente Nero'?",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": ["Asia", "Sud America", "Europa"]
+  },
+  {
+    "question": "Quale mare è il corpo d'acqua naturale più salato?",
+    "correctAnswer": "Mar Morto",
+    "incorrectAnswers": ["Mar Mediterraneo", "Mar Rosso", "Mar Baltico"]
+  },
+  {
+    "question": "Qual è la capitale dell'Egitto?",
+    "correctAnswer": "Il Cairo",
+    "incorrectAnswers": ["Alessandria", "Luxor", "Giza"]
+  },
+  {
+    "question": "Quale paese si trova su due continenti: Europa e Asia?",
+    "correctAnswer": "Turchia",
+    "incorrectAnswers": ["Russia", "Kazakistan", "Egitto"]
+  },
+  {
+    "question": "Come si chiama la linea che divide la Terra in emisfero Nord e Sud?",
+    "correctAnswer": "Equatore",
+    "incorrectAnswers": ["Meridiano di Greenwich", "Tropico del Cancro", "Linea Internazionale del Cambio Data"]
+  },
+  {
+    "question": "Quale città degli Stati Uniti è conosciuta come la 'Città del Vento'?",
+    "correctAnswer": "Chicago",
+    "incorrectAnswers": ["New York", "Boston", "Seattle"]
+  },
+  {
+    "question": "Quale paese ha il maggior numero di vulcani?",
+    "correctAnswer": "Indonesia",
+    "incorrectAnswers": ["Giappone", "Stati Uniti", "Italia"]
+  },
+  {
+    "question": "Qual è il paese più piccolo del mondo per superficie terrestre?",
+    "correctAnswer": "Città del Vaticano",
+    "incorrectAnswers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "Quale montagna è la più alta del Nord America?",
+    "correctAnswer": "Denali",
+    "incorrectAnswers": ["Mount Logan", "Mount Rainier", "Mount Whitney"]
+  },
+  {
+    "question": "Quale paese è conosciuto come la 'Terra dei Mille Laghi'?",
+    "correctAnswer": "Finlandia",
+    "incorrectAnswers": ["Canada", "Svezia", "Norvegia"]
+  },
+  {
+    "question": "Quale fiume forma parte del confine tra Stati Uniti e Messico?",
+    "correctAnswer": "Rio Grande",
+    "incorrectAnswers": ["Fiume Colorado", "Mississippi", "Snake River"]
+  },
+  {
+    "question": "Qual è la capitale della Corea del Sud?",
+    "correctAnswer": "Seul",
+    "incorrectAnswers": ["Busan", "Incheon", "Daegu"]
+  },
+  {
+    "question": "Come si chiama il grande deserto situato in Australia?",
+    "correctAnswer": "Grande Deserto Vittoria",
+    "incorrectAnswers": ["Deserto di Simpson", "Deserto di Gibson", "Deserto di Tanami"]
+  },
+  {
+    "question": "Qual è il paese più grande del Sud America?",
+    "correctAnswer": "Brasile",
+    "incorrectAnswers": ["Argentina", "Perù", "Colombia"]
+  },
+  {
+    "question": "Quale capitale europea è conosciuta come la 'Città dei Canali'?",
+    "correctAnswer": "Venezia",
+    "incorrectAnswers": ["Amsterdam", "Bruges", "Copenaghen"]
+  },
+  {
+    "question": "Quale paese ha la costa più lunga del mondo?",
+    "correctAnswer": "Canada",
+    "incorrectAnswers": ["Russia", "Indonesia", "Australia"]
+  },
+  {
+    "question": "Come si chiama l'altopiano situato in Tibet?",
+    "correctAnswer": "Altopiano Tibetano",
+    "incorrectAnswers": ["Altopiano del Deccan", "Altopiano del Colorado", "Altiplano"]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti è il più grande per superficie terrestre?",
+    "correctAnswer": "Alaska",
+    "incorrectAnswers": ["Texas", "California", "Montana"]
+  },
+  {
+    "question": "Quale paese africano ha la popolazione più numerosa?",
+    "correctAnswer": "Nigeria",
+    "incorrectAnswers": ["Egitto", "Sudafrica", "Etiopia"]
+  },
+  {
+    "question": "Quale paese ospita la Grande Barriera Corallina?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": ["Nuova Zelanda", "Figi", "Indonesia"]
+  },
+  {
+    "question": "Qual è la capitale dell'Argentina?",
+    "correctAnswer": "Buenos Aires",
+    "incorrectAnswers": ["Cordoba", "Rosario", "Mendoza"]
+  },
+  {
+    "question": "Qual è la capitale della Thailandia?",
+    "correctAnswer": "Bangkok",
+    "incorrectAnswers": ["Chiang Mai", "Phuket", "Pattaya"]
+  },
+  {
+    "question": "Quale fiume europeo scorre attraverso Vienna, Budapest e Belgrado?",
+    "correctAnswer": "Danubio",
+    "incorrectAnswers": ["Reno", "Senna", "Elba"]
+  },
+  {
+    "question": "Quale paese insulare si trova a sud-est dell'India nell'Oceano Indiano?",
+    "correctAnswer": "Sri Lanka",
+    "incorrectAnswers": ["Maldive", "Indonesia", "Madagascar"]
+  },
+  {
+    "question": "Quale paese ospita l'antica città di Petra?",
+    "correctAnswer": "Giordania",
+    "incorrectAnswers": ["Egitto", "Libano", "Siria"]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti è famoso per i geyser e l'attività geotermica, incluso Old Faithful?",
+    "correctAnswer": "Wyoming",
+    "incorrectAnswers": ["Montana", "Idaho", "Colorado"]
+  },
+  {
+    "question": "Quale paese ha il maggior numero di lingue ufficiali?",
+    "correctAnswer": "Bolivia",
+    "incorrectAnswers": ["Sudafrica", "India", "Svizzera"]
+  },
+  {
+    "question": "Qual è la capitale della Nuova Zelanda?",
+    "correctAnswer": "Wellington",
+    "incorrectAnswers": ["Auckland", "Christchurch", "Hamilton"]
+  },
+  {
+    "question": "Quale paese è famoso per le antiche rovine di Machu Picchu?",
+    "correctAnswer": "Perù",
+    "incorrectAnswers": ["Cile", "Bolivia", "Ecuador"]
+  },
+  {
+    "question": "Qual è il fiume più lungo d'Europa?",
+    "correctAnswer": "Volga",
+    "incorrectAnswers": ["Danubio", "Reno", "Dnepr"]
+  },
+  {
+    "question": "Quale paese è conosciuto come l'Isola Smeraldo?",
+    "correctAnswer": "Irlanda",
+    "incorrectAnswers": ["Scozia", "Galles", "Islanda"]
+  }
+]

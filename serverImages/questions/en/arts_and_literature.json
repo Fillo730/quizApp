@@ -1,32 +1,237 @@
 [
   {
-    "question": "Who painted the Mona Lisa?",
-    "correctAnswer": "Leonardo da Vinci",
-    "incorrectAnswers": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"]
+    "question": "Who wrote the play 'Hamlet'?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": ["Christopher Marlowe", "Ben Jonson", "John Milton"]
   },
   {
-    "question": "Which author wrote '1984'?",
-    "correctAnswer": "George Orwell",
-    "incorrectAnswers": ["Aldous Huxley", "Ray Bradbury", "J.D. Salinger"]
+    "question": "Which artist painted the ceiling of the Sistine Chapel?",
+    "correctAnswer": "Michelangelo",
+    "incorrectAnswers": ["Raphael", "Leonardo da Vinci", "Donatello"]
   },
   {
-    "question": "In which country was the playwright William Shakespeare born?",
-    "correctAnswer": "England",
-    "incorrectAnswers": ["France", "Italy", "Germany"]
+    "question": "Who is the author of the novel 'Pride and Prejudice'?",
+    "correctAnswer": "Jane Austen",
+    "incorrectAnswers": ["Charlotte Brontë", "Mary Shelley", "Emily Dickinson"]
   },
   {
-    "question": "What artistic style is Salvador Dalí known for?",
+    "question": "Which literary work begins with the line 'It was the best of times, it was the worst of times'?",
+    "correctAnswer": "A Tale of Two Cities",
+    "incorrectAnswers": ["Great Expectations", "Moby-Dick", "Les Misérables"]
+  },
+  {
+    "question": "Which artist is famous for the painting 'The Starry Night'?",
+    "correctAnswer": "Vincent van Gogh",
+    "incorrectAnswers": ["Claude Monet", "Paul Cézanne", "Edvard Munch"]
+  },
+  {
+    "question": "Who wrote the epic poem 'The Odyssey'?",
+    "correctAnswer": "Homer",
+    "incorrectAnswers": ["Virgil", "Sophocles", "Ovid"]
+  },
+  {
+    "question": "Which author created the character Sherlock Holmes?",
+    "correctAnswer": "Arthur Conan Doyle",
+    "incorrectAnswers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"]
+  },
+  {
+    "question": "Which art movement is Claude Monet associated with?",
+    "correctAnswer": "Impressionism",
+    "incorrectAnswers": ["Cubism", "Surrealism", "Baroque"]
+  },
+  {
+    "question": "Who wrote the novel 'Frankenstein'?",
+    "correctAnswer": "Mary Shelley",
+    "incorrectAnswers": ["Bram Stoker", "Edgar Allan Poe", "Robert Louis Stevenson"]
+  },
+  {
+    "question": "What is the nationality of the writer Gabriel García Márquez?",
+    "correctAnswer": "Colombian",
+    "incorrectAnswers": ["Mexican", "Peruvian", "Argentinian"]
+  },
+  {
+    "question": "Which playwright wrote 'A Streetcar Named Desire'?",
+    "correctAnswer": "Tennessee Williams",
+    "incorrectAnswers": ["Arthur Miller", "Eugene O’Neill", "Harold Pinter"]
+  },
+  {
+    "question": "Which famous painting features a woman with a mysterious smile?",
+    "correctAnswer": "Mona Lisa",
+    "incorrectAnswers": ["The Girl with a Pearl Earring", "The Birth of Venus", "The Night Watch"]
+  },
+  {
+    "question": "Who is considered the father of modern psychoanalysis and also wrote extensively on literature?",
+    "correctAnswer": "Sigmund Freud",
+    "incorrectAnswers": ["Carl Jung", "Alfred Adler", "Friedrich Nietzsche"]
+  },
+  {
+    "question": "What style is Pablo Picasso famous for pioneering?",
+    "correctAnswer": "Cubism",
+    "incorrectAnswers": ["Impressionism", "Surrealism", "Expressionism"]
+  },
+  {
+    "question": "Which British author wrote 'Brave New World'?",
+    "correctAnswer": "Aldous Huxley",
+    "incorrectAnswers": ["George Orwell", "H.G. Wells", "Ray Bradbury"]
+  },
+  {
+    "question": "Who composed the famous ballet 'The Nutcracker'?",
+    "correctAnswer": "Pyotr Ilyich Tchaikovsky",
+    "incorrectAnswers": ["Igor Stravinsky", "Ludwig van Beethoven", "Johann Sebastian Bach"]
+  },
+  {
+    "question": "What is the title of the first novel by J.R.R. Tolkien in the Middle-earth series?",
+    "correctAnswer": "The Hobbit",
+    "incorrectAnswers": ["The Lord of the Rings", "Silmarillion", "The Two Towers"]
+  },
+  {
+    "question": "Which author wrote 'The Catcher in the Rye'?",
+    "correctAnswer": "J.D. Salinger",
+    "incorrectAnswers": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"]
+  },
+  {
+    "question": "Which artistic style is Salvador Dalí most associated with?",
     "correctAnswer": "Surrealism",
-    "incorrectAnswers": ["Impressionism", "Cubism", "Realism"]
+    "incorrectAnswers": ["Cubism", "Impressionism", "Baroque"]
   },
   {
-    "question": "Which novel begins with the line 'Call me Ishmael'?",
-    "correctAnswer": "Moby-Dick",
-    "incorrectAnswers": ["The Old Man and the Sea", "The Great Gatsby", "Heart of Darkness"]
+    "question": "Who painted 'The Persistence of Memory' featuring melting clocks?",
+    "correctAnswer": "Salvador Dalí",
+    "incorrectAnswers": ["René Magritte", "Joan Miró", "Pablo Picasso"]
   },
   {
-    "question": "What is the name of the girl who falls down a rabbit hole in a famous Lewis Carroll book?",
-    "correctAnswer": "Alice",
-    "incorrectAnswers": ["Dorothy", "Lucy", "Wendy"]
+    "question": "Which novel features the character Jay Gatsby?",
+    "correctAnswer": "The Great Gatsby",
+    "incorrectAnswers": ["Tender Is the Night", "This Side of Paradise", "The Sun Also Rises"]
+  },
+  {
+    "question": "Who is the author of the poem 'The Raven'?",
+    "correctAnswer": "Edgar Allan Poe",
+    "incorrectAnswers": ["Robert Frost", "Emily Dickinson", "Walt Whitman"]
+  },
+  {
+    "question": "Which American artist is known for the painting 'Campbell’s Soup Cans'?",
+    "correctAnswer": "Andy Warhol",
+    "incorrectAnswers": ["Roy Lichtenstein", "Jackson Pollock", "Mark Rothko"]
+  },
+  {
+    "question": "Which novel by Leo Tolstoy begins with the line 'All happy families are alike'?",
+    "correctAnswer": "Anna Karenina",
+    "incorrectAnswers": ["War and Peace", "Resurrection", "The Death of Ivan Ilyich"]
+  },
+  {
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "correctAnswer": "Harper Lee",
+    "incorrectAnswers": ["Truman Capote", "Zora Neale Hurston", "Toni Morrison"]
+  },
+  {
+    "question": "Which painter is famous for the work 'Guernica'?",
+    "correctAnswer": "Pablo Picasso",
+    "incorrectAnswers": ["Georges Braque", "Juan Gris", "Henri Matisse"]
+  },
+  {
+    "question": "Which poet wrote 'Leaves of Grass'?",
+    "correctAnswer": "Walt Whitman",
+    "incorrectAnswers": ["Emily Dickinson", "Robert Frost", "T.S. Eliot"]
+  },
+  {
+    "question": "Who wrote the novel 'One Hundred Years of Solitude'?",
+    "correctAnswer": "Gabriel García Márquez",
+    "incorrectAnswers": ["Isabel Allende", "Jorge Luis Borges", "Mario Vargas Llosa"]
+  },
+  {
+    "question": "Which style is Jackson Pollock associated with?",
+    "correctAnswer": "Abstract Expressionism",
+    "incorrectAnswers": ["Cubism", "Surrealism", "Realism"]
+  },
+  {
+    "question": "Who wrote the tragedy 'Macbeth'?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": ["Christopher Marlowe", "Ben Jonson", "John Webster"]
+  },
+  {
+    "question": "Which novel is set in the fictional land of Middle-earth?",
+    "correctAnswer": "The Lord of the Rings",
+    "incorrectAnswers": ["The Chronicles of Narnia", "Harry Potter", "The Wheel of Time"]
+  },
+  {
+    "question": "Who painted 'The Birth of Venus'?",
+    "correctAnswer": "Sandro Botticelli",
+    "incorrectAnswers": ["Leonardo da Vinci", "Raphael", "Titian"]
+  },
+  {
+    "question": "Which French author wrote 'Les Misérables'?",
+    "correctAnswer": "Victor Hugo",
+    "incorrectAnswers": ["Émile Zola", "Gustave Flaubert", "Alexandre Dumas"]
+  },
+  {
+    "question": "Who is the author of the novel 'The Picture of Dorian Gray'?",
+    "correctAnswer": "Oscar Wilde",
+    "incorrectAnswers": ["Charles Dickens", "Bram Stoker", "H.G. Wells"]
+  },
+  {
+    "question": "Which artist painted 'Girl with a Pearl Earring'?",
+    "correctAnswer": "Johannes Vermeer",
+    "incorrectAnswers": ["Rembrandt", "Frans Hals", "Peter Paul Rubens"]
+  },
+  {
+    "question": "Which epic poem tells the story of the Trojan War?",
+    "correctAnswer": "The Iliad",
+    "incorrectAnswers": ["The Aeneid", "Beowulf", "The Epic of Gilgamesh"]
+  },
+  {
+    "question": "Which poet wrote 'The Waste Land'?",
+    "correctAnswer": "T.S. Eliot",
+    "incorrectAnswers": ["Ezra Pound", "W.B. Yeats", "Wallace Stevens"]
+  },
+  {
+    "question": "Who wrote the dystopian novel 'Fahrenheit 451'?",
+    "correctAnswer": "Ray Bradbury",
+    "incorrectAnswers": ["George Orwell", "Aldous Huxley", "Philip K. Dick"]
+  },
+  {
+    "question": "Which artist is known for the style called Pointillism?",
+    "correctAnswer": "Georges Seurat",
+    "incorrectAnswers": ["Paul Signac", "Henri Toulouse-Lautrec", "Claude Monet"]
+  },
+  {
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "correctAnswer": "Wolfgang Amadeus Mozart",
+    "incorrectAnswers": ["Ludwig van Beethoven", "Giuseppe Verdi", "Richard Wagner"]
+  },
+  {
+    "question": "Which American author wrote 'The Great Gatsby'?",
+    "correctAnswer": "F. Scott Fitzgerald",
+    "incorrectAnswers": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"]
+  },
+  {
+    "question": "Which novel features the character Hester Prynne?",
+    "correctAnswer": "The Scarlet Letter",
+    "incorrectAnswers": ["Gone with the Wind", "Little Women", "The House of the Seven Gables"]
+  },
+  {
+    "question": "Who painted 'The Last Supper'?",
+    "correctAnswer": "Leonardo da Vinci",
+    "incorrectAnswers": ["Michelangelo", "Raphael", "Titian"]
+  },
+  {
+    "question": "Which writer is known for 'The Divine Comedy'?",
+    "correctAnswer": "Dante Alighieri",
+    "incorrectAnswers": ["Geoffrey Chaucer", "John Milton", "William Blake"]
+  },
+  {
+    "question": "Who is the author of 'Crime and Punishment'?",
+    "correctAnswer": "Fyodor Dostoevsky",
+    "incorrectAnswers": ["Leo Tolstoy", "Anton Chekhov", "Nikolai Gogol"]
+  },
+  {
+    "question": "Which novel by Franz Kafka features a man who turns into a giant insect?",
+    "correctAnswer": "The Metamorphosis",
+    "incorrectAnswers": ["The Trial", "The Castle", "Amerika"]
+  },
+  {
+    "question": "Who painted 'American Gothic'?",
+    "correctAnswer": "Grant Wood",
+    "incorrectAnswers": ["Edward Hopper", "Thomas Hart Benton", "Georgia O’Keeffe"]
   }
 ]

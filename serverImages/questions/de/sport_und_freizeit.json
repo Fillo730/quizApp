@@ -1,0 +1,267 @@
+[
+  {
+    "question": "Welcher Sport wird weltweit als 'König der Sportarten' bezeichnet?",
+    "correctAnswer": "Fußball",
+    "incorrectAnswers": ["Basketball", "Cricket", "Tennis"]
+  },
+  {
+    "question": "In welchem Land wurde die Kampfsportart Taekwondo geboren?",
+    "correctAnswer": "Südkorea",
+    "incorrectAnswers": ["Japan", "China", "Thailand"]
+  },
+  {
+    "question": "Wie viele Spieler sind bei Rugby Union (15er Rugby) maximal auf dem Spielfeld pro Mannschaft erlaubt?",
+    "correctAnswer": "15",
+    "incorrectAnswers": ["11", "7", "13"]
+  },
+  {
+    "question": "Welche Ausrüstung ist beim Curling unverzichtbar?",
+    "correctAnswer": "Stein",
+    "incorrectAnswers": ["Puck", "Ball", "Hammer"]
+  },
+  {
+    "question": "Welche Wintersportart kombiniert Skilanglauf und Schießen?",
+    "correctAnswer": "Biathlon",
+    "incorrectAnswers": ["Nordische Kombination", "Skispringen", "Rodeln"]
+  },
+  {
+    "question": "Wie nennt man im Tennis den Punktestand null?",
+    "correctAnswer": "Love",
+    "incorrectAnswers": ["Null", "Ente", "Nullo"]
+  },
+  {
+    "question": "In welchem Land findet jährlich das Radrennen Tour de France statt?",
+    "correctAnswer": "Frankreich",
+    "incorrectAnswers": ["Italien", "Spanien", "Belgien"]
+  },
+  {
+    "question": "Wie nennt man im Golf ein Ergebnis von einem Schlag unter Par auf einem Loch?",
+    "correctAnswer": "Birdie",
+    "incorrectAnswers": ["Eagle", "Bogey", "Par"]
+  },
+  {
+    "question": "Wie heißt die traditionelle japanische Form des Ringkampfs?",
+    "correctAnswer": "Sumo",
+    "incorrectAnswers": ["Judo", "Karate", "Aikido"]
+  },
+  {
+    "question": "Welches Land gewann die erste FIFA-Weltmeisterschaft 1930?",
+    "correctAnswer": "Uruguay",
+    "incorrectAnswers": ["Brasilien", "Argentinien", "Italien"]
+  },
+  {
+    "question": "In welchem Sport verwendet man den Begriff 'Home Run'?",
+    "correctAnswer": "Baseball",
+    "incorrectAnswers": ["Cricket", "Softball", "Tennis"]
+  },
+  {
+    "question": "Welches Brettspiel beinhaltet das Überspringen gegnerischer Figuren zur Gefangennahme?",
+    "correctAnswer": "Dame",
+    "incorrectAnswers": ["Schach", "Go", "Backgammon"]
+  },
+  {
+    "question": "In welcher olympischen Sportart wird das Pferd mit Griffen (Barren) verwendet?",
+    "correctAnswer": "Turnen",
+    "incorrectAnswers": ["Reiten", "Gewichtheben", "Lotterie"]
+  },
+  {
+    "question": "Wie lange dauert ein reguläres Fußballspiel ohne Verlängerung?",
+    "correctAnswer": "90 Minuten",
+    "incorrectAnswers": ["60 Minuten", "80 Minuten", "120 Minuten"]
+  },
+  {
+    "question": "Welche Wassersportart beinhaltet das Surfen auf Wellen mit einem Brett?",
+    "correctAnswer": "Surfen",
+    "incorrectAnswers": ["Segeln", "Wasserball", "Kajak"]
+  },
+  {
+    "question": "Welcher Sport ist traditionell mit der Stadt Wimbledon verbunden?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": ["Cricket", "Badminton", "Rugby"]
+  },
+  {
+    "question": "In welchem Sport führt man einen Slam Dunk (Dunk) aus?",
+    "correctAnswer": "Basketball",
+    "incorrectAnswers": ["Volleyball", "Handball", "Fußball"]
+  },
+  {
+    "question": "Was bedeutet der Begriff 'Par' im Golf?",
+    "correctAnswer": "Die erwartete Schlaganzahl für ein Loch",
+    "incorrectAnswers": ["Ein Strafschlag", "Ein unterdurchschnittliches Ergebnis", "Die Gesamtzahl der Schläge"]
+  },
+  {
+    "question": "Welcher Sport verwendet einen Federball (Shuttlecock)?",
+    "correctAnswer": "Badminton",
+    "incorrectAnswers": ["Tennis", "Squash", "Tischtennis"]
+  },
+  {
+    "question": "Wie heißt das Leichtathletikrennen über 400 Meter?",
+    "correctAnswer": "Einrunden-Sprint",
+    "incorrectAnswers": ["Halbmarathon", "100 Meter", "800 Meter"]
+  },
+  {
+    "question": "Welches Spiel ist bekannt für den Ausdruck 'Schachmatt'?",
+    "correctAnswer": "Schach",
+    "incorrectAnswers": ["Dame", "Go", "Backgammon"]
+  },
+  {
+    "question": "In welchem Sport wird die Stanley Cup vergeben?",
+    "correctAnswer": "Eishockey",
+    "incorrectAnswers": ["Lacrosse", "Basketball", "Football"]
+  },
+  {
+    "question": "Welche Aktivität beinhaltet das Klettern an künstlichen oder natürlichen Felsformationen?",
+    "correctAnswer": "Felsklettern",
+    "incorrectAnswers": ["Bergsteigen", "Höhlenforschung", "Parkour"]
+  },
+  {
+    "question": "Wie heißt der schnelle Wintersport, der auf Eis mit Besen und Steinen gespielt wird?",
+    "correctAnswer": "Curling",
+    "incorrectAnswers": ["Eishockey", "Kunstlauf", "Rodeln"]
+  },
+  {
+    "question": "Welches Land ist bekannt für die Kampfsportart Capoeira?",
+    "correctAnswer": "Brasilien",
+    "incorrectAnswers": ["Mexiko", "Argentinien", "Kolumbien"]
+  },
+  {
+    "question": "In welchem Sport wird der Begriff 'Alley-Oop' verwendet?",
+    "correctAnswer": "Basketball",
+    "incorrectAnswers": ["Volleyball", "Tennis", "Badminton"]
+  },
+  {
+    "question": "Welches olympische Event kombiniert Skispringen und Skilanglauf?",
+    "correctAnswer": "Nordische Kombination",
+    "incorrectAnswers": ["Biathlon", "Snowboard", "Rodeln"]
+  },
+  {
+    "question": "Wie nennt man ein Ergebnis von drei Schlägen unter Par im Golf?",
+    "correctAnswer": "Albatros",
+    "incorrectAnswers": ["Birdie", "Eagle", "Bogey"]
+  },
+  {
+    "question": "Welcher Sport beinhaltet das Paddeln eines Kanus oder Kajaks auf Wildwasser?",
+    "correctAnswer": "Wildwasser-Rafting",
+    "incorrectAnswers": ["Rudern", "Segeln", "Wasserball"]
+  },
+  {
+    "question": "In welchem Land wurde Cricket erfunden?",
+    "correctAnswer": "England",
+    "incorrectAnswers": ["Australien", "Indien", "Südafrika"]
+  },
+  {
+    "question": "Wie heißt die alle vier Jahre stattfindende internationale Multisportveranstaltung?",
+    "correctAnswer": "Olympische Spiele",
+    "incorrectAnswers": ["Weltmeisterschaft", "Commonwealth-Spiele", "Panamerikanische Spiele"]
+  },
+  {
+    "question": "Welcher Sport ist mit dem Begriff 'Hat-Trick' verbunden?",
+    "correctAnswer": "Cricket",
+    "incorrectAnswers": ["Fußball", "Tennis", "Rugby"]
+  },
+  {
+    "question": "Wie nennt man die Spielfläche im Eishockey?",
+    "correctAnswer": "Eisbahn",
+    "incorrectAnswers": ["Feld", "Spielfeld", "Gelände"]
+  },
+  {
+    "question": "In welchem Sport verwendet man einen Hammer, um einen Ball durch Ringe zu schlagen?",
+    "correctAnswer": "Polo",
+    "incorrectAnswers": ["Croquet", "Lacrosse", "Hockey"]
+  },
+  {
+    "question": "Welcher Sport verwendet den Begriff 'Scrum' (Gedränge)?",
+    "correctAnswer": "Rugby",
+    "incorrectAnswers": ["Fußball", "Hockey", "Baseball"]
+  },
+  {
+    "question": "In welchem Land wurde das Brettspiel Mahjong erfunden?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["Japan", "Korea", "Thailand"]
+  },
+  {
+    "question": "Wie heißt das berühmte Footballspiel um den Titel?",
+    "correctAnswer": "Super Bowl",
+    "incorrectAnswers": ["World Series", "NBA-Finale", "Stanley Cup"]
+  },
+  {
+    "question": "Wie heißt das Bahnradrennen, das zwei Runden umfasst?",
+    "correctAnswer": "Match Sprint",
+    "incorrectAnswers": ["Keirin", "Verfolgung", "Omnium"]
+  },
+  {
+    "question": "Welcher Sport beinhaltet zwei Teams, die sich einen Ball über ein Netz nur mit den Händen zuspielen?",
+    "correctAnswer": "Volleyball",
+    "incorrectAnswers": ["Basketball", "Tennis", "Handball"]
+  },
+  {
+    "question": "Wie heißt der Sport, der Laufen, Schwimmen und Radfahren kombiniert?",
+    "correctAnswer": "Triathlon",
+    "incorrectAnswers": ["Pentathlon", "Dezathlon", "Biathlon"]
+  },
+  {
+    "question": "Welches Land hat die meisten Rugby-Weltmeisterschaften gewonnen?",
+    "correctAnswer": "Neuseeland",
+    "incorrectAnswers": ["Australien", "Südafrika", "England"]
+  },
+  {
+    "question": "In welchem Sport führt man einen 'Spike' (Schiacciata) aus?",
+    "correctAnswer": "Volleyball",
+    "incorrectAnswers": ["Tennis", "Badminton", "Basketball"]
+  },
+  {
+    "question": "Wie heißt der japanische Sport, bei dem man vom Pferd aus mit dem Bogen schießt?",
+    "correctAnswer": "Yabusame",
+    "incorrectAnswers": ["Kendo", "Kyudo", "Sumo"]
+  },
+  {
+    "question": "Welche Wintersportart beinhaltet die Abfahrt auf einem kleinen Schlitten in Bauchlage?",
+    "correctAnswer": "Rodeln (Luge)",
+    "incorrectAnswers": ["Bob", "Skeleton", "Eislaufen"]
+  },
+  {
+    "question": "Welcher Sport verwendet ein Spielfeld mit Netz und einen Ball, den die Spieler mit Schlägern schlagen?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": ["Badminton", "Squash", "Volleyball"]
+  },
+  {
+    "question": "Wie heißt der traditionelle schottische Sport, bei dem ein schweres Gewicht geworfen wird?",
+    "correctAnswer": "Caber Toss",
+    "incorrectAnswers": ["Hammerwerfen", "Kugelstoßen", "Diskuswerfen"]
+  },
+  {
+    "question": "Welche Schwimmart beinhaltet alle vier Stile in einem Wettkampf?",
+    "correctAnswer": "Lagen-Einzel",
+    "incorrectAnswers": ["Freistil", "Schmetterling", "Rücken"]
+  },
+  {
+    "question": "Wie lang ist die offizielle Distanz eines Marathons?",
+    "correctAnswer": "42,195 Kilometer",
+    "incorrectAnswers": ["40 Kilometer", "50 Kilometer", "30 Kilometer"]
+  },
+  {
+    "question": "Welches Land ist bekannt für die traditionelle Sportart Kabaddi?",
+    "correctAnswer": "Indien",
+    "incorrectAnswers": ["Pakistan", "Bangladesch", "Sri Lanka"]
+  },
+  {
+    "question": "Welches Brettspiel verwendet die Begriffe 'Schach' und 'Schachmatt'?",
+    "correctAnswer": "Schach",
+    "incorrectAnswers": ["Dame", "Go", "Backgammon"]
+  },
+  {
+    "question": "Welcher Sport beinhaltet das Navigieren eines kleinen Bootes durch ein Tor auf Wildwasser?",
+    "correctAnswer": "Kanuslalom",
+    "incorrectAnswers": ["Kajak", "Rudern", "Segeln"]
+  },
+  {
+    "question": "Wie viele Punkte ist ein Wurf von außerhalb der Drei-Punkte-Linie im Basketball wert?",
+    "correctAnswer": "Drei Punkte",
+    "incorrectAnswers": ["Zwei Punkte", "Ein Punkt", "Vier Punkte"]
+  },
+  {
+    "question": "Welcher Sport verwendet den Begriff 'Bogey' für einen Schlag über Par?",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": ["Bowling", "Baseball", "Tennis"]
+  }
+]

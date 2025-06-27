@@ -5,14 +5,54 @@
     "incorrectAnswers": ["Toronto", "Vancouver", "Montreal"]
   },
   {
-    "question": "How many continents are there on Earth?",
-    "correctAnswer": "7",
-    "incorrectAnswers": ["5", "6", "8"]
+    "question": "Which planet is known as the Red Planet?",
+    "correctAnswer": "Mars",
+    "incorrectAnswers": ["Venus", "Jupiter", "Saturn"]
   },
   {
-    "question": "Which is the smallest country in the world?",
-    "correctAnswer": "Vatican City",
-    "incorrectAnswers": ["Monaco", "Nauru", "San Marino"]
+    "question": "Who was the first person to walk on the Moon?",
+    "correctAnswer": "Neil Armstrong",
+    "incorrectAnswers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "correctAnswer": "Pacific Ocean",
+    "incorrectAnswers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "correctAnswer": "Oxygen",
+    "incorrectAnswers": ["Gold", "Osmium", "Hydrogen"]
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "correctAnswer": "1912",
+    "incorrectAnswers": ["1905", "1923", "1898"]
+  },
+  {
+    "question": "Which language is the most spoken worldwide?",
+    "correctAnswer": "Mandarin Chinese",
+    "incorrectAnswers": ["English", "Spanish", "Hindi"]
+  },
+  {
+    "question": "In what year did World War II end?",
+    "correctAnswer": "1945",
+    "incorrectAnswers": ["1939", "1942", "1950"]
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "correctAnswer": "Diamond",
+    "incorrectAnswers": ["Gold", "Iron", "Quartz"]
+  },
+  {
+    "question": "Which country is home to the kangaroo?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": ["South Africa", "India", "Brazil"]
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "correctAnswer": "Yen",
+    "incorrectAnswers": ["Won", "Dollar", "Rupee"]
   },
   {
     "question": "What is the tallest mountain in the world?",
@@ -20,13 +60,198 @@
     "incorrectAnswers": ["K2", "Kangchenjunga", "Lhotse"]
   },
   {
-    "question": "Who invented the telephone?",
-    "correctAnswer": "Alexander Graham Bell",
-    "incorrectAnswers": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"]
+    "question": "Which scientist developed the theory of relativity?",
+    "correctAnswer": "Albert Einstein",
+    "incorrectAnswers": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
   },
   {
-    "question": "Which planet is closest to the Sun?",
+    "question": "What is the smallest country in the world?",
+    "correctAnswer": "Vatican City",
+    "incorrectAnswers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "correctAnswer": "Pancreas",
+    "incorrectAnswers": ["Liver", "Kidneys", "Gallbladder"]
+  },
+  {
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "correctAnswer": "Rio de Janeiro",
+    "incorrectAnswers": ["Tokyo", "London", "Beijing"]
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "correctAnswer": "Nile",
+    "incorrectAnswers": ["Amazon", "Yangtze", "Mississippi"]
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": ["Charles Dickens", "Jane Austen", "Oscar Wilde"]
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "correctAnswer": "Lion",
+    "incorrectAnswers": ["Tiger", "Elephant", "Gorilla"]
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "correctAnswer": "Carbon dioxide",
+    "incorrectAnswers": ["Oxygen", "Nitrogen", "Methane"]
+  },
+  {
+    "question": "What is the name of the longest bone in the human body?",
+    "correctAnswer": "Femur",
+    "incorrectAnswers": ["Tibia", "Humerus", "Fibula"]
+  },
+  {
+    "question": "Which country invented paper?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["Egypt", "Greece", "India"]
+  },
+  {
+    "question": "What is the primary language spoken in Brazil?",
+    "correctAnswer": "Portuguese",
+    "incorrectAnswers": ["Spanish", "English", "French"]
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "correctAnswer": "Saturn",
+    "incorrectAnswers": ["Jupiter", "Mars", "Uranus"]
+  },
+  {
+    "question": "What year did the Berlin Wall fall?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": ["1985", "1991", "1979"]
+  },
+  {
+    "question": "Which is the largest internal organ in the human body?",
+    "correctAnswer": "Liver",
+    "incorrectAnswers": ["Heart", "Lungs", "Kidneys"]
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "correctAnswer": "Michelangelo",
+    "incorrectAnswers": ["Leonardo da Vinci", "Raphael", "Donatello"]
+  },
+  {
+    "question": "Which country is famous for inventing the pizza?",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": ["France", "Greece", "Spain"]
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "correctAnswer": "Au",
+    "incorrectAnswers": ["Ag", "Fe", "Pb"]
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "correctAnswer": "Sahara",
+    "incorrectAnswers": ["Gobi", "Kalahari", "Arabian"]
+  },
+  {
+    "question": "Which planet is closest to the sun?",
     "correctAnswer": "Mercury",
     "incorrectAnswers": ["Venus", "Earth", "Mars"]
+  },
+  {
+    "question": "Who is known as the Father of Modern Physics?",
+    "correctAnswer": "Isaac Newton",
+    "incorrectAnswers": ["Albert Einstein", "Niels Bohr", "Galileo Galilei"]
+  },
+  {
+    "question": "What is the main language spoken in Egypt?",
+    "correctAnswer": "Arabic",
+    "incorrectAnswers": ["English", "French", "Berber"]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "correctAnswer": "Canberra",
+    "incorrectAnswers": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "correctAnswer": "Russia",
+    "incorrectAnswers": ["Canada", "China", "United States"]
+  },
+  {
+    "question": "What is the name of the smallest particle of an element?",
+    "correctAnswer": "Atom",
+    "incorrectAnswers": ["Molecule", "Electron", "Ion"]
+  },
+  {
+    "question": "Which country hosted the first modern Olympic Games in 1896?",
+    "correctAnswer": "Greece",
+    "incorrectAnswers": ["France", "United Kingdom", "Italy"]
+  },
+  {
+    "question": "Which scientist is famous for the laws of motion?",
+    "correctAnswer": "Isaac Newton",
+    "incorrectAnswers": ["Albert Einstein", "Galileo Galilei", "Nikola Tesla"]
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "correctAnswer": "Barometer",
+    "incorrectAnswers": ["Thermometer", "Hygrometer", "Anemometer"]
+  },
+  {
+    "question": "What is the name of the largest coral reef system?",
+    "correctAnswer": "Great Barrier Reef",
+    "incorrectAnswers": ["Belize Barrier Reef", "Red Sea Coral Reef", "Maldives Coral Reef"]
+  },
+  {
+    "question": "Which bird is known for its impressive mimicry of sounds?",
+    "correctAnswer": "Lyrebird",
+    "incorrectAnswers": ["Parrot", "Mockingbird", "Crow"]
+  },
+  {
+    "question": "What is the primary source of energy for the Earth?",
+    "correctAnswer": "The Sun",
+    "incorrectAnswers": ["The Moon", "Geothermal heat", "Wind"]
+  },
+  {
+    "question": "Which element is most abundant in the Earth's atmosphere?",
+    "correctAnswer": "Nitrogen",
+    "incorrectAnswers": ["Oxygen", "Carbon dioxide", "Argon"]
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched into space?",
+    "correctAnswer": "Sputnik 1",
+    "incorrectAnswers": ["Apollo 11", "Explorer 1", "Voyager 1"]
+  },
+  {
+    "question": "Which famous inventor is credited with inventing the light bulb?",
+    "correctAnswer": "Thomas Edison",
+    "incorrectAnswers": ["Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"]
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "correctAnswer": "Cheetah",
+    "incorrectAnswers": ["Lion", "Horse", "Pronghorn"]
+  },
+  {
+    "question": "What is the main ingredient in traditional bread?",
+    "correctAnswer": "Flour",
+    "incorrectAnswers": ["Corn", "Rice", "Oats"]
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "correctAnswer": "Saturn",
+    "incorrectAnswers": ["Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Which European city is famous for the Eiffel Tower?",
+    "correctAnswer": "Paris",
+    "incorrectAnswers": ["Rome", "Berlin", "Madrid"]
+  },
+  {
+    "question": "Which language has the most native speakers worldwide?",
+    "correctAnswer": "Mandarin Chinese",
+    "incorrectAnswers": ["English", "Hindi", "Spanish"]
+  },
+  {
+    "question": "What is the main component of the Earth's core?",
+    "correctAnswer": "Iron",
+    "incorrectAnswers": ["Nickel", "Copper", "Magnesium"]
   }
 ]

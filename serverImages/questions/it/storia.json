@@ -1,0 +1,257 @@
+[
+  {
+    "question": "Chi è stato il primo Presidente degli Stati Uniti?",
+    "correctAnswer": "George Washington",
+    "incorrectAnswers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"]
+  },
+  {
+    "question": "In che anno è iniziata la Rivoluzione francese?",
+    "correctAnswer": "1789",
+    "incorrectAnswers": ["1776", "1799", "1804"]
+  },
+  {
+    "question": "Quale impero fu governato da Gengis Khan?",
+    "correctAnswer": "Impero Mongolo",
+    "incorrectAnswers": ["Impero Ottomano", "Impero Romano", "Impero Persiano"]
+  },
+  {
+    "question": "Come si chiamava la nave su cui i Pellegrini viaggiarono in America nel 1620?",
+    "correctAnswer": "Mayflower",
+    "incorrectAnswers": ["Santa Maria", "Endeavour", "Beagle"]
+  },
+  {
+    "question": "Chi era il Primo Ministro britannico durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Winston Churchill",
+    "incorrectAnswers": ["Neville Chamberlain", "Clement Attlee", "Harold Macmillan"]
+  },
+  {
+    "question": "Quale antica civiltà costruì Machu Picchu?",
+    "correctAnswer": "Inca",
+    "incorrectAnswers": ["Maya", "Aztechi", "Olmechi"]
+  },
+  {
+    "question": "In che anno cadde il Muro di Berlino?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": ["1987", "1991", "1995"]
+  },
+  {
+    "question": "Chi fu l’ultima regina di Francia prima della Rivoluzione francese?",
+    "correctAnswer": "Maria Antonietta",
+    "incorrectAnswers": ["Caterina de’ Medici", "Giovanna d'Arco", "Eleonora d'Aquitania"]
+  },
+  {
+    "question": "Quale paese era conosciuto come Persia fino al 1935?",
+    "correctAnswer": "Iran",
+    "incorrectAnswers": ["Iraq", "Afghanistan", "Turchia"]
+  },
+  {
+    "question": "Chi era il leader dell’Unione Sovietica durante la Crisi dei Missili di Cuba?",
+    "correctAnswer": "Nikita Krusciov",
+    "incorrectAnswers": ["Giuseppe Stalin", "Leonid Breznev", "Michail Gorbačëv"]
+  },
+  {
+    "question": "Quale guerra fu combattuta tra le regioni Nord e Sud negli Stati Uniti?",
+    "correctAnswer": "La Guerra Civile Americana",
+    "incorrectAnswers": ["La Guerra Rivoluzionaria", "La Guerra del 1812", "La Guerra ispano-americana"]
+  },
+  {
+    "question": "Chi fu la prima donna a volare da sola attraverso l’Oceano Atlantico?",
+    "correctAnswer": "Amelia Earhart",
+    "incorrectAnswers": ["Bessie Coleman", "Harriet Quimby", "Sally Ride"]
+  },
+  {
+    "question": "In che anno fu costruito il Muro di Berlino?",
+    "correctAnswer": "1961",
+    "incorrectAnswers": ["1955", "1970", "1980"]
+  },
+  {
+    "question": "Quale famosa battaglia fu combattuta nel 1066?",
+    "correctAnswer": "La Battaglia di Hastings",
+    "incorrectAnswers": ["La Battaglia di Agincourt", "La Battaglia di Waterloo", "La Battaglia di Maratona"]
+  },
+  {
+    "question": "Chi fu il primo imperatore di Roma?",
+    "correctAnswer": "Augusto",
+    "incorrectAnswers": ["Giulio Cesare", "Nerone", "Caligola"]
+  },
+  {
+    "question": "In che anno fu firmata la Magna Carta?",
+    "correctAnswer": "1215",
+    "incorrectAnswers": ["1066", "1492", "1314"]
+  },
+  {
+    "question": "Quale Presidente degli Stati Uniti emise il Proclama di Emancipazione?",
+    "correctAnswer": "Abraham Lincoln",
+    "incorrectAnswers": ["Ulysses S. Grant", "Theodore Roosevelt", "Andrew Johnson"]
+  },
+  {
+    "question": "In che anno avvenne il Grande Incendio di Londra?",
+    "correctAnswer": "1666",
+    "incorrectAnswers": ["1600", "1701", "1750"]
+  },
+  {
+    "question": "Chi fu la prima persona a circumnavigare il globo?",
+    "correctAnswer": "Ferdinando Magellano",
+    "incorrectAnswers": ["Cristoforo Colombo", "Vasco da Gama", "James Cook"]
+  },
+  {
+    "question": "Quale trattato pose fine alla Prima Guerra Mondiale?",
+    "correctAnswer": "Trattato di Versailles",
+    "incorrectAnswers": ["Trattato di Parigi", "Trattato di Tordesillas", "Trattato di Gand"]
+  },
+  {
+    "question": "Quale città fu divisa da un muro dal 1961 al 1989?",
+    "correctAnswer": "Berlino",
+    "incorrectAnswers": ["Vienna", "Praga", "Varsavia"]
+  },
+  {
+    "question": "Chi era la regina egiziana famosa per la sua relazione con Giulio Cesare e Marco Antonio?",
+    "correctAnswer": "Cleopatra",
+    "incorrectAnswers": ["Nefertiti", "Hatshepsut", "Ankhesenamun"]
+  },
+  {
+    "question": "Chi era il monarca britannico durante la Rivoluzione americana?",
+    "correctAnswer": "Re Giorgio III",
+    "incorrectAnswers": ["Regina Vittoria", "Re Enrico VIII", "Regina Elisabetta I"]
+  },
+  {
+    "question": "Come si chiamava il primo insediamento inglese permanente in America?",
+    "correctAnswer": "Jamestown",
+    "incorrectAnswers": ["Plymouth", "Roanoke", "Salem"]
+  },
+  {
+    "question": "Chi era conosciuta come la 'Lady di Ferro'?",
+    "correctAnswer": "Margaret Thatcher",
+    "incorrectAnswers": ["Indira Gandhi", "Angela Merkel", "Golda Meir"]
+  },
+  {
+    "question": "Quale civiltà costruì le piramidi di Giza?",
+    "correctAnswer": "Antichi Egizi",
+    "incorrectAnswers": ["Mesopotamici", "Romani", "Greci"]
+  },
+  {
+    "question": "Chi fu il principale autore della Dichiarazione di Indipendenza?",
+    "correctAnswer": "Thomas Jefferson",
+    "incorrectAnswers": ["Benjamin Franklin", "John Adams", "George Washington"]
+  },
+  {
+    "question": "In quale guerra fu combattuta la Battaglia di Gettysburg?",
+    "correctAnswer": "Guerra Civile Americana",
+    "incorrectAnswers": ["Prima Guerra Mondiale", "Seconda Guerra Mondiale", "Guerra Rivoluzionaria"]
+  },
+  {
+    "question": "Chi scoprì la penicillina?",
+    "correctAnswer": "Alexander Fleming",
+    "incorrectAnswers": ["Louis Pasteur", "Marie Curie", "Joseph Lister"]
+  },
+  {
+    "question": "Quale impero fu governato da Solimano il Magnifico?",
+    "correctAnswer": "Impero Ottomano",
+    "incorrectAnswers": ["Impero Romano", "Impero Persiano", "Impero Mongolo"]
+  },
+  {
+    "question": "Quale paese fu diviso in Est e Ovest durante la Guerra Fredda?",
+    "correctAnswer": "Germania",
+    "incorrectAnswers": ["Corea", "Vietnam", "Cina"]
+  },
+  {
+    "question": "Chi fu la prima donna Primo Ministro del Regno Unito?",
+    "correctAnswer": "Margaret Thatcher",
+    "incorrectAnswers": ["Theresa May", "Elisabetta II", "Angela Merkel"]
+  },
+  {
+    "question": "Quale evento scatenò l’inizio della Prima Guerra Mondiale?",
+    "correctAnswer": "Assassinio dell’Arciduca Francesco Ferdinando",
+    "incorrectAnswers": ["Invasione della Polonia", "Bombardamento di Pearl Harbor", "Battaglia della Somme"]
+  },
+  {
+    "question": "Chi fu il famoso leader per i diritti civili che pronunciò il discorso 'I Have a Dream'?",
+    "correctAnswer": "Martin Luther King Jr.",
+    "incorrectAnswers": ["Malcolm X", "Rosa Parks", "Frederick Douglass"]
+  },
+  {
+    "question": "Il Rinascimento iniziò in quale paese?",
+    "correctAnswer": "Italia",
+    "incorrectAnswers": ["Francia", "Inghilterra", "Spagna"]
+  },
+  {
+    "question": "Chi era il leader del Partito Nazista durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Adolf Hitler",
+    "incorrectAnswers": ["Giuseppe Stalin", "Benito Mussolini", "Winston Churchill"]
+  },
+  {
+    "question": "Quale esploratore è accreditato della scoperta dell’America nel 1492?",
+    "correctAnswer": "Cristoforo Colombo",
+    "incorrectAnswers": ["Ferdinando Magellano", "Vasco da Gama", "John Cabot"]
+  },
+  {
+    "question": "Quale fu la causa principale della Grande Depressione?",
+    "correctAnswer": "Crollo della borsa del 1929",
+    "incorrectAnswers": ["Prima Guerra Mondiale", "Crisi petrolifera", "Fallimenti bancari"]
+  },
+  {
+    "question": "Chi fu il primo Presidente del Sudafrica dopo la fine dell’apartheid?",
+    "correctAnswer": "Nelson Mandela",
+    "incorrectAnswers": ["Thabo Mbeki", "Jacob Zuma", "Desmond Tutu"]
+  },
+  {
+    "question": "Come si chiamava la rete di rotte commerciali che collegava l’Asia orientale all’Europa?",
+    "correctAnswer": "La Via della Seta",
+    "incorrectAnswers": ["La rotta delle spezie", "La via dell’ambra", "La via dell’incenso"]
+  },
+  {
+    "question": "Quale guerra terminò con il Trattato di Parigi del 1783?",
+    "correctAnswer": "Guerra d’Indipendenza americana",
+    "incorrectAnswers": ["Guerra franco-indiana", "Guerra del 1812", "Guerra dei sette anni"]
+  },
+  {
+    "question": "Chi fu la prima donna faraone dell’Antico Egitto?",
+    "correctAnswer": "Hatshepsut",
+    "incorrectAnswers": ["Cleopatra", "Nefertiti", "Sobekneferu"]
+  },
+  {
+    "question": "Quale città era la capitale dell’Impero Bizantino?",
+    "correctAnswer": "Costantinopoli",
+    "incorrectAnswers": ["Atene", "Roma", "Alessandria"]
+  },
+  {
+    "question": "Per quale invenzione è famoso Johannes Gutenberg?",
+    "correctAnswer": "La stampa a caratteri mobili",
+    "incorrectAnswers": ["Telescopio", "Motore a vapore", "Bussola"]
+  },
+  {
+    "question": "Quale paese era governato dagli zar?",
+    "correctAnswer": "Russia",
+    "incorrectAnswers": ["Polonia", "Austria", "Turchia"]
+  },
+  {
+    "question": "Chi fu il leader del movimento per l’indipendenza indiana?",
+    "correctAnswer": "Mahatma Gandhi",
+    "incorrectAnswers": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh"]
+  },
+  {
+    "question": "Quale guerra coinvolse lo sbarco in Normandia noto come D-Day?",
+    "correctAnswer": "Seconda Guerra Mondiale",
+    "incorrectAnswers": ["Prima Guerra Mondiale", "Guerra di Corea", "Guerra del Vietnam"]
+  },
+  {
+    "question": "Qual era la lingua principale dell’Impero Romano?",
+    "correctAnswer": "Latino",
+    "incorrectAnswers": ["Greco", "Ebraico", "Aramaico"]
+  },
+  {
+    "question": "Chi fu il primo uomo a mettere piede sulla Luna?",
+    "correctAnswer": "Neil Armstrong",
+    "incorrectAnswers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+  },
+  {
+    "question": "Quale paese fu il principale avversario degli Stati Uniti nella Guerra Fredda?",
+    "correctAnswer": "Unione Sovietica",
+    "incorrectAnswers": ["Cina", "Corea del Nord", "Vietnam"]
+  },
+  {
+    "question": "Come si chiamava la nave su cui Charles Darwin viaggiò durante il suo viaggio?",
+    "correctAnswer": "HMS Beagle",
+    "incorrectAnswers": ["HMS Endeavour", "USS Constitution", "Santa Maria"]
+  }
+]

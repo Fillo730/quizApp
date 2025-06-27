@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Aus welchem Land stammt Sushi?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": ["China", "Korea", "Thailand"]
+  },
+  {
+    "question": "Was ist die Hauptzutat von traditionellem Guacamole?",
+    "correctAnswer": "Avocado",
+    "incorrectAnswers": ["Tomate", "Gurke", "Kopfsalat"]
+  },
+  {
+    "question": "Welcher Käse wird traditionell auf einer Pizza Margherita verwendet?",
+    "correctAnswer": "Mozzarella",
+    "incorrectAnswers": ["Cheddar", "Parmesan", "Gouda"]
+  },
+  {
+    "question": "Welcher Alkohol ist Hauptbestandteil eines klassischen Margarita-Cocktails?",
+    "correctAnswer": "Tequila",
+    "incorrectAnswers": ["Wodka", "Rum", "Gin"]
+  },
+  {
+    "question": "Welche Frucht hat die Samen außen?",
+    "correctAnswer": "Erdbeere",
+    "incorrectAnswers": ["Kiwi", "Ananas", "Heidelbeere"]
+  },
+  {
+    "question": "Welche Pasta hat die Form von kleinen Reiskörnern?",
+    "correctAnswer": "Orzo",
+    "incorrectAnswers": ["Fusilli", "Penne", "Rigatoni"]
+  },
+  {
+    "question": "Aus welcher Blume wird Safran gewonnen?",
+    "correctAnswer": "Krokusblüte",
+    "incorrectAnswers": ["Vanilleschote", "Zimtrinde", "Muskatnuss"]
+  },
+  {
+    "question": "Was ist die Hauptzutat von Hummus?",
+    "correctAnswer": "Kichererbsen",
+    "incorrectAnswers": ["Linsen", "Bohnen", "Erbsen"]
+  },
+  {
+    "question": "Welches Land ist bekannt für das Gericht Paella?",
+    "correctAnswer": "Spanien",
+    "incorrectAnswers": ["Italien", "Portugal", "Frankreich"]
+  },
+  {
+    "question": "Welches Getränk wird aus fermentierten Äpfeln hergestellt?",
+    "correctAnswer": "Cider",
+    "incorrectAnswers": ["Bier", "Wein", "Whisky"]
+  },
+  {
+    "question": "Welches Fleisch wird traditionell für Wiener Schnitzel verwendet?",
+    "correctAnswer": "Kalbfleisch",
+    "incorrectAnswers": ["Schweinefleisch", "Rindfleisch", "Hähnchen"]
+  },
+  {
+    "question": "Welche Frucht ist die Hauptzutat im traditionellen britischen Eton Mess?",
+    "correctAnswer": "Erdbeeren",
+    "incorrectAnswers": ["Himbeeren", "Heidelbeeren", "Brombeeren"]
+  },
+  {
+    "question": "Welche Reissorte wird traditionell für Risotto verwendet?",
+    "correctAnswer": "Arborio-Reis",
+    "incorrectAnswers": ["Basmati-Reis", "Jasminreis", "Vollkornreis"]
+  },
+  {
+    "question": "Welches Getränk wird traditionell in einem Kupferbecher serviert?",
+    "correctAnswer": "Moscow Mule",
+    "incorrectAnswers": ["Bloody Mary", "Old Fashioned", "Mojito"]
+  },
+  {
+    "question": "Was ist die Hauptzutat in traditioneller japanischer Miso-Suppe?",
+    "correctAnswer": "Miso-Paste",
+    "incorrectAnswers": ["Sojasauce", "Wasabi", "Alge"]
+  },
+  {
+    "question": "Welches Gemüse ist die Hauptzutat in Ratatouille?",
+    "correctAnswer": "Aubergine",
+    "incorrectAnswers": ["Zucchini", "Tomate", "Paprika"]
+  },
+  {
+    "question": "Welcher Teig wird für traditionelle Croissants verwendet?",
+    "correctAnswer": "Blätterteig",
+    "incorrectAnswers": ["Mürbeteig", "Brandteig", "Filoteig"]
+  },
+  {
+    "question": "Welche Frucht wird für die traditionelle Key Lime Pie verwendet?",
+    "correctAnswer": "Key Lime",
+    "incorrectAnswers": ["Zitrone", "Gewöhnliche Limette", "Orange"]
+  },
+  {
+    "question": "Was ist die Hauptzutat im indischen Gericht Palak Paneer?",
+    "correctAnswer": "Spinat",
+    "incorrectAnswers": ["Kartoffeln", "Blumenkohl", "Tomaten"]
+  },
+  {
+    "question": "Aus welchem Land stammt der Cocktail Pisco Sour?",
+    "correctAnswer": "Peru",
+    "incorrectAnswers": ["Chile", "Argentinien", "Mexiko"]
+  },
+  {
+    "question": "Welche Bohnenart wird für Baked Beans verwendet?",
+    "correctAnswer": "Navy-Bohnen",
+    "incorrectAnswers": ["Rote Bohnen", "Schwarze Bohnen", "Pinto-Bohnen"]
+  },
+  {
+    "question": "Welche Sauce wird traditionell zu Roastbeef serviert?",
+    "correctAnswer": "Meerrettichsauce",
+    "incorrectAnswers": ["Senfsauce", "Bratensauce", "Barbecuesauce"]
+  },
+  {
+    "question": "Welche Nuss wird zur Herstellung von Marzipan verwendet?",
+    "correctAnswer": "Mandeln",
+    "incorrectAnswers": ["Cashews", "Walnüsse", "Pistazien"]
+  },
+  {
+    "question": "Welches Gemüse wird traditionell zur Herstellung von Sauerkraut verwendet?",
+    "correctAnswer": "Weißkohl",
+    "incorrectAnswers": ["Karotte", "Rote Bete", "Blumenkohl"]
+  },
+  {
+    "question": "Welches französische Gericht wird mit Schnecken zubereitet?",
+    "correctAnswer": "Escargot",
+    "incorrectAnswers": ["Bouillabaisse", "Coq au Vin", "Ratatouille"]
+  },
+  {
+    "question": "Welches Getränk wird aus fermentierten Trauben hergestellt?",
+    "correctAnswer": "Wein",
+    "incorrectAnswers": ["Bier", "Cider", "Wodka"]
+  },
+  {
+    "question": "Welches Land ist berühmt für das Gericht Biryani?",
+    "correctAnswer": "Indien",
+    "incorrectAnswers": ["Pakistan", "Bangladesch", "Nepal"]
+  },
+  {
+    "question": "Was ist die Hauptzutat im Nahost-Gericht Falafel?",
+    "correctAnswer": "Kichererbsen",
+    "incorrectAnswers": ["Linsen", "Schwarze Bohnen", "Erbsen"]
+  },
+  {
+    "question": "Welche Frucht wird für den traditionellen britischen Summer Pudding verwendet?",
+    "correctAnswer": "Gemischte Beeren",
+    "incorrectAnswers": ["Äpfel", "Birnen", "Pfirsiche"]
+  },
+  {
+    "question": "Wie heißt das italienische Dessert mit in Kaffee getränkten Löffelbiskuits und Mascarpone?",
+    "correctAnswer": "Tiramisù",
+    "incorrectAnswers": ["Panna Cotta", "Cannoli", "Eiscreme"]
+  },
+  {
+    "question": "Welches Getränk wird mit Wacholderbeeren hergestellt?",
+    "correctAnswer": "Gin",
+    "incorrectAnswers": ["Wodka", "Whisky", "Rum"]
+  },
+  {
+    "question": "Welcher Fisch wird traditionell für Fish and Chips verwendet?",
+    "correctAnswer": "Kabeljau",
+    "incorrectAnswers": ["Lachs", "Schellfisch", "Thunfisch"]
+  },
+  {
+    "question": "Welcher Käse ist für seine blauen Adern bekannt?",
+    "correctAnswer": "Blauschimmelkäse",
+    "incorrectAnswers": ["Cheddar", "Brie", "Gouda"]
+  },
+  {
+    "question": "Welches Dessert entsteht durch das Karamellisieren von Zucker und Sahne?",
+    "correctAnswer": "Toffee",
+    "incorrectAnswers": ["Fudge", "Marshmallow", "Karamell"]
+  },
+  {
+    "question": "Welche Pasta hat die Form kleiner Röhren?",
+    "correctAnswer": "Penne",
+    "incorrectAnswers": ["Spaghetti", "Fusilli", "Linguine"]
+  },
+  {
+    "question": "Welches Gewürz wird häufig in Kürbiskuchen verwendet?",
+    "correctAnswer": "Zimt",
+    "incorrectAnswers": ["Safran", "Kurkuma", "Kreuzkümmel"]
+  },
+  {
+    "question": "Welche Trockenfrucht ist eine getrocknete Pflaume?",
+    "correctAnswer": "Pflaume",
+    "incorrectAnswers": ["Apfel", "Birne", "Pfirsich"]
+  },
+  {
+    "question": "Welches Getränk wird aus fermentierter Gerste hergestellt?",
+    "correctAnswer": "Bier",
+    "incorrectAnswers": ["Whisky", "Wodka", "Wein"]
+  },
+  {
+    "question": "Welches Dessert besteht aus Schichten von Blätterteig und Creme?",
+    "correctAnswer": "Mille-feuille",
+    "incorrectAnswers": ["Eclair", "Profiterole", "Macaron"]
+  },
+  {
+    "question": "Welche Frucht ist eine Kreuzung aus Pampelmuse und Orange?",
+    "correctAnswer": "Grapefruit",
+    "incorrectAnswers": ["Mandarine", "Clementine", "Tangerine"]
+  },
+  {
+    "question": "Welche Sauce wird mit Eiern, Butter und Zitronensaft hergestellt?",
+    "correctAnswer": "Sauce Hollandaise",
+    "incorrectAnswers": ["Mayonnaise", "Béarnaise", "Aioli"]
+  },
+  {
+    "question": "Welche Kaffeesorte entsteht, wenn heißes Wasser durch feines Pulver gepresst wird?",
+    "correctAnswer": "Espresso",
+    "incorrectAnswers": ["Filterkaffee", "French Press", "Cold Brew"]
+  },
+  {
+    "question": "Welche Frucht ist Hauptbestandteil der Banoffee Pie?",
+    "correctAnswer": "Banane",
+    "incorrectAnswers": ["Apfel", "Birne", "Pfirsich"]
+  },
+  {
+    "question": "Welches Kraut ist die Hauptzutat in Pesto?",
+    "correctAnswer": "Basilikum",
+    "incorrectAnswers": ["Petersilie", "Koriander", "Minze"]
+  },
+  {
+    "question": "Welches Brot wird traditionell für ein Reuben-Sandwich verwendet?",
+    "correctAnswer": "Roggenbrot",
+    "incorrectAnswers": ["Sauerteigbrot", "Vollkornbrot", "Baguette"]
+  },
+  {
+    "question": "Was für ein Lebensmittel ist Tempeh?",
+    "correctAnswer": "Fermentierte Sojabohnen",
+    "incorrectAnswers": ["Fermentierter Reis", "Fermentierter Weizen", "Fermentierter Mais"]
+  },
+  {
+    "question": "Welches Land ist bekannt für die Herstellung von Ahornsirup?",
+    "correctAnswer": "Kanada",
+    "incorrectAnswers": ["USA", "Norwegen", "Schweden"]
+  },
+  {
+    "question": "Welche Frucht ist Hauptbestandteil der Piña Colada?",
+    "correctAnswer": "Ananas",
+    "incorrectAnswers": ["Mango", "Kokosnuss", "Papaya"]
+  },
+  {
+    "question": "Welches Gemüse ist die Hauptzutat in Ratatouille?",
+    "correctAnswer": "Aubergine",
+    "incorrectAnswers": ["Zucchini", "Paprika", "Tomate"]
+  }
+]

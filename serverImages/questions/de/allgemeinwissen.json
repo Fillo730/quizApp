@@ -1,0 +1,257 @@
+[
+  {
+    "question": "Was ist die Hauptstadt von Kanada?",
+    "correctAnswer": "Ottawa",
+    "incorrectAnswers": ["Toronto", "Vancouver", "Montréal"]
+  },
+  {
+    "question": "Welcher Planet ist als der Rote Planet bekannt?",
+    "correctAnswer": "Mars",
+    "incorrectAnswers": ["Venus", "Jupiter", "Saturn"]
+  },
+  {
+    "question": "Wer war der erste Mensch, der den Mond betreten hat?",
+    "correctAnswer": "Neil Armstrong",
+    "incorrectAnswers": ["Buzz Aldrin", "Juri Gagarin", "Michael Collins"]
+  },
+  {
+    "question": "Welches ist der größte Ozean der Erde?",
+    "correctAnswer": "Pazifischer Ozean",
+    "incorrectAnswers": ["Atlantischer Ozean", "Indischer Ozean", "Arktischer Ozean"]
+  },
+  {
+    "question": "Welches Element hat das chemische Symbol 'O'?",
+    "correctAnswer": "Sauerstoff",
+    "incorrectAnswers": ["Gold", "Osmium", "Wasserstoff"]
+  },
+  {
+    "question": "In welchem Jahr sank die Titanic?",
+    "correctAnswer": "1912",
+    "incorrectAnswers": ["1905", "1923", "1898"]
+  },
+  {
+    "question": "Welche Sprache wird weltweit am meisten gesprochen?",
+    "correctAnswer": "Mandarin-Chinesisch",
+    "incorrectAnswers": ["Englisch", "Spanisch", "Hindi"]
+  },
+  {
+    "question": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "correctAnswer": "1945",
+    "incorrectAnswers": ["1939", "1942", "1950"]
+  },
+  {
+    "question": "Was ist die härteste natürliche Substanz auf der Erde?",
+    "correctAnswer": "Diamant",
+    "incorrectAnswers": ["Gold", "Eisen", "Quarz"]
+  },
+  {
+    "question": "Welches Land ist die Heimat der Kängurus?",
+    "correctAnswer": "Australien",
+    "incorrectAnswers": ["Südafrika", "Indien", "Brasilien"]
+  },
+  {
+    "question": "Was ist die Währung Japans?",
+    "correctAnswer": "Yen",
+    "incorrectAnswers": ["Won", "Dollar", "Rupie"]
+  },
+  {
+    "question": "Welcher ist der höchste Berg der Welt?",
+    "correctAnswer": "Mount Everest",
+    "incorrectAnswers": ["K2", "Kangchenjunga", "Lhotse"]
+  },
+  {
+    "question": "Welcher Wissenschaftler entwickelte die Relativitätstheorie?",
+    "correctAnswer": "Albert Einstein",
+    "incorrectAnswers": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+  },
+  {
+    "question": "Was ist das kleinste Land der Welt?",
+    "correctAnswer": "Vatikanstadt",
+    "incorrectAnswers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "Welches Organ produziert Insulin?",
+    "correctAnswer": "Bauchspeicheldrüse",
+    "incorrectAnswers": ["Leber", "Nieren", "Gallenblase"]
+  },
+  {
+    "question": "Welche Stadt war Gastgeber der Olympischen Sommerspiele 2016?",
+    "correctAnswer": "Rio de Janeiro",
+    "incorrectAnswers": ["Tokio", "London", "Peking"]
+  },
+  {
+    "question": "Welcher Fluss ist der längste der Welt?",
+    "correctAnswer": "Nil",
+    "incorrectAnswers": ["Amazonas", "Jangtse", "Mississippi"]
+  },
+  {
+    "question": "Wer schrieb das Theaterstück 'Romeo und Julia'?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": ["Charles Dickens", "Jane Austen", "Oscar Wilde"]
+  },
+  {
+    "question": "Welches Tier wird als König des Dschungels bezeichnet?",
+    "correctAnswer": "Löwe",
+    "incorrectAnswers": ["Tiger", "Elefant", "Gorilla"]
+  },
+  {
+    "question": "Welches Gas nehmen Pflanzen bei der Photosynthese auf?",
+    "correctAnswer": "Kohlendioxid",
+    "incorrectAnswers": ["Sauerstoff", "Stickstoff", "Methan"]
+  },
+  {
+    "question": "Wie heißt der längste Knochen im menschlichen Körper?",
+    "correctAnswer": "Oberschenkelknochen",
+    "incorrectAnswers": ["Schienbein", "Oberarmknochen", "Wadenbein"]
+  },
+  {
+    "question": "Welches Land erfand das Papier?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["Ägypten", "Griechenland", "Indien"]
+  },
+  {
+    "question": "Was ist die Hauptsprache in Brasilien?",
+    "correctAnswer": "Portugiesisch",
+    "incorrectAnswers": ["Spanisch", "Englisch", "Französisch"]
+  },
+  {
+    "question": "Welcher Planet hat die meisten Monde?",
+    "correctAnswer": "Saturn",
+    "incorrectAnswers": ["Jupiter", "Mars", "Uranus"]
+  },
+  {
+    "question": "In welchem Jahr fiel die Berliner Mauer?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": ["1985", "1991", "1979"]
+  },
+  {
+    "question": "Was ist das größte innere Organ des menschlichen Körpers?",
+    "correctAnswer": "Leber",
+    "incorrectAnswers": ["Herz", "Lunge", "Nieren"]
+  },
+  {
+    "question": "Wer malte die Decke der Sixtinischen Kapelle?",
+    "correctAnswer": "Michelangelo",
+    "incorrectAnswers": ["Leonardo da Vinci", "Raffael", "Donatello"]
+  },
+  {
+    "question": "Welches Land ist berühmt für die Erfindung der Pizza?",
+    "correctAnswer": "Italien",
+    "incorrectAnswers": ["Frankreich", "Griechenland", "Spanien"]
+  },
+  {
+    "question": "Was ist das chemische Symbol für Gold?",
+    "correctAnswer": "Au",
+    "incorrectAnswers": ["Ag", "Fe", "Pb"]
+  },
+  {
+    "question": "Was ist die größte Wüste der Welt?",
+    "correctAnswer": "Sahara",
+    "incorrectAnswers": ["Gobi", "Kalahari", "Arabische Wüste"]
+  },
+  {
+    "question": "Welcher Planet ist der Sonne am nächsten?",
+    "correctAnswer": "Merkur",
+    "incorrectAnswers": ["Venus", "Erde", "Mars"]
+  },
+  {
+    "question": "Wer gilt als Vater der modernen Physik?",
+    "correctAnswer": "Isaac Newton",
+    "incorrectAnswers": ["Albert Einstein", "Niels Bohr", "Galileo Galilei"]
+  },
+  {
+    "question": "Was ist die Hauptsprache in Ägypten?",
+    "correctAnswer": "Arabisch",
+    "incorrectAnswers": ["Englisch", "Französisch", "Berberisch"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Australien?",
+    "correctAnswer": "Canberra",
+    "incorrectAnswers": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Welches ist das flächenmäßig größte Land der Welt?",
+    "correctAnswer": "Russland",
+    "incorrectAnswers": ["Kanada", "China", "Vereinigte Staaten"]
+  },
+  {
+    "question": "Wie heißt das kleinste Teilchen eines Elements?",
+    "correctAnswer": "Atom",
+    "incorrectAnswers": ["Molekül", "Elektron", "Ion"]
+  },
+  {
+    "question": "Welches Land war Gastgeber der ersten modernen Olympischen Spiele 1896?",
+    "correctAnswer": "Griechenland",
+    "incorrectAnswers": ["Frankreich", "Vereinigtes Königreich", "Italien"]
+  },
+  {
+    "question": "Welcher Wissenschaftler ist für die Bewegungsgesetze bekannt?",
+    "correctAnswer": "Isaac Newton",
+    "incorrectAnswers": ["Albert Einstein", "Galileo Galilei", "Nikola Tesla"]
+  },
+  {
+    "question": "Welches Instrument misst den Luftdruck?",
+    "correctAnswer": "Barometer",
+    "incorrectAnswers": ["Thermometer", "Hygrometer", "Anemometer"]
+  },
+  {
+    "question": "Wie heißt das größte Korallenriffsystem der Welt?",
+    "correctAnswer": "Great Barrier Reef",
+    "incorrectAnswers": ["Belize Barrier Reef", "Rotes-Meer-Riff", "Malediven-Riff"]
+  },
+  {
+    "question": "Welcher Vogel ist bekannt dafür, Geräusche zu imitieren?",
+    "correctAnswer": "Leierschwanz",
+    "incorrectAnswers": ["Papagei", "Spottdrossel", "Rabe"]
+  },
+  {
+    "question": "Was ist die Hauptenergiequelle der Erde?",
+    "correctAnswer": "Die Sonne",
+    "incorrectAnswers": ["Der Mond", "Geothermie", "Wind"]
+  },
+  {
+    "question": "Welches ist das häufigste Element in der Erdatmosphäre?",
+    "correctAnswer": "Stickstoff",
+    "incorrectAnswers": ["Sauerstoff", "Kohlendioxid", "Argon"]
+  },
+  {
+    "question": "Wie heißt der erste künstliche Satellit im All?",
+    "correctAnswer": "Sputnik 1",
+    "incorrectAnswers": ["Apollo 11", "Explorer 1", "Voyager 1"]
+  },
+  {
+    "question": "Welcher Erfinder ist bekannt für die Erfindung der Glühbirne?",
+    "correctAnswer": "Thomas Edison",
+    "incorrectAnswers": ["Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"]
+  },
+  {
+    "question": "Welches ist das schnellste Landtier?",
+    "correctAnswer": "Gepard",
+    "incorrectAnswers": ["Löwe", "Pferd", "Gabelbock"]
+  },
+  {
+    "question": "Was ist der Hauptbestandteil von traditionellem Brot?",
+    "correctAnswer": "Mehl",
+    "incorrectAnswers": ["Mais", "Reis", "Hafer"]
+  },
+  {
+    "question": "Welcher Planet ist berühmt für seine Ringe?",
+    "correctAnswer": "Saturn",
+    "incorrectAnswers": ["Jupiter", "Uranus", "Neptun"]
+  },
+  {
+    "question": "Welche europäische Stadt ist berühmt für den Eiffelturm?",
+    "correctAnswer": "Paris",
+    "incorrectAnswers": ["Rom", "Berlin", "Madrid"]
+  },
+  {
+    "question": "Welche Sprache hat weltweit die meisten Muttersprachler?",
+    "correctAnswer": "Mandarin-Chinesisch",
+    "incorrectAnswers": ["Englisch", "Hindi", "Spanisch"]
+  },
+  {
+    "question": "Was ist der Hauptbestandteil des Erdkerns?",
+    "correctAnswer": "Eisen",
+    "incorrectAnswers": ["Nickel", "Kupfer", "Magnesium"]
+  }
+]

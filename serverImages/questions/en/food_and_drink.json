@@ -1,18 +1,28 @@
 [
   {
-    "question": "Which country is famous for sushi?",
+    "question": "Which country is the origin of sushi?",
     "correctAnswer": "Japan",
-    "incorrectAnswers": ["China", "Thailand", "South Korea"]
+    "incorrectAnswers": ["China", "Korea", "Thailand"]
   },
   {
-    "question": "What is the main ingredient in guacamole?",
+    "question": "What is the main ingredient in traditional guacamole?",
     "correctAnswer": "Avocado",
-    "incorrectAnswers": ["Tomato", "Cucumber", "Zucchini"]
+    "incorrectAnswers": ["Tomato", "Cucumber", "Lettuce"]
   },
   {
-    "question": "Which soft drink was originally created as a medicine?",
-    "correctAnswer": "Coca-Cola",
-    "incorrectAnswers": ["Pepsi", "Fanta", "Dr Pepper"]
+    "question": "Which cheese is traditionally used on a Margherita pizza?",
+    "correctAnswer": "Mozzarella",
+    "incorrectAnswers": ["Cheddar", "Parmesan", "Gouda"]
+  },
+  {
+    "question": "What is the alcoholic ingredient in a classic margarita?",
+    "correctAnswer": "Tequila",
+    "incorrectAnswers": ["Vodka", "Rum", "Gin"]
+  },
+  {
+    "question": "Which fruit is known for having its seeds on the outside?",
+    "correctAnswer": "Strawberry",
+    "incorrectAnswers": ["Kiwi", "Pineapple", "Blueberry"]
   },
   {
     "question": "What type of pasta is shaped like small rice grains?",
@@ -20,13 +30,218 @@
     "incorrectAnswers": ["Fusilli", "Penne", "Rigatoni"]
   },
   {
-    "question": "Which fruit is dried to make prunes?",
-    "correctAnswer": "Plum",
-    "incorrectAnswers": ["Date", "Fig", "Grape"]
+    "question": "Which spice is saffron derived from?",
+    "correctAnswer": "Crocus flower",
+    "incorrectAnswers": ["Vanilla bean", "Cinnamon bark", "Nutmeg seed"]
   },
   {
-    "question": "Which spice is derived from dried flower buds?",
-    "correctAnswer": "Cloves",
-    "incorrectAnswers": ["Cinnamon", "Nutmeg", "Peppercorn"]
+    "question": "What is the main ingredient in hummus?",
+    "correctAnswer": "Chickpeas",
+    "incorrectAnswers": ["Lentils", "Beans", "Peas"]
+  },
+  {
+    "question": "Which country is famous for its dish called paella?",
+    "correctAnswer": "Spain",
+    "incorrectAnswers": ["Italy", "Portugal", "France"]
+  },
+  {
+    "question": "Which drink is made from fermented apples?",
+    "correctAnswer": "Cider",
+    "incorrectAnswers": ["Beer", "Wine", "Whiskey"]
+  },
+  {
+    "question": "What type of meat is traditionally used in a Wiener Schnitzel?",
+    "correctAnswer": "Veal",
+    "incorrectAnswers": ["Pork", "Beef", "Chicken"]
+  },
+  {
+    "question": "Which fruit is the primary ingredient in traditional British Eton Mess?",
+    "correctAnswer": "Strawberries",
+    "incorrectAnswers": ["Raspberries", "Blueberries", "Blackberries"]
+  },
+  {
+    "question": "What grain is used to make traditional risotto?",
+    "correctAnswer": "Arborio rice",
+    "incorrectAnswers": ["Basmati rice", "Jasmine rice", "Brown rice"]
+  },
+  {
+    "question": "Which drink is traditionally served in a copper mug?",
+    "correctAnswer": "Moscow Mule",
+    "incorrectAnswers": ["Bloody Mary", "Old Fashioned", "Mojito"]
+  },
+  {
+    "question": "What is the key ingredient in the Japanese dish miso soup?",
+    "correctAnswer": "Miso paste",
+    "incorrectAnswers": ["Soy sauce", "Wasabi", "Seaweed"]
+  },
+  {
+    "question": "Which vegetable is the main ingredient in ratatouille?",
+    "correctAnswer": "Eggplant",
+    "incorrectAnswers": ["Zucchini", "Tomato", "Bell pepper"]
+  },
+  {
+    "question": "Which type of pastry is used to make a traditional croissant?",
+    "correctAnswer": "Laminated dough",
+    "incorrectAnswers": ["Shortcrust pastry", "Choux pastry", "Filo pastry"]
+  },
+  {
+    "question": "Which fruit is used to make traditional key lime pie?",
+    "correctAnswer": "Key lime",
+    "incorrectAnswers": ["Lemon", "Regular lime", "Orange"]
+  },
+  {
+    "question": "What is the main ingredient in the Indian dish 'palak paneer'?",
+    "correctAnswer": "Spinach",
+    "incorrectAnswers": ["Potato", "Cauliflower", "Tomato"]
+  },
+  {
+    "question": "Which country is the origin of the cocktail Pisco Sour?",
+    "correctAnswer": "Peru",
+    "incorrectAnswers": ["Chile", "Argentina", "Mexico"]
+  },
+  {
+    "question": "Which type of bean is used to make baked beans?",
+    "correctAnswer": "Navy beans",
+    "incorrectAnswers": ["Kidney beans", "Black beans", "Pinto beans"]
+  },
+  {
+    "question": "Which type of sauce is traditionally served with roast beef?",
+    "correctAnswer": "Horseradish sauce",
+    "incorrectAnswers": ["Mustard sauce", "Gravy", "Barbecue sauce"]
+  },
+  {
+    "question": "Which nut is used to make marzipan?",
+    "correctAnswer": "Almonds",
+    "incorrectAnswers": ["Cashews", "Walnuts", "Pistachios"]
+  },
+  {
+    "question": "Which vegetable is traditionally used in making sauerkraut?",
+    "correctAnswer": "Cabbage",
+    "incorrectAnswers": ["Carrot", "Beetroot", "Cauliflower"]
+  },
+  {
+    "question": "Which French dish is made with snails?",
+    "correctAnswer": "Escargot",
+    "incorrectAnswers": ["Bouillabaisse", "Coq au vin", "Ratatouille"]
+  },
+  {
+    "question": "Which beverage is made from fermented grapes?",
+    "correctAnswer": "Wine",
+    "incorrectAnswers": ["Beer", "Cider", "Vodka"]
+  },
+  {
+    "question": "Which country is famous for the dish called 'biryani'?",
+    "correctAnswer": "India",
+    "incorrectAnswers": ["Pakistan", "Bangladesh", "Nepal"]
+  },
+  {
+    "question": "What is the main ingredient in the Middle Eastern dish falafel?",
+    "correctAnswer": "Chickpeas",
+    "incorrectAnswers": ["Lentils", "Black beans", "Peas"]
+  },
+  {
+    "question": "Which fruit is used to make traditional British summer pudding?",
+    "correctAnswer": "Mixed berries",
+    "incorrectAnswers": ["Apples", "Pears", "Peaches"]
+  },
+  {
+    "question": "What is the name of the Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese?",
+    "correctAnswer": "Tiramisu",
+    "incorrectAnswers": ["Panna cotta", "Cannoli", "Gelato"]
+  },
+  {
+    "question": "Which drink is made from juniper berries?",
+    "correctAnswer": "Gin",
+    "incorrectAnswers": ["Vodka", "Whiskey", "Rum"]
+  },
+  {
+    "question": "Which type of fish is traditionally used in fish and chips?",
+    "correctAnswer": "Cod",
+    "incorrectAnswers": ["Salmon", "Haddock", "Tuna"]
+  },
+  {
+    "question": "Which cheese is known for its blue veins?",
+    "correctAnswer": "Blue cheese",
+    "incorrectAnswers": ["Cheddar", "Brie", "Gouda"]
+  },
+  {
+    "question": "Which sweet is made by caramelizing sugar and cream?",
+    "correctAnswer": "Toffee",
+    "incorrectAnswers": ["Fudge", "Marshmallow", "Caramel"]
+  },
+  {
+    "question": "Which type of pasta is shaped like small tubes?",
+    "correctAnswer": "Penne",
+    "incorrectAnswers": ["Spaghetti", "Fusilli", "Linguine"]
+  },
+  {
+    "question": "Which spice is commonly used in pumpkin pie?",
+    "correctAnswer": "Cinnamon",
+    "incorrectAnswers": ["Saffron", "Turmeric", "Cumin"]
+  },
+  {
+    "question": "Which fruit is dried to make prunes?",
+    "correctAnswer": "Plums",
+    "incorrectAnswers": ["Apples", "Pears", "Peaches"]
+  },
+  {
+    "question": "Which drink is traditionally made from fermented barley?",
+    "correctAnswer": "Beer",
+    "incorrectAnswers": ["Whiskey", "Vodka", "Wine"]
+  },
+  {
+    "question": "Which dessert is made from layers of puff pastry and cream?",
+    "correctAnswer": "Mille-feuille",
+    "incorrectAnswers": ["Eclair", "Profiterole", "Macaron"]
+  },
+  {
+    "question": "Which fruit is a cross between a pomelo and an orange?",
+    "correctAnswer": "Grapefruit",
+    "incorrectAnswers": ["Tangerine", "Mandarin", "Clementine"]
+  },
+  {
+    "question": "Which sauce is made from eggs, butter, and lemon juice?",
+    "correctAnswer": "Hollandaise",
+    "incorrectAnswers": ["Mayonnaise", "Béarnaise", "Aioli"]
+  },
+  {
+    "question": "Which type of coffee is made by forcing hot water through finely ground coffee?",
+    "correctAnswer": "Espresso",
+    "incorrectAnswers": ["Drip coffee", "French press", "Cold brew"]
+  },
+  {
+    "question": "Which fruit is the main ingredient in traditional banoffee pie?",
+    "correctAnswer": "Banana",
+    "incorrectAnswers": ["Apple", "Pear", "Peach"]
+  },
+  {
+    "question": "Which herb is used to make pesto sauce?",
+    "correctAnswer": "Basil",
+    "incorrectAnswers": ["Parsley", "Cilantro", "Mint"]
+  },
+  {
+    "question": "Which type of bread is traditionally used for making a Reuben sandwich?",
+    "correctAnswer": "Rye bread",
+    "incorrectAnswers": ["Sourdough", "Whole wheat", "Baguette"]
+  },
+  {
+    "question": "What type of food is tempeh?",
+    "correctAnswer": "Fermented soybeans",
+    "incorrectAnswers": ["Fermented rice", "Fermented wheat", "Fermented corn"]
+  },
+  {
+    "question": "Which country is famous for producing maple syrup?",
+    "correctAnswer": "Canada",
+    "incorrectAnswers": ["United States", "Norway", "Sweden"]
+  },
+  {
+    "question": "Which fruit is the main ingredient in the cocktail piña colada?",
+    "correctAnswer": "Pineapple",
+    "incorrectAnswers": ["Mango", "Coconut", "Papaya"]
+  },
+  {
+    "question": "Which vegetable is the main ingredient in the dish ratatouille?",
+    "correctAnswer": "Eggplant",
+    "incorrectAnswers": ["Zucchini", "Bell pepper", "Tomato"]
   }
 ]

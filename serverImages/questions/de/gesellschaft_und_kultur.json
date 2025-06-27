@@ -1,0 +1,236 @@
+[
+  {
+    "question": "Welche ist die Hauptsprache, die in Brasilien gesprochen wird?",
+    "correctAnswer": "Portugiesisch",
+    "incorrectAnswers": ["Spanisch", "Englisch", "Französisch"]
+  },
+  {
+    "question": "Welche Religion ist mit den Fünf Säulen verbunden?",
+    "correctAnswer": "Islam",
+    "incorrectAnswers": ["Christentum", "Judentum", "Buddhismus"]
+  },
+  {
+    "question": "Wie heißt die traditionelle japanische Kunst des Papierfaltens?",
+    "correctAnswer": "Origami",
+    "incorrectAnswers": ["Ikebana", "Kendo", "Kalligrafie"]
+  },
+  {
+    "question": "Welches Festival ist in Indien als 'Lichterfest' bekannt?",
+    "correctAnswer": "Diwali",
+    "incorrectAnswers": ["Holi", "Eid", "Navratri"]
+  },
+  {
+    "question": "Wie heißt das soziale System, das in Indien auf Kasten basiert?",
+    "correctAnswer": "Varna",
+    "incorrectAnswers": ["Karma", "Dharma", "Samsara"]
+  },
+  {
+    "question": "Welches Land ist berühmt für die Feier des Tags der Toten?",
+    "correctAnswer": "Mexiko",
+    "incorrectAnswers": ["Spanien", "Peru", "Brasilien"]
+  },
+  {
+    "question": "In welchem Land entstand die Tradition der Teezeremonie?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": ["China", "Korea", "Vietnam"]
+  },
+  {
+    "question": "Welcher Philosoph ist berühmt für den Satz 'Ich denke, also bin ich'?",
+    "correctAnswer": "René Descartes",
+    "incorrectAnswers": ["Immanuel Kant", "John Locke", "Sokrates"]
+  },
+  {
+    "question": "Wie heißt das Schriftsystem, das im alten Ägypten verwendet wurde?",
+    "correctAnswer": "Hieroglyphen",
+    "incorrectAnswers": ["Keilschrift", "Latein", "Sanskrit"]
+  },
+  {
+    "question": "Welches Land ist bekannt für seinen traditionellen Tanz namens Flamenco?",
+    "correctAnswer": "Spanien",
+    "incorrectAnswers": ["Portugal", "Italien", "Frankreich"]
+  },
+  {
+    "question": "Welche antike Zivilisation baute Machu Picchu?",
+    "correctAnswer": "Inka",
+    "incorrectAnswers": ["Maya", "Azteken", "Olmeken"]
+  },
+  {
+    "question": "Welche ist die Hauptreligion, die in Thailand praktiziert wird?",
+    "correctAnswer": "Buddhismus",
+    "incorrectAnswers": ["Hinduismus", "Christentum", "Islam"]
+  },
+  {
+    "question": "Welches Land hat die Tradition, während eines Festivals namens La Tomatina Tomaten zu werfen?",
+    "correctAnswer": "Spanien",
+    "incorrectAnswers": ["Italien", "Mexiko", "Argentinien"]
+  },
+  {
+    "question": "Wie nennt man eine Gruppe von Menschen, die Bräuche, Sprache und Traditionen teilen?",
+    "correctAnswer": "Ethnische Gruppe",
+    "incorrectAnswers": ["Nation", "Stamm", "Gesellschaft"]
+  },
+  {
+    "question": "Wer ist der berühmte Bürgerrechtsführer, der die Rede 'I Have a Dream' hielt?",
+    "correctAnswer": "Martin Luther King Jr.",
+    "incorrectAnswers": ["Malcolm X", "Rosa Parks", "Frederick Douglass"]
+  },
+  {
+    "question": "Aus welchem Land stammt die Kampfkunst Taekwondo?",
+    "correctAnswer": "Südkorea",
+    "incorrectAnswers": ["Japan", "China", "Thailand"]
+  },
+  {
+    "question": "Wie nennt man die Gewohnheit, mit Essstäbchen zu essen?",
+    "correctAnswer": "Asiatische Tischmanieren",
+    "incorrectAnswers": ["Westliche Tischmanieren", "Nahöstliche Tischmanieren", "Afrikanische Tischmanieren"]
+  },
+  {
+    "question": "Welche Stadt ist berühmt für ihren Karneval mit Samba-Tänzern?",
+    "correctAnswer": "Rio de Janeiro",
+    "incorrectAnswers": ["Buenos Aires", "Lima", "São Paulo"]
+  },
+  {
+    "question": "Welche Religion ist mit den Konzepten von Karma und Reinkarnation verbunden?",
+    "correctAnswer": "Hinduismus",
+    "incorrectAnswers": ["Judentum", "Christentum", "Islam"]
+  },
+  {
+    "question": "Wie heißt die berühmte Mauer, die China vor Invasionen schützen sollte?",
+    "correctAnswer": "Große Chinesische Mauer",
+    "incorrectAnswers": ["Berliner Mauer", "Hadrianswall", "Westmauer"]
+  },
+  {
+    "question": "Welches Festival markiert das islamische Neujahr?",
+    "correctAnswer": "Hijri-Neujahr",
+    "incorrectAnswers": ["Eid al-Fitr", "Ramadan", "Muharram"]
+  },
+  {
+    "question": "Wie heißt die traditionelle Kleidung, die schottische Männer tragen?",
+    "correctAnswer": "Kilt",
+    "incorrectAnswers": ["Toga", "Kimono", "Dashiki"]
+  },
+  {
+    "question": "Welche antike Stadt ist berühmt für ihr Orakel und den Tempel des Apollo?",
+    "correctAnswer": "Delphi",
+    "incorrectAnswers": ["Athen", "Rom", "Kairo"]
+  },
+  {
+    "question": "Welcher Kontinent wird als Wiege der Menschheit bezeichnet?",
+    "correctAnswer": "Afrika",
+    "incorrectAnswers": ["Asien", "Europa", "Südamerika"]
+  },
+  {
+    "question": "Wie heißt die kulturelle Bewegung, die in den 1920er Jahren in Harlem entstand?",
+    "correctAnswer": "Harlem Renaissance",
+    "incorrectAnswers": ["Beat Generation", "Lost Generation", "Romantik"]
+  },
+  {
+    "question": "Welches Land ist berühmt für den traditionellen Tanz namens Hula?",
+    "correctAnswer": "Hawaii (USA)",
+    "incorrectAnswers": ["Fidschi", "Neuseeland", "Samoa"]
+  },
+  {
+    "question": "Wie heißt die Zeremonie, bei der eine Person formell in eine Religion aufgenommen wird?",
+    "correctAnswer": "Initiation",
+    "incorrectAnswers": ["Taufe", "Konfirmation", "Weihe"]
+  },
+  {
+    "question": "Welche Sprache hat die meisten Muttersprachler weltweit?",
+    "correctAnswer": "Mandarin-Chinesisch",
+    "incorrectAnswers": ["Englisch", "Spanisch", "Hindi"]
+  },
+  {
+    "question": "Welcher Feiertag feiert das Ende der Sklaverei in den Vereinigten Staaten?",
+    "correctAnswer": "Juneteenth",
+    "incorrectAnswers": ["Martin Luther King Jr. Day", "Tag der Arbeit", "Erntedankfest"]
+  },
+  {
+    "question": "Wie nennt man den Glauben an mehrere Götter?",
+    "correctAnswer": "Polytheismus",
+    "incorrectAnswers": ["Monotheismus", "Atheismus", "Agnostizismus"]
+  },
+  {
+    "question": "Welche Kultur baute die antike Stadt Petra, die für ihre in den Fels gehauene Architektur bekannt ist?",
+    "correctAnswer": "Nabataeans",
+    "incorrectAnswers": ["Römer", "Griechen", "Ägypter"]
+  },
+  {
+    "question": "Welches traditionelle Musikinstrument aus Australien wird oft aus Holz gefertigt?",
+    "correctAnswer": "Didgeridoo",
+    "incorrectAnswers": ["Ukulele", "Marimba", "Sitar"]
+  },
+  {
+    "question": "Welche soziale Bewegung kämpfte für das Frauenwahlrecht?",
+    "correctAnswer": "Frauenwahlrechtsbewegung",
+    "incorrectAnswers": ["Bürgerrechtsbewegung", "Abschaffungsbewegung", "Temperanzbewegung"]
+  },
+  {
+    "question": "Wie heißt das Glaubenssystem, dem das Navajo-Volk folgt?",
+    "correctAnswer": "Diné Bahaneʼ",
+    "incorrectAnswers": ["Schamanismus", "Totemismus", "Animismus"]
+  },
+  {
+    "question": "Welches Land ist bekannt für das traditionelle Festival Oktoberfest?",
+    "correctAnswer": "Deutschland",
+    "incorrectAnswers": ["Österreich", "Schweiz", "Niederlande"]
+  },
+  {
+    "question": "Was bedeutet UNESCO?",
+    "correctAnswer": "Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur",
+    "incorrectAnswers": [
+      "Organisation der Vereinten Nationen für Umwelt und Gesellschaft",
+      "Organisation der Vereinten Nationen für Wirtschaft und Gesellschaft",
+      "Organisation der Vereinten Nationen für Energie und Wissenschaft"
+    ]
+  },
+  {
+    "question": "Welche Stadt beherbergt das berühmte Taj Mahal?",
+    "correctAnswer": "Agra",
+    "incorrectAnswers": ["Delhi", "Mumbai", "Jaipur"]
+  },
+  {
+    "question": "Welcher Kontinent ist bekannt für seine indigene kulturelle Vielfalt, darunter Maori und Aborigines?",
+    "correctAnswer": "Ozeanien",
+    "incorrectAnswers": ["Asien", "Afrika", "Europa"]
+  },
+  {
+    "question": "Welche kulturelle Tradition ist mit dem Volk der Maori in Neuseeland verbunden?",
+    "correctAnswer": "Haka-Tanz",
+    "incorrectAnswers": ["Samba", "Flamenco", "Bauchtanz"]
+  },
+  {
+    "question": "Wie nennt man die Gesetze und Bräuche, die von den Vorfahren vererbt wurden?",
+    "correctAnswer": "Tradition",
+    "incorrectAnswers": ["Religion", "Kultur", "Ethik"]
+  },
+  {
+    "question": "Welches asiatische Land hat ein traditionelles Kleidungsstück namens Hanbok?",
+    "correctAnswer": "Südkorea",
+    "incorrectAnswers": ["China", "Japan", "Vietnam"]
+  },
+  {
+    "question": "Welches Land feiert am bekanntesten das Mondneujahr?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["Japan", "Vietnam", "Südkorea"]
+  },
+  {
+    "question": "Welcher amerikanische Feiertag erinnert an die Ankunft der Pilgerväter und ihr Erntedankfest?",
+    "correctAnswer": "Thanksgiving",
+    "incorrectAnswers": ["Unabhängigkeitstag", "Gedenktag", "Tag der Arbeit"]
+  },
+  {
+    "question": "Wie nennt man die berühmten Navajo-Code-Sprecher im Zweiten Weltkrieg?",
+    "correctAnswer": "Navajo Code Talkers",
+    "incorrectAnswers": ["Cherokee Code Talkers", "Sioux Code Talkers", "Apache Code Talkers"]
+  },
+  {
+    "question": "Welches Land ist bekannt für die Tradition des Karnevals von Venedig?",
+    "correctAnswer": "Italien",
+    "incorrectAnswers": ["Frankreich", "Spanien", "Brasilien"]
+  },
+  {
+    "question": "Welche kulturelle Praxis beinhaltet das Bemalen des Gesichts mit 'Kriegsschminke' in einigen indigenen Stämmen?",
+    "correctAnswer": "Rituelle Körperbemalung",
+    "incorrectAnswers": ["Tätowierungen", "Hennakunst", "Make-up"]
+  }
+]

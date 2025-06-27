@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Qual è il paese d'origine del sushi?",
+    "correctAnswer": "Giappone",
+    "incorrectAnswers": ["Cina", "Corea", "Thailandia"]
+  },
+  {
+    "question": "Qual è l'ingrediente principale del guacamole tradizionale?",
+    "correctAnswer": "Avocado",
+    "incorrectAnswers": ["Pomodoro", "Cetriolo", "Lattuga"]
+  },
+  {
+    "question": "Quale formaggio si usa tradizionalmente sulla pizza Margherita?",
+    "correctAnswer": "Mozzarella",
+    "incorrectAnswers": ["Cheddar", "Parmigiano", "Gouda"]
+  },
+  {
+    "question": "Qual è l'ingrediente alcolico di una classica margarita?",
+    "correctAnswer": "Tequila",
+    "incorrectAnswers": ["Vodka", "Rum", "Gin"]
+  },
+  {
+    "question": "Quale frutto è noto per avere i semi all'esterno?",
+    "correctAnswer": "Fragola",
+    "incorrectAnswers": ["Kiwi", "Ananas", "Mirtillo"]
+  },
+  {
+    "question": "Che tipo di pasta ha la forma di piccoli chicchi di riso?",
+    "correctAnswer": "Orzo",
+    "incorrectAnswers": ["Fusilli", "Penne", "Rigatoni"]
+  },
+  {
+    "question": "Da quale fiore si ricava lo zafferano?",
+    "correctAnswer": "Fiore di croco",
+    "incorrectAnswers": ["Baccello di vaniglia", "Corteccia di cannella", "Noce moscata"]
+  },
+  {
+    "question": "Qual è l'ingrediente principale dell'hummus?",
+    "correctAnswer": "Ceci",
+    "incorrectAnswers": ["Lenticchie", "Fagioli", "Piselli"]
+  },
+  {
+    "question": "Quale paese è famoso per il piatto chiamato paella?",
+    "correctAnswer": "Spagna",
+    "incorrectAnswers": ["Italia", "Portogallo", "Francia"]
+  },
+  {
+    "question": "Quale bevanda è fatta con mele fermentate?",
+    "correctAnswer": "Sidro",
+    "incorrectAnswers": ["Birra", "Vino", "Whisky"]
+  },
+  {
+    "question": "Che tipo di carne si usa tradizionalmente nello Wiener Schnitzel?",
+    "correctAnswer": "Vitello",
+    "incorrectAnswers": ["Maiale", "Manzo", "Pollo"]
+  },
+  {
+    "question": "Qual è il frutto principale dell'Eton Mess britannico tradizionale?",
+    "correctAnswer": "Fragole",
+    "incorrectAnswers": ["Lamponi", "Mirtilli", "More"]
+  },
+  {
+    "question": "Quale tipo di riso si usa per fare il risotto tradizionale?",
+    "correctAnswer": "Riso Arborio",
+    "incorrectAnswers": ["Riso Basmati", "Riso Jasmine", "Riso integrale"]
+  },
+  {
+    "question": "Quale bevanda è tradizionalmente servita in una tazza di rame?",
+    "correctAnswer": "Moscow Mule",
+    "incorrectAnswers": ["Bloody Mary", "Old Fashioned", "Mojito"]
+  },
+  {
+    "question": "Qual è l'ingrediente principale della zuppa di miso giapponese?",
+    "correctAnswer": "Pasta di miso",
+    "incorrectAnswers": ["Salsa di soia", "Wasabi", "Alga"]
+  },
+  {
+    "question": "Quale verdura è l'ingrediente principale della ratatouille?",
+    "correctAnswer": "Melanzana",
+    "incorrectAnswers": ["Zucchina", "Pomodoro", "Peperone"]
+  },
+  {
+    "question": "Che tipo di pasta si usa per fare un croissant tradizionale?",
+    "correctAnswer": "Pasta sfogliata",
+    "incorrectAnswers": ["Pasta frolla", "Pasta choux", "Pasta fillo"]
+  },
+  {
+    "question": "Quale frutto si usa per fare la tradizionale key lime pie?",
+    "correctAnswer": "Key lime",
+    "incorrectAnswers": ["Limone", "Lime comune", "Arancia"]
+  },
+  {
+    "question": "Qual è l'ingrediente principale del piatto indiano 'palak paneer'?",
+    "correctAnswer": "Spinaci",
+    "incorrectAnswers": ["Patate", "Cavolfiore", "Pomodori"]
+  },
+  {
+    "question": "Da quale paese ha origine il cocktail Pisco Sour?",
+    "correctAnswer": "Perù",
+    "incorrectAnswers": ["Cile", "Argentina", "Messico"]
+  },
+  {
+    "question": "Quale tipo di fagiolo si usa per fare i baked beans?",
+    "correctAnswer": "Fagioli Navy",
+    "incorrectAnswers": ["Fagioli rossi", "Fagioli neri", "Fagioli Pinto"]
+  },
+  {
+    "question": "Quale salsa si serve tradizionalmente con l'arrosto di manzo?",
+    "correctAnswer": "Salsa al rafano",
+    "incorrectAnswers": ["Salsa alla senape", "Sugo", "Salsa barbecue"]
+  },
+  {
+    "question": "Quale frutta secca si usa per fare il marzapane?",
+    "correctAnswer": "Mandorle",
+    "incorrectAnswers": ["Anacardi", "Noci", "Pistacchi"]
+  },
+  {
+    "question": "Quale verdura si usa tradizionalmente per fare i crauti?",
+    "correctAnswer": "Cavolo",
+    "incorrectAnswers": ["Carota", "Barbabietola", "Cavolfiore"]
+  },
+  {
+    "question": "Quale piatto francese è preparato con le lumache?",
+    "correctAnswer": "Escargot",
+    "incorrectAnswers": ["Bouillabaisse", "Coq au vin", "Ratatouille"]
+  },
+  {
+    "question": "Quale bevanda si ottiene dall'uva fermentata?",
+    "correctAnswer": "Vino",
+    "incorrectAnswers": ["Birra", "Sidro", "Vodka"]
+  },
+  {
+    "question": "Quale paese è famoso per il piatto 'biryani'?",
+    "correctAnswer": "India",
+    "incorrectAnswers": ["Pakistan", "Bangladesh", "Nepal"]
+  },
+  {
+    "question": "Qual è l'ingrediente principale del piatto mediorientale falafel?",
+    "correctAnswer": "Ceci",
+    "incorrectAnswers": ["Lenticchie", "Fagioli neri", "Piselli"]
+  },
+  {
+    "question": "Quale frutto si usa per preparare il summer pudding britannico tradizionale?",
+    "correctAnswer": "Frutti di bosco misti",
+    "incorrectAnswers": ["Mele", "Pere", "Pesche"]
+  },
+  {
+    "question": "Come si chiama il dolce italiano con savoiardi imbevuti di caffè e mascarpone?",
+    "correctAnswer": "Tiramisù",
+    "incorrectAnswers": ["Panna cotta", "Cannolo", "Gelato"]
+  },
+  {
+    "question": "Quale bevanda è fatta con bacche di ginepro?",
+    "correctAnswer": "Gin",
+    "incorrectAnswers": ["Vodka", "Whisky", "Rum"]
+  },
+  {
+    "question": "Quale tipo di pesce si usa tradizionalmente nel fish and chips?",
+    "correctAnswer": "Merluzzo",
+    "incorrectAnswers": ["Salmone", "Eglefino", "Tonno"]
+  },
+  {
+    "question": "Quale formaggio è noto per le sue venature blu?",
+    "correctAnswer": "Formaggio blu",
+    "incorrectAnswers": ["Cheddar", "Brie", "Gouda"]
+  },
+  {
+    "question": "Quale dolce si ottiene caramellando zucchero e panna?",
+    "correctAnswer": "Toffee",
+    "incorrectAnswers": ["Fudge", "Marshmallow", "Caramello"]
+  },
+  {
+    "question": "Quale tipo di pasta ha la forma di piccoli tubi?",
+    "correctAnswer": "Penne",
+    "incorrectAnswers": ["Spaghetti", "Fusilli", "Linguine"]
+  },
+  {
+    "question": "Quale spezia si usa comunemente nella torta di zucca?",
+    "correctAnswer": "Cannella",
+    "incorrectAnswers": ["Zafferano", "Curcuma", "Cumino"]
+  },
+  {
+    "question": "Quale frutto essiccato diventa una prugna secca?",
+    "correctAnswer": "Prugna",
+    "incorrectAnswers": ["Mela", "Pera", "Pesca"]
+  },
+  {
+    "question": "Quale bevanda si ottiene dall'orzo fermentato?",
+    "correctAnswer": "Birra",
+    "incorrectAnswers": ["Whisky", "Vodka", "Vino"]
+  },
+  {
+    "question": "Quale dessert è fatto con strati di pasta sfoglia e crema?",
+    "correctAnswer": "Millefoglie",
+    "incorrectAnswers": ["Eclair", "Profiterole", "Macaron"]
+  },
+  {
+    "question": "Quale frutto è un incrocio tra pomelo e arancia?",
+    "correctAnswer": "Pompelmo",
+    "incorrectAnswers": ["Mandarino", "Clementina", "Tangerino"]
+  },
+  {
+    "question": "Quale salsa è fatta con uova, burro e succo di limone?",
+    "correctAnswer": "Salsa olandese",
+    "incorrectAnswers": ["Maionese", "Béarnaise", "Aioli"]
+  },
+  {
+    "question": "Quale tipo di caffè si ottiene forzando acqua calda attraverso polvere fine?",
+    "correctAnswer": "Espresso",
+    "incorrectAnswers": ["Caffè filtro", "French press", "Cold brew"]
+  },
+  {
+    "question": "Qual è il frutto principale nella banoffee pie?",
+    "correctAnswer": "Banana",
+    "incorrectAnswers": ["Mela", "Pera", "Pesca"]
+  },
+  {
+    "question": "Quale erba aromatica si usa per fare il pesto?",
+    "correctAnswer": "Basilico",
+    "incorrectAnswers": ["Prezzemolo", "Coriandolo", "Menta"]
+  },
+  {
+    "question": "Quale pane si usa tradizionalmente per il sandwich Reuben?",
+    "correctAnswer": "Pane di segale",
+    "incorrectAnswers": ["Pane a lievitazione naturale", "Pane integrale", "Baguette"]
+  },
+  {
+    "question": "Che tipo di alimento è il tempeh?",
+    "correctAnswer": "Soia fermentata",
+    "incorrectAnswers": ["Riso fermentato", "Grano fermentato", "Mais fermentato"]
+  },
+  {
+    "question": "Quale paese è famoso per la produzione di sciroppo d'acero?",
+    "correctAnswer": "Canada",
+    "incorrectAnswers": ["Stati Uniti", "Norvegia", "Svezia"]
+  },
+  {
+    "question": "Qual è il frutto principale del cocktail piña colada?",
+    "correctAnswer": "Ananas",
+    "incorrectAnswers": ["Mango", "Cocco", "Papaya"]
+  },
+  {
+    "question": "Quale verdura è l'ingrediente principale della ratatouille?",
+    "correctAnswer": "Melanzana",
+    "incorrectAnswers": ["Zucchina", "Peperone", "Pomodoro"]
+  }
+]

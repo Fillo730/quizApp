@@ -1,32 +1,267 @@
 [
   {
-    "question": "How many players are there in a football (soccer) team?",
-    "correctAnswer": "11",
-    "incorrectAnswers": ["10", "12", "9"]
+    "question": "Which sport is known as 'the king of sports' worldwide?",
+    "correctAnswer": "Soccer",
+    "incorrectAnswers": ["Basketball", "Cricket", "Tennis"]
   },
   {
-    "question": "What is the maximum score in a game of ten-pin bowling?",
-    "correctAnswer": "300",
-    "incorrectAnswers": ["200", "250", "350"]
+    "question": "In which country did the martial art Taekwondo originate?",
+    "correctAnswer": "South Korea",
+    "incorrectAnswers": ["Japan", "China", "Thailand"]
+  },
+  {
+    "question": "What is the maximum number of players allowed on the field for one team in rugby union?",
+    "correctAnswer": "15",
+    "incorrectAnswers": ["11", "7", "13"]
+  },
+  {
+    "question": "Which piece of equipment is essential in the sport of curling?",
+    "correctAnswer": "Stone",
+    "incorrectAnswers": ["Puck", "Ball", "Bat"]
+  },
+  {
+    "question": "Which winter sport combines cross-country skiing and rifle shooting?",
+    "correctAnswer": "Biathlon",
+    "incorrectAnswers": ["Nordic Combined", "Ski Jumping", "Luge"]
+  },
+  {
+    "question": "In tennis, what is the term used for a score of zero?",
+    "correctAnswer": "Love",
+    "incorrectAnswers": ["Zero", "Duck", "Nil"]
+  },
+  {
+    "question": "Which country hosts the annual Tour de France cycling race?",
+    "correctAnswer": "France",
+    "incorrectAnswers": ["Italy", "Spain", "Belgium"]
+  },
+  {
+    "question": "In golf, what is the term for a score of one under par on a hole?",
+    "correctAnswer": "Birdie",
+    "incorrectAnswers": ["Eagle", "Bogey", "Par"]
+  },
+  {
+    "question": "What is the name of the traditional Japanese form of wrestling?",
+    "correctAnswer": "Sumo",
+    "incorrectAnswers": ["Judo", "Karate", "Aikido"]
+  },
+  {
+    "question": "Which country won the first ever FIFA World Cup in 1930?",
+    "correctAnswer": "Uruguay",
+    "incorrectAnswers": ["Brazil", "Argentina", "Italy"]
+  },
+  {
+    "question": "In which sport is the term 'home run' used?",
+    "correctAnswer": "Baseball",
+    "incorrectAnswers": ["Cricket", "Softball", "Tennis"]
+  },
+  {
+    "question": "Which board game involves capturing opponent's pieces by jumping over them?",
+    "correctAnswer": "Checkers",
+    "incorrectAnswers": ["Chess", "Go", "Backgammon"]
+  },
+  {
+    "question": "Which Olympic sport uses a pommel horse as apparatus?",
+    "correctAnswer": "Gymnastics",
+    "incorrectAnswers": ["Equestrian", "Weightlifting", "Wrestling"]
+  },
+  {
+    "question": "What is the standard playing time of a professional soccer match excluding extra time?",
+    "correctAnswer": "90 minutes",
+    "incorrectAnswers": ["60 minutes", "80 minutes", "120 minutes"]
+  },
+  {
+    "question": "Which water sport involves riding waves on a board?",
+    "correctAnswer": "Surfing",
+    "incorrectAnswers": ["Sailing", "Water polo", "Kayaking"]
+  },
+  {
+    "question": "Which sport is traditionally associated with the city of Wimbledon?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": ["Cricket", "Badminton", "Rugby"]
   },
   {
     "question": "In which sport would you perform a slam dunk?",
     "correctAnswer": "Basketball",
-    "incorrectAnswers": ["Volleyball", "Football", "Rugby"]
+    "incorrectAnswers": ["Volleyball", "Handball", "Football"]
   },
   {
-    "question": "Which country won the FIFA World Cup in 2018?",
-    "correctAnswer": "France",
-    "incorrectAnswers": ["Germany", "Brazil", "Argentina"]
+    "question": "What does the term 'par' mean in golf?",
+    "correctAnswer": "The expected number of strokes to complete a hole",
+    "incorrectAnswers": ["A penalty stroke", "A score below average", "The total strokes taken"]
   },
   {
-    "question": "What is the term for a score of zero in tennis?",
-    "correctAnswer": "Love",
-    "incorrectAnswers": ["Nil", "Zero", "Nothing"]
+    "question": "Which sport uses a shuttlecock?",
+    "correctAnswer": "Badminton",
+    "incorrectAnswers": ["Tennis", "Squash", "Table Tennis"]
   },
   {
-    "question": "Which sport is known as 'the beautiful game'?",
-    "correctAnswer": "Football (Soccer)",
-    "incorrectAnswers": ["Basketball", "Tennis", "Cricket"]
+    "question": "What is the name of the race in track and field that covers 400 meters?",
+    "correctAnswer": "One lap sprint",
+    "incorrectAnswers": ["Half marathon", "100-meter dash", "800 meters"]
+  },
+  {
+    "question": "Which game is known for the phrase 'Checkmate'?",
+    "correctAnswer": "Chess",
+    "incorrectAnswers": ["Checkers", "Go", "Backgammon"]
+  },
+  {
+    "question": "In which sport is the Stanley Cup awarded?",
+    "correctAnswer": "Ice Hockey",
+    "incorrectAnswers": ["Lacrosse", "Basketball", "Football"]
+  },
+  {
+    "question": "Which activity involves climbing artificial or natural rock formations?",
+    "correctAnswer": "Rock climbing",
+    "incorrectAnswers": ["Mountaineering", "Caving", "Parkour"]
+  },
+  {
+    "question": "What is the name of the fast-paced sport played on ice with brooms and stones?",
+    "correctAnswer": "Curling",
+    "incorrectAnswers": ["Ice hockey", "Figure skating", "Luge"]
+  },
+  {
+    "question": "Which country is famous for the martial art Capoeira?",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": ["Mexico", "Argentina", "Colombia"]
+  },
+  {
+    "question": "In which sport is the term 'alley-oop' commonly used?",
+    "correctAnswer": "Basketball",
+    "incorrectAnswers": ["Volleyball", "Tennis", "Badminton"]
+  },
+  {
+    "question": "Which Olympic event combines ski jumping and cross-country skiing?",
+    "correctAnswer": "Nordic Combined",
+    "incorrectAnswers": ["Biathlon", "Snowboarding", "Luge"]
+  },
+  {
+    "question": "What is the term for a score of three under par in golf?",
+    "correctAnswer": "Albatross",
+    "incorrectAnswers": ["Birdie", "Eagle", "Bogey"]
+  },
+  {
+    "question": "Which sport involves paddling a canoe or kayak on white water rapids?",
+    "correctAnswer": "Whitewater rafting",
+    "incorrectAnswers": ["Rowing", "Sailing", "Water polo"]
+  },
+  {
+    "question": "Which country is the origin of the game of cricket?",
+    "correctAnswer": "England",
+    "incorrectAnswers": ["Australia", "India", "South Africa"]
+  },
+  {
+    "question": "What is the name of the international multi-sport event held every four years?",
+    "correctAnswer": "Olympic Games",
+    "incorrectAnswers": ["World Cup", "Commonwealth Games", "Pan American Games"]
+  },
+  {
+    "question": "Which sport is associated with the phrase 'hat-trick'?",
+    "correctAnswer": "Cricket",
+    "incorrectAnswers": ["Football", "Tennis", "Rugby"]
+  },
+  {
+    "question": "What is the playing surface called in the sport of ice hockey?",
+    "correctAnswer": "Ice rink",
+    "incorrectAnswers": ["Field", "Court", "Pitch"]
+  },
+  {
+    "question": "In which sport do players use a mallet to hit a ball through hoops?",
+    "correctAnswer": "Polo",
+    "incorrectAnswers": ["Croquet", "Lacrosse", "Hockey"]
+  },
+  {
+    "question": "Which sport uses the term 'scrum'?",
+    "correctAnswer": "Rugby",
+    "incorrectAnswers": ["Football", "Hockey", "Baseball"]
+  },
+  {
+    "question": "In which country was the board game Mahjong invented?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["Japan", "Korea", "Thailand"]
+  },
+  {
+    "question": "What is the name of the famous American football championship game?",
+    "correctAnswer": "Super Bowl",
+    "incorrectAnswers": ["World Series", "NBA Finals", "Stanley Cup"]
+  },
+  {
+    "question": "In track cycling, what is the name of the sprint race that covers just two laps?",
+    "correctAnswer": "Match sprint",
+    "incorrectAnswers": ["Keirin", "Pursuit", "Omnium"]
+  },
+  {
+    "question": "Which sport involves two teams throwing a ball over a net using only their hands?",
+    "correctAnswer": "Volleyball",
+    "incorrectAnswers": ["Basketball", "Tennis", "Handball"]
+  },
+  {
+    "question": "What is the name of the sport that combines running, swimming, and cycling?",
+    "correctAnswer": "Triathlon",
+    "incorrectAnswers": ["Pentathlon", "Decathlon", "Biathlon"]
+  },
+  {
+    "question": "Which country has won the most Rugby World Cups?",
+    "correctAnswer": "New Zealand",
+    "incorrectAnswers": ["Australia", "South Africa", "England"]
+  },
+  {
+    "question": "In which sport would you perform a 'spike'?",
+    "correctAnswer": "Volleyball",
+    "incorrectAnswers": ["Tennis", "Badminton", "Basketball"]
+  },
+  {
+    "question": "What is the name of the Japanese sport involving horseback archery?",
+    "correctAnswer": "Yabusame",
+    "incorrectAnswers": ["Kendo", "Kyudo", "Sumo"]
+  },
+  {
+    "question": "Which winter sport involves sliding down an ice track on a small sled face-first?",
+    "correctAnswer": "Luge",
+    "incorrectAnswers": ["Bobsleigh", "Skeleton", "Ice skating"]
+  },
+  {
+    "question": "Which sport uses a court divided by a net and a ball that players hit with rackets?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": ["Badminton", "Squash", "Volleyball"]
+  },
+  {
+    "question": "What is the name of the traditional Scottish sport that involves tossing a heavy weight?",
+    "correctAnswer": "Caber toss",
+    "incorrectAnswers": ["Hammer throw", "Shot put", "Discus"]
+  },
+  {
+    "question": "Which type of swimming race involves all four strokes in one race?",
+    "correctAnswer": "Individual medley",
+    "incorrectAnswers": ["Freestyle", "Butterfly", "Backstroke"]
+  },
+  {
+    "question": "What is the official distance of a marathon race?",
+    "correctAnswer": "42.195 kilometers",
+    "incorrectAnswers": ["40 kilometers", "50 kilometers", "30 kilometers"]
+  },
+  {
+    "question": "Which country is known for the traditional sport of Kabaddi?",
+    "correctAnswer": "India",
+    "incorrectAnswers": ["Pakistan", "Bangladesh", "Sri Lanka"]
+  },
+  {
+    "question": "Which board game uses the terms 'check' and 'checkmate'?",
+    "correctAnswer": "Chess",
+    "incorrectAnswers": ["Checkers", "Go", "Backgammon"]
+  },
+  {
+    "question": "Which sport involves navigating a small boat through a course of hanging gates on river rapids?",
+    "correctAnswer": "Canoe slalom",
+    "incorrectAnswers": ["Kayaking", "Rowing", "Sailing"]
+  },
+  {
+    "question": "In basketball, how many points is a shot made from beyond the three-point line worth?",
+    "correctAnswer": "Three points",
+    "incorrectAnswers": ["Two points", "One point", "Four points"]
+  },
+  {
+    "question": "Which sport uses the term 'bogey' to describe a score one over par?",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": ["Bowling", "Baseball", "Tennis"]
   }
 ]

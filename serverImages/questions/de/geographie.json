@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Welcher Fluss ist der längste der Welt?",
+    "correctAnswer": "Nil",
+    "incorrectAnswers": ["Amazonas", "Yangtze", "Mississippi"]
+  },
+  {
+    "question": "Welches Land hat die größte Landfläche?",
+    "correctAnswer": "Russland",
+    "incorrectAnswers": ["Kanada", "China", "Vereinigte Staaten"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Australien?",
+    "correctAnswer": "Canberra",
+    "incorrectAnswers": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Zum welchem Gebirge gehört der Mount Everest?",
+    "correctAnswer": "Himalaya",
+    "incorrectAnswers": ["Anden", "Alpen", "Rocky Mountains"]
+  },
+  {
+    "question": "Was ist die größte Wüste der Welt?",
+    "correctAnswer": "Sahara",
+    "incorrectAnswers": ["Gobi", "Kalahari", "Arabische Wüste"]
+  },
+  {
+    "question": "Welcher Ozean ist der tiefste?",
+    "correctAnswer": "Pazifischer Ozean",
+    "incorrectAnswers": ["Atlantischer Ozean", "Indischer Ozean", "Arktischer Ozean"]
+  },
+  {
+    "question": "Welches Land wird als das Land der aufgehenden Sonne bezeichnet?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": ["China", "Thailand", "Südkorea"]
+  },
+  {
+    "question": "Welcher Kontinent ist der kleinste nach Landfläche?",
+    "correctAnswer": "Australien",
+    "incorrectAnswers": ["Europa", "Antarktis", "Südamerika"]
+  },
+  {
+    "question": "Welches Land hat die meisten natürlichen Seen?",
+    "correctAnswer": "Kanada",
+    "incorrectAnswers": ["Russland", "Vereinigte Staaten", "Finnland"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Kanada?",
+    "correctAnswer": "Ottawa",
+    "incorrectAnswers": ["Toronto", "Vancouver", "Montreal"]
+  },
+  {
+    "question": "Welcher Fluss fließt durch Paris?",
+    "correctAnswer": "Seine",
+    "incorrectAnswers": ["Themse", "Donau", "Rhein"]
+  },
+  {
+    "question": "Welches Land ist berühmt für seine Fjorde entlang der Küste?",
+    "correctAnswer": "Norwegen",
+    "incorrectAnswers": ["Island", "Schweden", "Finnland"]
+  },
+  {
+    "question": "Was ist die größte Insel der Welt?",
+    "correctAnswer": "Grönland",
+    "incorrectAnswers": ["Madagaskar", "Borneo", "Neuguinea"]
+  },
+  {
+    "question": "Welches Land hat die höchste Bevölkerungszahl der Welt?",
+    "correctAnswer": "China",
+    "incorrectAnswers": ["Indien", "Vereinigte Staaten", "Indonesien"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Brasilien?",
+    "correctAnswer": "Brasília",
+    "incorrectAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"]
+  },
+  {
+    "question": "Welche Wüste bedeckt große Teile der Mongolei und Nordchina?",
+    "correctAnswer": "Gobi-Wüste",
+    "incorrectAnswers": ["Kalahari-Wüste", "Thar-Wüste", "Sahara"]
+  },
+  {
+    "question": "Welches Land hat die meisten UNESCO-Welterbestätten?",
+    "correctAnswer": "Italien",
+    "incorrectAnswers": ["China", "Spanien", "Frankreich"]
+  },
+  {
+    "question": "Welcher US-Bundesstaat wird als der 'Sunshine State' bezeichnet?",
+    "correctAnswer": "Florida",
+    "incorrectAnswers": ["Kalifornien", "Texas", "Arizona"]
+  },
+  {
+    "question": "Welcher Kontinent wird als 'Schwarzer Kontinent' bezeichnet?",
+    "correctAnswer": "Afrika",
+    "incorrectAnswers": ["Asien", "Südamerika", "Europa"]
+  },
+  {
+    "question": "Welches Meer ist das salzhaltigste natürliche Gewässer?",
+    "correctAnswer": "Totes Meer",
+    "incorrectAnswers": ["Mittelmeer", "Rotes Meer", "Ostsee"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Ägypten?",
+    "correctAnswer": "Kairo",
+    "incorrectAnswers": ["Alexandria", "Luxor", "Gizeh"]
+  },
+  {
+    "question": "Welches Land liegt auf zwei Kontinenten: Europa und Asien?",
+    "correctAnswer": "Türkei",
+    "incorrectAnswers": ["Russland", "Kasachstan", "Ägypten"]
+  },
+  {
+    "question": "Wie heißt die Linie, die die Erde in Nord- und Südhalbkugel teilt?",
+    "correctAnswer": "Äquator",
+    "incorrectAnswers": ["Nullmeridian", "Nördlicher Wendekreis", "Datumslinie"]
+  },
+  {
+    "question": "Welche US-Stadt wird als die 'Windy City' bezeichnet?",
+    "correctAnswer": "Chicago",
+    "incorrectAnswers": ["New York", "Boston", "Seattle"]
+  },
+  {
+    "question": "Welches Land hat die meisten Vulkane?",
+    "correctAnswer": "Indonesien",
+    "incorrectAnswers": ["Japan", "Vereinigte Staaten", "Italien"]
+  },
+  {
+    "question": "Welches ist das kleinste Land der Welt nach Landfläche?",
+    "correctAnswer": "Vatikanstadt",
+    "incorrectAnswers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "Welcher Berg ist der höchste in Nordamerika?",
+    "correctAnswer": "Denali",
+    "incorrectAnswers": ["Mount Logan", "Mount Rainier", "Mount Whitney"]
+  },
+  {
+    "question": "Welches Land wird als das 'Land der tausend Seen' bezeichnet?",
+    "correctAnswer": "Finnland",
+    "incorrectAnswers": ["Kanada", "Schweden", "Norwegen"]
+  },
+  {
+    "question": "Welcher Fluss bildet teilweise die Grenze zwischen den USA und Mexiko?",
+    "correctAnswer": "Rio Grande",
+    "incorrectAnswers": ["Colorado River", "Mississippi", "Snake River"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Südkorea?",
+    "correctAnswer": "Seoul",
+    "incorrectAnswers": ["Busan", "Incheon", "Daegu"]
+  },
+  {
+    "question": "Wie heißt die große Wüste in Australien?",
+    "correctAnswer": "Große Victoria-Wüste",
+    "incorrectAnswers": ["Simpson-Wüste", "Gibson-Wüste", "Tanami-Wüste"]
+  },
+  {
+    "question": "Welches ist das größte Land in Südamerika?",
+    "correctAnswer": "Brasilien",
+    "incorrectAnswers": ["Argentinien", "Peru", "Kolumbien"]
+  },
+  {
+    "question": "Welche europäische Hauptstadt wird als 'Stadt der Kanäle' bezeichnet?",
+    "correctAnswer": "Venedig",
+    "incorrectAnswers": ["Amsterdam", "Brügge", "Kopenhagen"]
+  },
+  {
+    "question": "Welches Land hat die längste Küste der Welt?",
+    "correctAnswer": "Kanada",
+    "incorrectAnswers": ["Russland", "Indonesien", "Australien"]
+  },
+  {
+    "question": "Wie heißt das Hochplateau im Tibet?",
+    "correctAnswer": "Tibetisches Hochland",
+    "incorrectAnswers": ["Dekkan-Hochland", "Colorado-Plateau", "Altiplano"]
+  },
+  {
+    "question": "Welcher US-Bundesstaat ist der größte nach Landfläche?",
+    "correctAnswer": "Alaska",
+    "incorrectAnswers": ["Texas", "Kalifornien", "Montana"]
+  },
+  {
+    "question": "Welches afrikanische Land hat die größte Bevölkerung?",
+    "correctAnswer": "Nigeria",
+    "incorrectAnswers": ["Ägypten", "Südafrika", "Äthiopien"]
+  },
+  {
+    "question": "Welches Land beherbergt das Great Barrier Reef?",
+    "correctAnswer": "Australien",
+    "incorrectAnswers": ["Neuseeland", "Fidschi", "Indonesien"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Argentinien?",
+    "correctAnswer": "Buenos Aires",
+    "incorrectAnswers": ["Cordoba", "Rosario", "Mendoza"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Thailand?",
+    "correctAnswer": "Bangkok",
+    "incorrectAnswers": ["Chiang Mai", "Phuket", "Pattaya"]
+  },
+  {
+    "question": "Welcher europäische Fluss fließt durch Wien, Budapest und Belgrad?",
+    "correctAnswer": "Donau",
+    "incorrectAnswers": ["Rhein", "Seine", "Elbe"]
+  },
+  {
+    "question": "Welche Inselnation liegt südöstlich von Indien im Indischen Ozean?",
+    "correctAnswer": "Sri Lanka",
+    "incorrectAnswers": ["Malediven", "Indonesien", "Madagaskar"]
+  },
+  {
+    "question": "Welches Land beherbergt die antike Stadt Petra?",
+    "correctAnswer": "Jordanien",
+    "incorrectAnswers": ["Ägypten", "Libanon", "Syrien"]
+  },
+  {
+    "question": "Welcher US-Bundesstaat ist berühmt für seine Geysire und geothermische Aktivität, einschließlich Old Faithful?",
+    "correctAnswer": "Wyoming",
+    "incorrectAnswers": ["Montana", "Idaho", "Colorado"]
+  },
+  {
+    "question": "Welches Land hat die meisten Amtssprachen?",
+    "correctAnswer": "Bolivien",
+    "incorrectAnswers": ["Südafrika", "Indien", "Schweiz"]
+  },
+  {
+    "question": "Was ist die Hauptstadt von Neuseeland?",
+    "correctAnswer": "Wellington",
+    "incorrectAnswers": ["Auckland", "Christchurch", "Hamilton"]
+  },
+  {
+    "question": "Welches Land ist berühmt für die antiken Ruinen von Machu Picchu?",
+    "correctAnswer": "Peru",
+    "incorrectAnswers": ["Chile", "Bolivien", "Ecuador"]
+  },
+  {
+    "question": "Welcher ist der längste Fluss Europas?",
+    "correctAnswer": "Wolga",
+    "incorrectAnswers": ["Donau", "Rhein", "Dnepr"]
+  },
+  {
+    "question": "Welches Land wird als die 'Smaragdeninsel' bezeichnet?",
+    "correctAnswer": "Irland",
+    "incorrectAnswers": ["Schottland", "Wales", "Island"]
+  }
+]

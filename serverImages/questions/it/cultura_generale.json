@@ -1,0 +1,257 @@
+[
+  {
+    "question": "Qual è la capitale del Canada?",
+    "correctAnswer": "Ottawa",
+    "incorrectAnswers": ["Toronto", "Vancouver", "Montréal"]
+  },
+  {
+    "question": "Quale pianeta è conosciuto come il Pianeta Rosso?",
+    "correctAnswer": "Marte",
+    "incorrectAnswers": ["Venere", "Giove", "Saturno"]
+  },
+  {
+    "question": "Chi è stata la prima persona a camminare sulla Luna?",
+    "correctAnswer": "Neil Armstrong",
+    "incorrectAnswers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+  },
+  {
+    "question": "Qual è l’oceano più grande della Terra?",
+    "correctAnswer": "Oceano Pacifico",
+    "incorrectAnswers": ["Oceano Atlantico", "Oceano Indiano", "Oceano Artico"]
+  },
+  {
+    "question": "Quale elemento ha il simbolo chimico 'O'?",
+    "correctAnswer": "Ossigeno",
+    "incorrectAnswers": ["Oro", "Osmio", "Idrogeno"]
+  },
+  {
+    "question": "In che anno affondò il Titanic?",
+    "correctAnswer": "1912",
+    "incorrectAnswers": ["1905", "1923", "1898"]
+  },
+  {
+    "question": "Qual è la lingua più parlata al mondo?",
+    "correctAnswer": "Cinese mandarino",
+    "incorrectAnswers": ["Inglese", "Spagnolo", "Hindi"]
+  },
+  {
+    "question": "In che anno finì la Seconda Guerra Mondiale?",
+    "correctAnswer": "1945",
+    "incorrectAnswers": ["1939", "1942", "1950"]
+  },
+  {
+    "question": "Qual è la sostanza naturale più dura sulla Terra?",
+    "correctAnswer": "Diamante",
+    "incorrectAnswers": ["Oro", "Ferro", "Quarzo"]
+  },
+  {
+    "question": "Quale paese è la patria dei canguri?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": ["Sudafrica", "India", "Brasile"]
+  },
+  {
+    "question": "Qual è la valuta del Giappone?",
+    "correctAnswer": "Yen",
+    "incorrectAnswers": ["Won", "Dollaro", "Rupia"]
+  },
+  {
+    "question": "Qual è la montagna più alta del mondo?",
+    "correctAnswer": "Monte Everest",
+    "incorrectAnswers": ["K2", "Kangchenjunga", "Lhotse"]
+  },
+  {
+    "question": "Quale scienziato ha sviluppato la teoria della relatività?",
+    "correctAnswer": "Albert Einstein",
+    "incorrectAnswers": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+  },
+  {
+    "question": "Qual è il paese più piccolo del mondo?",
+    "correctAnswer": "Città del Vaticano",
+    "incorrectAnswers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "Quale organo del corpo umano produce insulina?",
+    "correctAnswer": "Pancreas",
+    "incorrectAnswers": ["Fegato", "Reni", "Cistifellea"]
+  },
+  {
+    "question": "Quale città ha ospitato le Olimpiadi estive del 2016?",
+    "correctAnswer": "Rio de Janeiro",
+    "incorrectAnswers": ["Tokyo", "Londra", "Pechino"]
+  },
+  {
+    "question": "Qual è il fiume più lungo del mondo?",
+    "correctAnswer": "Nilo",
+    "incorrectAnswers": ["Amazzonia", "Yangtze", "Mississippi"]
+  },
+  {
+    "question": "Chi ha scritto l’opera teatrale 'Romeo e Giulietta'?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": ["Charles Dickens", "Jane Austen", "Oscar Wilde"]
+  },
+  {
+    "question": "Quale animale è conosciuto come il Re della Giungla?",
+    "correctAnswer": "Leone",
+    "incorrectAnswers": ["Tigre", "Elefante", "Gorilla"]
+  },
+  {
+    "question": "Quale gas assorbono le piante durante la fotosintesi?",
+    "correctAnswer": "Anidride carbonica",
+    "incorrectAnswers": ["Ossigeno", "Azoto", "Metano"]
+  },
+  {
+    "question": "Come si chiama l'osso più lungo del corpo umano?",
+    "correctAnswer": "Femore",
+    "incorrectAnswers": ["Tibia", "Omero", "Fibula"]
+  },
+  {
+    "question": "Quale paese ha inventato la carta?",
+    "correctAnswer": "Cina",
+    "incorrectAnswers": ["Egitto", "Grecia", "India"]
+  },
+  {
+    "question": "Qual è la lingua principale parlata in Brasile?",
+    "correctAnswer": "Portoghese",
+    "incorrectAnswers": ["Spagnolo", "Inglese", "Francese"]
+  },
+  {
+    "question": "Quale pianeta ha il maggior numero di lune?",
+    "correctAnswer": "Saturno",
+    "incorrectAnswers": ["Giove", "Marte", "Urano"]
+  },
+  {
+    "question": "In che anno cadde il Muro di Berlino?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": ["1985", "1991", "1979"]
+  },
+  {
+    "question": "Qual è l'organo interno più grande del corpo umano?",
+    "correctAnswer": "Fegato",
+    "incorrectAnswers": ["Cuore", "Polmoni", "Reni"]
+  },
+  {
+    "question": "Chi ha dipinto il soffitto della Cappella Sistina?",
+    "correctAnswer": "Michelangelo",
+    "incorrectAnswers": ["Leonardo da Vinci", "Raffaello", "Donatello"]
+  },
+  {
+    "question": "Quale paese è famoso per aver inventato la pizza?",
+    "correctAnswer": "Italia",
+    "incorrectAnswers": ["Francia", "Grecia", "Spagna"]
+  },
+  {
+    "question": "Qual è il simbolo chimico dell'oro?",
+    "correctAnswer": "Au",
+    "incorrectAnswers": ["Ag", "Fe", "Pb"]
+  },
+  {
+    "question": "Qual è il deserto più grande del mondo?",
+    "correctAnswer": "Sahara",
+    "incorrectAnswers": ["Gobi", "Kalahari", "Arabico"]
+  },
+  {
+    "question": "Qual è il pianeta più vicino al Sole?",
+    "correctAnswer": "Mercurio",
+    "incorrectAnswers": ["Venere", "Terra", "Marte"]
+  },
+  {
+    "question": "Chi è considerato il padre della fisica moderna?",
+    "correctAnswer": "Isaac Newton",
+    "incorrectAnswers": ["Albert Einstein", "Niels Bohr", "Galileo Galilei"]
+  },
+  {
+    "question": "Qual è la lingua principale parlata in Egitto?",
+    "correctAnswer": "Arabo",
+    "incorrectAnswers": ["Inglese", "Francese", "Berbero"]
+  },
+  {
+    "question": "Qual è la capitale dell'Australia?",
+    "correctAnswer": "Canberra",
+    "incorrectAnswers": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Qual è il paese più grande per superficie?",
+    "correctAnswer": "Russia",
+    "incorrectAnswers": ["Canada", "Cina", "Stati Uniti"]
+  },
+  {
+    "question": "Come si chiama la particella più piccola di un elemento?",
+    "correctAnswer": "Atomo",
+    "incorrectAnswers": ["Molecola", "Elettrone", "Ione"]
+  },
+  {
+    "question": "Quale paese ha ospitato le prime Olimpiadi moderne nel 1896?",
+    "correctAnswer": "Grecia",
+    "incorrectAnswers": ["Francia", "Regno Unito", "Italia"]
+  },
+  {
+    "question": "Quale scienziato è famoso per le leggi del moto?",
+    "correctAnswer": "Isaac Newton",
+    "incorrectAnswers": ["Albert Einstein", "Galileo Galilei", "Nikola Tesla"]
+  },
+  {
+    "question": "Quale strumento misura la pressione atmosferica?",
+    "correctAnswer": "Barometro",
+    "incorrectAnswers": ["Termometro", "Igrometro", "Anemometro"]
+  },
+  {
+    "question": "Come si chiama il sistema di barriera corallina più grande?",
+    "correctAnswer": "Grande Barriera Corallina",
+    "incorrectAnswers": ["Barriera Corallina del Belize", "Barriera del Mar Rosso", "Barriera delle Maldive"]
+  },
+  {
+    "question": "Quale uccello è noto per imitare i suoni?",
+    "correctAnswer": "Uccello lira",
+    "incorrectAnswers": ["Pappagallo", "Mockingbird", "Corvo"]
+  },
+  {
+    "question": "Qual è la principale fonte di energia per la Terra?",
+    "correctAnswer": "Il Sole",
+    "incorrectAnswers": ["La Luna", "Calore geotermico", "Vento"]
+  },
+  {
+    "question": "Qual è l'elemento più abbondante nell'atmosfera terrestre?",
+    "correctAnswer": "Azoto",
+    "incorrectAnswers": ["Ossigeno", "Anidride carbonica", "Argon"]
+  },
+  {
+    "question": "Come si chiama il primo satellite artificiale lanciato nello spazio?",
+    "correctAnswer": "Sputnik 1",
+    "incorrectAnswers": ["Apollo 11", "Explorer 1", "Voyager 1"]
+  },
+  {
+    "question": "Quale inventore è famoso per aver inventato la lampadina?",
+    "correctAnswer": "Thomas Edison",
+    "incorrectAnswers": ["Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"]
+  },
+  {
+    "question": "Qual è l'animale terrestre più veloce?",
+    "correctAnswer": "Ghepardo",
+    "incorrectAnswers": ["Leone", "Cavallo", "Antilocapra"]
+  },
+  {
+    "question": "Qual è l'ingrediente principale del pane tradizionale?",
+    "correctAnswer": "Farina",
+    "incorrectAnswers": ["Mais", "Riso", "Avena"]
+  },
+  {
+    "question": "Quale pianeta è famoso per i suoi anelli?",
+    "correctAnswer": "Saturno",
+    "incorrectAnswers": ["Giove", "Urano", "Nettuno"]
+  },
+  {
+    "question": "Quale città europea è famosa per la Torre Eiffel?",
+    "correctAnswer": "Parigi",
+    "incorrectAnswers": ["Roma", "Berlino", "Madrid"]
+  },
+  {
+    "question": "Quale lingua ha il maggior numero di madrelingua al mondo?",
+    "correctAnswer": "Cinese mandarino",
+    "incorrectAnswers": ["Inglese", "Hindi", "Spagnolo"]
+  },
+  {
+    "question": "Qual è il principale componente del nucleo terrestre?",
+    "correctAnswer": "Ferro",
+    "incorrectAnswers": ["Nichel", "Rame", "Magnesio"]
+  }
+]

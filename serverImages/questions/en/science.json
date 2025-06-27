@@ -1,32 +1,425 @@
 [
   {
-    "question": "What is the chemical symbol for water?",
-    "correctAnswer": "H2O",
-    "incorrectAnswers": ["O2", "CO2", "H2"]
+    "question": "What is the main function of mitochondria in a cell?",
+    "correctAnswer": "To produce energy through cellular respiration",
+    "incorrectAnswers": [
+      "To synthesize proteins",
+      "To control cell division",
+      "To transport oxygen"
+    ]
   },
   {
-    "question": "What planet is known as the Red Planet?",
-    "correctAnswer": "Mars",
-    "incorrectAnswers": ["Venus", "Jupiter", "Mercury"]
+    "question": "Which subatomic particle has a positive charge?",
+    "correctAnswer": "Proton",
+    "incorrectAnswers": [
+      "Electron",
+      "Neutron",
+      "Positron"
+    ]
   },
   {
-    "question": "How many bones are in the adult human body?",
-    "correctAnswer": "206",
-    "incorrectAnswers": ["201", "210", "220"]
+    "question": "Which organ regulates blood glucose levels in the human body?",
+    "correctAnswer": "Pancreas",
+    "incorrectAnswers": [
+      "Liver",
+      "Kidneys",
+      "Spleen"
+    ]
   },
   {
-    "question": "What gas do plants absorb from the atmosphere?",
+    "question": "Which Mendel's law describes the segregation of hereditary factors?",
+    "correctAnswer": "Law of Segregation",
+    "incorrectAnswers": [
+      "Law of Independent Assortment",
+      "Law of Dominance",
+      "Law of Mutation"
+    ]
+  },
+  {
+    "question": "What is the main gas responsible for the Earth's ozone layer?",
+    "correctAnswer": "Ozone",
+    "incorrectAnswers": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen"
+    ]
+  },
+  {
+    "question": "What type of chemical bond forms when two atoms share a pair of electrons?",
+    "correctAnswer": "Covalent bond",
+    "incorrectAnswers": [
+      "Ionic bond",
+      "Metallic bond",
+      "Van der Waals forces"
+    ]
+  },
+  {
+    "question": "What is the name of the process where a cell divides to form two identical daughter cells?",
+    "correctAnswer": "Mitosis",
+    "incorrectAnswers": [
+      "Meiosis",
+      "Binary fission",
+      "Apoptosis"
+    ]
+  },
+  {
+    "question": "Which scientists discovered the double helix structure of DNA?",
+    "correctAnswer": "James Watson and Francis Crick",
+    "incorrectAnswers": [
+      "Rosalind Franklin",
+      "Gregor Mendel",
+      "Louis Pasteur"
+    ]
+  },
+  {
+    "question": "What is the hardest natural mineral known?",
+    "correctAnswer": "Diamond",
+    "incorrectAnswers": [
+      "Quartz",
+      "Topaz",
+      "Corundum"
+    ]
+  },
+  {
+    "question": "Which organ produces bile in the human body?",
+    "correctAnswer": "Liver",
+    "incorrectAnswers": [
+      "Kidneys",
+      "Pancreas",
+      "Stomach"
+    ]
+  },
+  {
+    "question": "What is the main greenhouse gas responsible for global warming?",
     "correctAnswer": "Carbon dioxide",
-    "incorrectAnswers": ["Oxygen", "Nitrogen", "Hydrogen"]
+    "incorrectAnswers": [
+      "Oxygen",
+      "Nitrogen",
+      "Methane"
+    ]
   },
   {
-    "question": "What part of the cell contains DNA?",
-    "correctAnswer": "Nucleus",
-    "incorrectAnswers": ["Mitochondria", "Cytoplasm", "Cell membrane"]
+    "question": "What is the primary function of red blood cells?",
+    "correctAnswer": "To transport oxygen in the blood",
+    "incorrectAnswers": [
+      "To fight infections",
+      "To clot blood",
+      "To produce antibodies"
+    ]
   },
   {
-    "question": "What is the boiling point of water at sea level in Celsius?",
-    "correctAnswer": "100°C",
-    "incorrectAnswers": ["90°C", "80°C", "120°C"]
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+    "correctAnswer": "Photosynthesis",
+    "incorrectAnswers": [
+      "Cellular respiration",
+      "Fermentation",
+      "Oxidation"
+    ]
+  },
+  {
+    "question": "Which part of the human eye is responsible for focusing images on the retina?",
+    "correctAnswer": "Lens",
+    "incorrectAnswers": [
+      "Cornea",
+      "Iris",
+      "Pupil"
+    ]
+  },
+  {
+    "question": "What is the main component of the air we breathe?",
+    "correctAnswer": "Nitrogen",
+    "incorrectAnswers": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ]
+  },
+  {
+    "question": "Which scale is used to measure the acidity or basicity of a substance?",
+    "correctAnswer": "pH scale",
+    "incorrectAnswers": [
+      "Richter scale",
+      "Decibel scale",
+      "Kelvin scale"
+    ]
+  },
+  {
+    "question": "Which biological process produces gametes (sex cells)?",
+    "correctAnswer": "Meiosis",
+    "incorrectAnswers": [
+      "Mitosis",
+      "Binary fission",
+      "Germination"
+    ]
+  },
+  {
+    "question": "What gas do we breathe in to survive?",
+    "correctAnswer": "Oxygen",
+    "incorrectAnswers": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Helium"
+    ]
+  },
+  {
+    "question": "Which part of DNA contains genetic information?",
+    "correctAnswer": "Sequence of nitrogenous bases",
+    "incorrectAnswers": [
+      "Sugar chain",
+      "Phosphate chain",
+      "Cell membrane"
+    ]
+  },
+  {
+    "question": "What is the main element found in the core of stars?",
+    "correctAnswer": "Hydrogen",
+    "incorrectAnswers": [
+      "Oxygen",
+      "Helium",
+      "Carbon"
+    ]
+  },
+  {
+    "question": "What branch of biology studies animals?",
+    "correctAnswer": "Zoology",
+    "incorrectAnswers": [
+      "Botany",
+      "Microbiology",
+      "Ecology"
+    ]
+  },
+  {
+    "question": "What is the main organ of the human respiratory system?",
+    "correctAnswer": "Lungs",
+    "incorrectAnswers": [
+      "Heart",
+      "Liver",
+      "Kidneys"
+    ]
+  },
+  {
+    "question": "Which chemical element is represented by the symbol 'Na'?",
+    "correctAnswer": "Sodium",
+    "incorrectAnswers": [
+      "Nickel",
+      "Nitrogen",
+      "Neon"
+    ]
+  },
+  {
+    "question": "What is the primary source of energy for Earth?",
+    "correctAnswer": "The Sun",
+    "incorrectAnswers": [
+      "The Moon",
+      "The stars",
+      "Volcanoes"
+    ]
+  },
+  {
+    "question": "What is the name of the process where a substance changes from a solid to a liquid?",
+    "correctAnswer": "Melting",
+    "incorrectAnswers": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation"
+    ]
+  },
+  {
+    "question": "What is the main function of chloroplasts in plant cells?",
+    "correctAnswer": "To conduct photosynthesis",
+    "incorrectAnswers": [
+      "To store energy",
+      "To transport nutrients",
+      "To regulate pH"
+    ]
+  },
+  {
+    "question": "What is the name of the particle with a negative charge that orbits the atomic nucleus?",
+    "correctAnswer": "Electron",
+    "incorrectAnswers": [
+      "Proton",
+      "Neutron",
+      "Quark"
+    ]
+  },
+  {
+    "question": "What natural phenomenon causes the tides?",
+    "correctAnswer": "The gravitational pull of the Moon",
+    "incorrectAnswers": [
+      "Earth's rotation",
+      "Wind action",
+      "Ocean currents"
+    ]
+  },
+  {
+    "question": "What is the name of the protein responsible for oxygen transport in the blood?",
+    "correctAnswer": "Hemoglobin",
+    "incorrectAnswers": [
+      "Myosin",
+      "Collagen",
+      "Insulin"
+    ]
+  },
+  {
+    "question": "Which Newton's law states that for every action there is an equal and opposite reaction?",
+    "correctAnswer": "Newton's Third Law",
+    "incorrectAnswers": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Law of Universal Gravitation"
+    ]
+  },
+  {
+    "question": "What phenomenon explains why objects fall toward the ground?",
+    "correctAnswer": "Gravity",
+    "incorrectAnswers": [
+      "Magnetism",
+      "Centrifugal force",
+      "Air pressure"
+    ]
+  },
+  {
+    "question": "Which organ produces the hormone insulin?",
+    "correctAnswer": "Pancreas",
+    "incorrectAnswers": [
+      "Liver",
+      "Kidneys",
+      "Thyroid"
+    ]
+  },
+  {
+    "question": "What is the base structure of the central nervous system?",
+    "correctAnswer": "The brain",
+    "incorrectAnswers": [
+      "Heart",
+      "Spinal cord",
+      "Lungs"
+    ]
+  },
+  {
+    "question": "What is the main element making up the Earth's crust?",
+    "correctAnswer": "Oxygen",
+    "incorrectAnswers": [
+      "Iron",
+      "Silicon",
+      "Aluminum"
+    ]
+  },
+  {
+    "question": "Which scientist is considered the father of microbiology?",
+    "correctAnswer": "Louis Pasteur",
+    "incorrectAnswers": [
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek",
+      "Gregor Mendel"
+    ]
+  },
+  {
+    "question": "What is the main function of the digestive system?",
+    "correctAnswer": "To absorb nutrients and digest food",
+    "incorrectAnswers": [
+      "To produce hormones",
+      "To control body temperature",
+      "To filter blood"
+    ]
+  },
+  {
+    "question": "Which phenomenon explains the bending of light?",
+    "correctAnswer": "Refraction",
+    "incorrectAnswers": [
+      "Reflection",
+      "Diffraction",
+      "Absorption"
+    ]
+  },
+  {
+    "question": "Which gas is produced during alcoholic fermentation?",
+    "correctAnswer": "Carbon dioxide",
+    "incorrectAnswers": [
+      "Oxygen",
+      "Nitrogen",
+      "Methane"
+    ]
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "correctAnswer": "The cell",
+    "incorrectAnswers": [
+      "Atom",
+      "Molecule",
+      "Organ"
+    ]
+  },
+  {
+    "question": "What is the name of the scientist who developed the theory of evolution by natural selection?",
+    "correctAnswer": "Charles Darwin",
+    "incorrectAnswers": [
+      "Gregor Mendel",
+      "Albert Einstein",
+      "Isaac Newton"
+    ]
+  },
+  {
+    "question": "Which vitamin is primarily produced when the skin is exposed to sunlight?",
+    "correctAnswer": "Vitamin D",
+    "incorrectAnswers": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B12"
+    ]
+  },
+  {
+    "question": "Which organ filters waste products from the blood to produce urine?",
+    "correctAnswer": "Kidneys",
+    "incorrectAnswers": [
+      "Liver",
+      "Bladder",
+      "Lungs"
+    ]
+  },
+  {
+    "question": "Which type of blood vessels carry blood away from the heart?",
+    "correctAnswer": "Arteries",
+    "incorrectAnswers": [
+      "Veins",
+      "Capillaries",
+      "Lymph vessels"
+    ]
+  },
+  {
+    "question": "What is the basic building block of proteins?",
+    "correctAnswer": "Amino acids",
+    "incorrectAnswers": [
+      "Nucleotides",
+      "Fatty acids",
+      "Sugars"
+    ]
+  },
+  {
+    "question": "Which system in the human body is responsible for defending against infections?",
+    "correctAnswer": "Immune system",
+    "incorrectAnswers": [
+      "Digestive system",
+      "Nervous system",
+      "Endocrine system"
+    ]
+  },
+  {
+    "question": "Which planet in our solar system has the strongest gravitational pull?",
+    "correctAnswer": "Jupiter",
+    "incorrectAnswers": [
+      "Earth",
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "question": "Which scientist is credited with the discovery of penicillin?",
+    "correctAnswer": "Alexander Fleming",
+    "incorrectAnswers": [
+      "Marie Curie",
+      "Louis Pasteur",
+      "Gregor Mendel"
+    ]
   }
 ]
