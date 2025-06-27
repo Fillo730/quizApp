@@ -1,0 +1,17 @@
+---
+//Layouts
+import HtmlLayout from "../../layouts/HtmlLayout/HtmlLayout.astro";
+
+//Components
+import SignUpHandler from "../../authForms/SignUpHandler";
+
+//i18n
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<HtmlLayout title={t("SignUp.TitlePage")} lang={lang}>
+    <SignUpHandler url={Astro.url} client:only="React"/>
+</HtmlLayout>

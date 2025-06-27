@@ -25,20 +25,18 @@ function ProfileButton({url}) {
 
   function handleClick() {
     if (!loggedIn) {
-      window.location.href = `/${lang}/${t("Path.Sign-up")}`;
+      window.location.href = `/${lang}/${t("Path.Login")}`;
     } else {
       window.location.href = `/${lang}/${t("Path.Profile")}`;
     }
   }
-
-  
 
   return (
     <>
       {isVisible && (
         <div className="profile-button-container" onClick={handleClick}>
           <button className="btn">
-            {loggedIn ? "Hello " + getUsername().toUpperCase() : "You are not logged in"}
+            {loggedIn ? t("Header.LoggedInText", {username: getUsername().toUpperCase()}) : t("Header.NotLoggedInText")}
           </button>
         </div>
       )}

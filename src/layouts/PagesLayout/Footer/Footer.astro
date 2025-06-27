@@ -1,7 +1,4 @@
 ---
-//Components
-import { BackToTopButton } from '../../../components/ComponentsDepencencies';
-
 //CSSFiles
 import './Footer.css'
 
@@ -15,7 +12,6 @@ const t = useTranslations(lang);
 <footer>
     <div class="footer-container">
         <p>{t("Footer.DevelopedLabel")}</p>
-        <BackToTopButton client:load/>
         <p>{t("Footer.DevelopedData")}</p>
     </div>
 </footer>

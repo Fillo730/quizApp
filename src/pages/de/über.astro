@@ -1,0 +1,42 @@
+---
+import HtmlLayout from "../../layouts/HtmlLayout/HtmlLayout.astro";
+import PagesLayout from "../../layouts/PagesLayout/PagesLayout.astro";
+
+import { LinkedinButton, GitHubButton } from "../../components/ComponentsDepencencies";
+
+import { useTranslations, getLangFromUrl } from "../../i18n/utils";
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<HtmlLayout title={t("About.TitlePage")}>
+  <PagesLayout>
+    <div class="display-vertical">
+      
+      <div class="display-center-vertical-nogap">
+        <h1 class="title light-color">{t("About.TitleWho")}</h1>
+        <p class="text normal-max-width">
+          {t("About.Description1")}
+        </p>
+      </div>
+
+      <div class="display-center-vertical-nogap">
+        <h1 class="title light-color">{t("About.TitleSource")}</h1>
+        <p class="text normal-max-width">
+          {t("About.Description2")}
+        </p>
+        <GitHubButton client:load />
+      </div>
+
+      <div class="display-center-vertical-nogap">
+        <h1 class="title light-color">{t("About.TitleSocial")}</h1>
+        <p class="text normal-max-width">
+          {t("About.Description3")}
+        </p>
+        <LinkedinButton client:load />
+      </div>
+
+    </div>
+  </PagesLayout>
+</HtmlLayout>

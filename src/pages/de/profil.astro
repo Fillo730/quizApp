@@ -1,0 +1,20 @@
+---
+//Layouts
+import HtmlLayout from "../../layouts/HtmlLayout/HtmlLayout.astro";
+import PagesLayout from "../../layouts/PagesLayout/PagesLayout.astro";
+
+//Components
+import UserProfile from "../../profile/UserProfile";
+
+//i18n
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<HtmlLayout title={t("Profile.TitlePage")} lang={lang}>
+    <PagesLayout>
+        <UserProfile url={Astro.url} client:only="React"/>
+    </PagesLayout>
+</HtmlLayout>

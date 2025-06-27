@@ -10,6 +10,9 @@ import { getTranslatedCategories } from '../../CategoriesImages/Categories';
 //Contants
 import { SERVER_IMAGES_URL } from '../../utils/backendEndpoint';
 
+//Utils
+import { isLoggedIn } from '../../utils/loginFunctions';
+
 //i18n
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
@@ -17,7 +20,7 @@ import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 import './HandlePlayPage.css';
 
 function HandlePlayPage({ url }) {
-  const [categoryFileName, setCategoryFileName] = useState();
+  const [selectedCategory, setSelectedCategory] = useState(null);
   const [numberQuestions, setNumberQuestions] = useState(1);
   const [questions, setQuestions] = useState([]);
   const [isPlay, setIsPlay] = useState(false);
@@ -30,18 +33,19 @@ function HandlePlayPage({ url }) {
   const handleChange = (e) => {
     const { name, value } = e.target;
     if (name === 'category') {
-      setCategoryFileName(value);
+      const selected = categories.find(cat => cat.fileNameBackEnd === value);
+      setSelectedCategory(selected);
     } else if (name === 'inputNumber') {
       setNumberQuestions(value);
     }
-  }
+  };
 
   const fetchData = async () => {
     try {
       const response = await axios.get(`${SERVER_IMAGES_URL}api/questions`, {
         params: {
           lang,
-          categoryFileName,
+          categoryFileName: selectedCategory.fileNameBackEnd,
           numberQuestions
         }
       });
@@ -53,14 +57,14 @@ function HandlePlayPage({ url }) {
   };
 
   const handleClickButton = () => {
-    if( categoryFileName && numberQuestions) {
+    if (selectedCategory && numberQuestions) {
       fetchData();
     }
-  }
+  };
 
   return (
     <>
-      {!isPlay && 
+      {!isPlay &&
         <div className="display-vertical">
           <div className="custom-max-width">
             <h1 className="title light-color">
@@ -69,6 +73,7 @@ function HandlePlayPage({ url }) {
             <p className="text">
               {t("Play.HowToPlayText")}
             </p>
+            {isLoggedIn && <p className='text warning-color'>{t("Play.NotLoggedInWarningText")}</p>}
           </div>
 
           <div className="custom-max-width display-horizontal margin-top margin-bottom">
@@ -88,27 +93,36 @@ function HandlePlayPage({ url }) {
                 }
               </select>
             </div>
+
             <div>
               <h2 className="medium-title light-color">{t("Play.SelectNumberOfQuestionsTitle")}</h2>
               <p className="text">
                 {t("Play.SelectNumberOfQuestionsText")}
               </p>
-              <input name='inputNumber' type="number" className="selectNumberOfQuestions-input"
+              <input
+                name='inputNumber'
+                type="number"
+                className="selectNumberOfQuestions-input"
                 min="1"
                 max="50"
                 value={numberQuestions}
                 onChange={handleChange}
               />
             </div>
-            <CustomButton handleClick={handleClickButton} text={t("Play.PlayButtonText")}/>
+
+            <CustomButton handleClick={handleClickButton} text={t("Play.PlayButtonText")} />
           </div>
         </div>
       }
 
       {isPlay &&
-        <QuestionsList url={url} questions={questions}/>
+        <QuestionsList
+          url={url}
+          questions={questions}
+          category={selectedCategory}
+        />
       }
-      </>
+    </>
   );
 }
 

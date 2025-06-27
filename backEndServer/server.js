@@ -94,7 +94,10 @@ app.post("/api/save", async (req, res) => {
         }
 
         const { category, questionsNumber, correctQuestions } = req.body;
-        if (!category || !questionsNumber || !correctQuestions) {
+        console.log(category);
+        console.log(questionsNumber);
+        console.log(correctQuestions);
+        if (!category || questionsNumber === undefined || correctQuestions === undefined) {
             console.warn('[SAVE] Failed - Bad request');
             return res.status(400).json({ error: 'Missing required fields' });
         }
@@ -105,8 +108,8 @@ app.post("/api/save", async (req, res) => {
         }
 
         user.categories[category] = {
-            questionsNumber,
-            correctQuestions
+            totalQuestions: questionsNumber,
+            correctAnswers: correctQuestions
         };
 
         await user.save();

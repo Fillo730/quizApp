@@ -142,7 +142,7 @@ function UserProfile({ url }) {
                 <ProfileCategoryCard
                   key={index}
                   frontTitle={category.name}
-                  frontText={t("Profile.GamesPlayed", { total: stats.totalQuestions })}
+                  frontText={t("Profile.TotalQuestions", { total: stats.totalQuestions })}
                   backTitle={t("Profile.BackTitle")}
                   backText={`
                     ${t("Profile.CorrectAnswers", {
@@ -152,6 +152,11 @@ function UserProfile({ url }) {
                       wrong: stats.totalQuestions === 0
                         ? 0
                         : stats.totalQuestions - stats.correctAnswers
+                    })}<br/>
+                    ${t("Profile.Ratio", {
+                      number: stats.totalQuestions === 0
+                        ? 0
+                        : (stats.correctAnswers / stats.totalQuestions )*100
                     })}
                   `}
                 />
@@ -159,7 +164,7 @@ function UserProfile({ url }) {
             })}
           </div>
 
-          <CustomButton text={t("Profile.Logout")} handleClick={handleLogout} />
+          <CustomButton text={t("Profile.Logout")} handleClick={() => handleLogout(url)} />
 
           <Modal isOpen={isModalOpen} onClose={handleCloseModal}>
             <h2 className="medium-title light-color">{t("Profile.ModalTitle")}</h2>

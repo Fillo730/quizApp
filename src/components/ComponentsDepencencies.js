@@ -1,8 +1,11 @@
-import BackToTopButton from "./backToTopButton/BackToTopButton";
 import CustomButton from "./customButton/CustomButton";
 import CategoriesPicturesGallery from "./categoriesPicturesGallery/CategoriesPicturesGallery";
 import ProfileButton from "./profileButton/ProfileButton";
 import Modal from "./modal/modal";
-import ProfileCategoryCard from "./profileDifficultyCard/ProfileCategoryCard";
+import ProfileCategoryCard from "./profileCategoryCard/ProfileCategoryCard";
+import GitHubButton from "./gitHubButtom/GitHubButton";
+import LinkedinButton from "./linkedinButton/LinkedinButton";
 
-export { BackToTopButton, CustomButton, CategoriesPicturesGallery, ProfileButton, Modal, ProfileCategoryCard };
+export { CustomButton, CategoriesPicturesGallery, ProfileButton, Modal, ProfileCategoryCard, 
+    GitHubButton, LinkedinButton
+};

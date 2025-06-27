@@ -4,6 +4,9 @@
 //Libraries
 import { jwtDecode } from "jwt-decode";
 
+//i18n
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
 function getUsername() {
     const token = localStorage.getItem('token');
     if (!token) return null;
@@ -32,9 +35,11 @@ function isLoggedIn() {
   }
 }
 
-function handleLogout() {
+function handleLogout(url) {
+    const lang = getLangFromUrl(url);
+    const t = useTranslations(lang);
     localStorage.removeItem('token');
-    window.location.href = '/';
+    window.location.href = `/${lang}/${t("Path.Home")}`;
 }
 
 export { getUsername, isLoggedIn, handleLogout };
