@@ -374,7 +374,7 @@ export const ui = {
     "Categories.FoodAndDrink.Alt": "Bild der Kategorie Essen und Trinken",
     "Categories.FoodAndDrink.FileNameBackEnd": "essen_und_trinken.json",
 
-    "Categories.GeneralKnowledge.Title": "Allgemeinwissen",
+    "Categories.GeneralKnowledge.Title": "Allgemein-wissen",
     "Categories.GeneralKnowledge.Description": "Eine breite Mischung aus Fakten und Trivia zu allen möglichen Themenbereichen.",
     "Categories.GeneralKnowledge.Alt": "Bild der Kategorie Allgemeinwissen",
     "Categories.GeneralKnowledge.FileNameBackEnd": "allgemeinwissen.json",

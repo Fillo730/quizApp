@@ -156,7 +156,7 @@ function UserProfile({ url }) {
                     ${t("Profile.Ratio", {
                       number: stats.totalQuestions === 0
                         ? 0
-                        : (stats.correctAnswers / stats.totalQuestions )*100
+                        : ((stats.correctAnswers / stats.totalQuestions )*100).toFixed(2)
                     })}
                   `}
                 />
