@@ -73,7 +73,7 @@ function HandlePlayPage({ url }) {
             <p className="text">
               {t("Play.HowToPlayText")}
             </p>
-            {isLoggedIn && <p className='text warning-color'>{t("Play.NotLoggedInWarningText")}</p>}
+            {!isLoggedIn() && <p className='text warning-color'>{t("Play.NotLoggedInWarningText")}</p>}
           </div>
 
           <div className="custom-max-width display-horizontal margin-top margin-bottom">

@@ -23,11 +23,11 @@ function getUsername() {
 function isLoggedIn() {
   const token = localStorage.getItem('token');
   if (!token) return false;
-
+  
   try {
-    const { exp } = jwtDecode(token);
+    const decoded = jwtDecode(token);
     const now = Math.floor(Date.now() / 1000);
-    const isValid = exp && exp > now;
+    const isValid = decoded.exp && decoded.exp > now;
     return isValid;
   } catch (error) {
     console.error("Invalid token:", error);

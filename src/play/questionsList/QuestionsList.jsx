@@ -54,6 +54,7 @@ function QuestionsList({ url, questions, category }) {
   useEffect(() => {
     if (!quizFinished) return;
     if(!isLoggedIn) return;
+    console.log("cioa");
 
     const saveData = async () => {
       try {
@@ -78,7 +79,7 @@ function QuestionsList({ url, questions, category }) {
         console.error('Error saving stats:', error);
       }
     };
-
+    
     saveData();
   }, [quizFinished, history.length, correctAnswersCounter, category.backendsync]);
 
