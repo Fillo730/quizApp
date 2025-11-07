@@ -8,7 +8,6 @@ import cors from "cors";
 //Database
 import User from './database/model/user.js';
 import "./database/db.js";
-import { use } from "react";
 
 dotenv.config();
 
