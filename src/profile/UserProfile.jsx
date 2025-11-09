@@ -117,7 +117,7 @@ function UserProfile({ url }) {
   return (
     <div className="display-vertical">
       <div className="display-center-vertical-nogap">
-        <h1 className="title light-color">{t("Profile.Greeting", { username: username.toUpperCase() })}</h1>
+        <h1 className="title light-color title-under-header">{t("Profile.Greeting", { username: username.toUpperCase() })}</h1>
         <div className="normal-max-width">
           <p className="text custom-max-width">
             {t("Profile.Description")}

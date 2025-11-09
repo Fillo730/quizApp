@@ -67,7 +67,7 @@ function HandlePlayPage({ url }) {
       {!isPlay &&
         <div className="display-vertical">
           <div className="custom-max-width">
-            <h1 className="title light-color">
+            <h1 className="title light-color title-under-header">
               {t("Play.HowToPlayTitle")}
             </h1>
             <p className="text">
