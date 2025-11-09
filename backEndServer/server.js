@@ -9,6 +9,9 @@ import cors from "cors";
 import User from './database/model/user.js';
 import "./database/db.js";
 
+//Utils
+import checkAuth from "./authMiddleWare.js";
+
 dotenv.config();
 
 const app = express();
@@ -75,122 +78,83 @@ app.post("/api/login", async (req, res) => {
     res.json({ token });
 });
 
-app.post("/api/save", async (req, res) => {
-    const auth = req.headers.authorization;
-    if (!auth) {
-        console.warn('[SAVE] Failed - Missing token');
-        return res.status(401).json({ error: 'Missing token' });
+app.post("/api/save", checkAuth("[SAVE] Failed - Missing token", "[SAVE] Failed - Invalid token"), async (req, res) => {
+    const user = await User.findOne({ username: req.username });
+    if (!user) {
+        console.warn("[SAVE] Failed - User '" + req.username + "' not found");
+        return res.status(404).json({ error: "User not found" });
     }
 
-    try {
-        const token = auth.split(' ')[1];
-        const decoded = jwt.verify(token, SECRET_KEY);
-
-        const user = await User.findOne({ username: decoded.username });
-        if (!user) {
-            console.warn(`[SAVE] Failed - User '${decoded.username}' not found`);
-            return res.status(404).json({ error: 'User not found' });
-        }
-
-        const { category, questionsNumber, correctQuestions } = req.body;
-        console.log(category);
-        console.log(questionsNumber);
-        console.log(correctQuestions);
-        if (!category || questionsNumber === undefined || correctQuestions === undefined) {
-            console.warn('[SAVE] Failed - Bad request');
-            return res.status(400).json({ error: 'Missing required fields' });
-        }
-
-        if (!user.categories.hasOwnProperty(category)) {
-            console.warn(`[SAVE] Failed - Invalid category '${category}'`);
-            return res.status(400).json({ error: 'Invalid category' });
-        }
-
-        user.categories[category] = {
-            totalQuestions: questionsNumber,
-            correctAnswers: correctQuestions
-        };
-
-        await user.save();
-
-        console.log(`[SAVE] Success - Stats updated for '${decoded.username}' in category '${category}'`);
-        res.json({ message: "Stats updated successfully" });
-
-    } catch (err) {
-        console.warn('[SAVE] Failed - Invalid token');
-        return res.status(401).json({ error: 'Invalid token' });
+    const { category, questionsNumber, correctQuestions } = req.body;
+    console.log(category);
+    console.log(questionsNumber);
+    console.log(correctQuestions);
+    if (!category || questionsNumber === undefined || correctQuestions === undefined) {
+        console.warn("[SAVE] Failed - Bad request");
+        return res.status(400).json({ error: "Missing required fields" });
     }
+
+    if (!user.categories.hasOwnProperty(category)) {
+        console.warn("[SAVE] Failed - Invalid category '" + category + "'");
+        return res.status(400).json({ error: "Invalid category" });
+    }
+
+    const previousStats = user.categories[category] || { totalQuestions: 0, correctAnswers: 0 };
+
+    user.categories[category] = {
+        totalQuestions: previousStats.totalQuestions + questionsNumber,
+        correctAnswers: previousStats.correctAnswers + correctQuestions
+    };
+
+    await user.save();
+
+    console.log("[SAVE] Success - Stats updated for '" + req.username + "' in category '" + category + "'");
+    res.json({ message: "Stats updated successfully" });
 });
 
-app.put('/api/update-profile', async (req, res) => {
-  const auth = req.headers.authorization;
-  if (!auth) {
-    console.warn('[UPDATE_PROFILE] Failed - Missing token');
-    return res.status(401).json({ error: 'Missing token' });
-  }
-
-  try {
-    const token = auth.split(' ')[1];
-    const decoded = jwt.verify(token, SECRET_KEY);
+app.put('/api/update-profile', checkAuth("[UPDATE_PROFILE] Failed - Missing token", "[UPDATE_PROFILE] Failed - Invalid token"),async (req, res) => {
     const { username, firstname, lastname } = req.body;
 
-    const user = await User.findOne({ username: decoded.username });
+    const user = await User.findOne({ username: req.username });
     if (!user) {
-      console.warn(`[UPDATE_PROFILE] Failed - User '${decoded.username}' not found`);
-      return res.status(404).json({ error: 'User not found' });
+      console.warn("[UPDATE_PROFILE] Failed - User '" + req.username + "' not found");
+      return res.status(404).json({ error: "User not found" });
     }
 
     user.username = username || user.username;
     if (username) {
       const existingUser = await User.findOne({ username });
       if (existingUser && !existingUser._id.equals(user._id)) {
-        console.warn(`[UPDATE_PROFILE] Failed - Username '${username}' already taken`);
-         return res.status(400).json({ error: 'Username already taken' });
+        console.warn("[UPDATE_PROFILE] Failed - Username '" + username + "' already taken");
+        return res.status(400).json({ error: "Username already taken" });
       }
     }
 
     user.firstname = firstname || user.firstname;
     user.lastname = lastname || user.lastname;
     await user.save();
-    console.log(`[UPDATE_PROFILE] Success - Username: ${decoded.username}`);
-    const newToken = jwt.sign({ username: user.username }, SECRET_KEY, { expiresIn: '1h' });
-    res.json({ message: 'Profile updated successfully', user, token: newToken });
-  } catch (err) {
-    console.warn('[UPDATE_PROFILE] Failed - Invalid token');
-    return res.status(401).json({ error: 'Invalid token' });
-  }
+    console.log("[UPDATE_PROFILE] Success - Username: " + req.username);
+    const newToken = jwt.sign({ username: user.username }, SECRET_KEY, { expiresIn: "1h" });
+    res.json({ message: "Profile updated successfully", user, token: newToken });
 });
 
-app.get("/api/stats", async (req, res) => {
-    const auth = req.headers.authorization;
-    if(!auth) {
-        console.warn('[STATS] Failed - Missing token');
-        return res.status(401).json({ error: 'Missing token' });
+app.get("/api/stats", checkAuth("[STATS] Failed - Missing token", "[STATS] Failed - Invalid token"), async (req, res) => {
+   
+    const user = await User.findOne({ username: req.username });
+    if (!user) {
+        console.warn("[STATS] Failed - User '" + req.username + "' not found");
+        return res.status(404).json({ error: "User not found" });
     }
 
-    try {
-        const token = auth.split(' ')[1];
-        const decoded = jwt.verify(token, SECRET_KEY);
-
-        const user = await User.findOne({ username: decoded.username });
-        if (!user) {
-            console.warn(`[STATS] Failed - User '${decoded.username}' not found`);
-            return res.status(404).json({ error: 'User not found' });
-        }
-
-        res.json({
-            username: user.username,
-            firstname: user.firstname,
-            lastname: user.lastname,
-            categories: user.categories
-        });
-        console.log(`[STATS] Success - Username: ${decoded.username}`);
-  } catch {
-    console.warn('[STATS] Failed - Invalid token');
-    res.status(401).json({ error: 'Invalid token' });
-  }
+    res.json({
+        username: user.username,
+        firstname: user.firstname,
+        lastname: user.lastname,
+        categories: user.categories
+    });
+    console.log("[STATS] Success - Username: " + req.username);
 })
 
 app.listen(PORT, () => {
-    console.log(`[SERVER] Server is running on  http://localhost:${PORT}`);
+    console.log("[SERVER] Server is running on  http://localhost:" + PORT);
 });
